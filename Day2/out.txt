@@ -1,0 +1,11935 @@
+1:7b,5r;10r,7b;5b,4g,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+ NEW GAME
+:
+:7b,5r;10r,7b;5b,4g,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+7
+:7b,5r;10r,7b;5b,4g,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+7 val
+b
+:7b,5r;10r,7b;5b,4g,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+{'b': 7, 'g': 0, 'r': 0} MOST
+,
+:7b,5r;10r,7b;5b,4g,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+5
+:7b,5r;10r,7b;5b,4g,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+5 val
+r
+:7b,5r;10r,7b;5b,4g,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+{'b': 7, 'g': 0, 'r': 5} MOST
+;
+:7b,5r;10r,7b;5b,4g,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+{'b': 7, 'g': 0, 'r': 5} MOST
+1
+;10r,7b;5b,4g,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+1 val
+0
+;10r,7b;5b,4g,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+10 val
+r
+;10r,7b;5b,4g,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+{'b': 7, 'g': 0, 'r': 10} MOST
+,
+;10r,7b;5b,4g,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+7
+;10r,7b;5b,4g,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+7 val
+b
+;10r,7b;5b,4g,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+{'b': 7, 'g': 0, 'r': 10} MOST
+;
+;10r,7b;5b,4g,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+{'b': 7, 'g': 0, 'r': 10} MOST
+5
+,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+5 val
+b
+,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+{'b': 7, 'g': 0, 'r': 10} MOST
+,
+,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+4
+,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+4 val
+g
+,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+{'b': 7, 'g': 4, 'r': 10} MOST
+,
+,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+1
+,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+1 val
+5
+,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+15 val
+r
+,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+{'b': 7, 'g': 4, 'r': 15} MOST
+;
+,15r;4g,6r,7b;5g,8b,4r;5r,4b,3g
+{'b': 7, 'g': 4, 'r': 15} MOST
+4
+5r,4b,3g
+4 val
+g
+5r,4b,3g
+{'b': 7, 'g': 4, 'r': 15} MOST
+,
+5r,4b,3g
+6
+5r,4b,3g
+6 val
+r
+5r,4b,3g
+{'b': 7, 'g': 4, 'r': 15} MOST
+,
+5r,4b,3g
+7
+5r,4b,3g
+7 val
+b
+5r,4b,3g
+{'b': 7, 'g': 4, 'r': 15} MOST
+;
+5r,4b,3g
+{'b': 7, 'g': 4, 'r': 15} MOST
+5
+
+5 val
+g
+
+{'b': 7, 'g': 5, 'r': 15} MOST
+,
+
+8
+
+8 val
+b
+
+{'b': 8, 'g': 5, 'r': 15} MOST
+,
+
+4
+
+4 val
+r
+
+{'b': 8, 'g': 5, 'r': 15} MOST
+;
+
+{'b': 8, 'g': 5, 'r': 15} MOST
+5
+
+5 val
+r
+
+{'b': 8, 'g': 5, 'r': 15} MOST
+,
+
+4
+
+4 val
+b
+
+{'b': 8, 'g': 5, 'r': 15} MOST
+,
+
+3
+
+3 val
+g
+
+{'b': 8, 'g': 5, 'r': 15} MOST
+{'b': 8, 'g': 5, 'r': 15}
+8 VAL
+1 CURR
+8 NEW
+{'b': 8, 'g': 5, 'r': 15}
+5 VAL
+8 CURR
+40 NEW
+{'b': 8, 'g': 5, 'r': 15}
+15 VAL
+40 CURR
+600 NEW
+600 CURR
+2:8g,3r;7b,6r,8g;7b,3g,6r;8g,6b,11r;6b,3g,12r
+ NEW GAME
+:
+:8g,3r;7b,6r,8g;7b,3g,6r;8g,6b,11r;6b,3g,12r
+8
+:8g,3r;7b,6r,8g;7b,3g,6r;8g,6b,11r;6b,3g,12r
+8 val
+g
+:8g,3r;7b,6r,8g;7b,3g,6r;8g,6b,11r;6b,3g,12r
+{'b': 0, 'g': 8, 'r': 0} MOST
+,
+:8g,3r;7b,6r,8g;7b,3g,6r;8g,6b,11r;6b,3g,12r
+3
+:8g,3r;7b,6r,8g;7b,3g,6r;8g,6b,11r;6b,3g,12r
+3 val
+r
+:8g,3r;7b,6r,8g;7b,3g,6r;8g,6b,11r;6b,3g,12r
+{'b': 0, 'g': 8, 'r': 3} MOST
+;
+:8g,3r;7b,6r,8g;7b,3g,6r;8g,6b,11r;6b,3g,12r
+{'b': 0, 'g': 8, 'r': 3} MOST
+7
+;7b,6r,8g;7b,3g,6r;8g,6b,11r;6b,3g,12r
+7 val
+b
+;7b,6r,8g;7b,3g,6r;8g,6b,11r;6b,3g,12r
+{'b': 7, 'g': 8, 'r': 3} MOST
+,
+;7b,6r,8g;7b,3g,6r;8g,6b,11r;6b,3g,12r
+6
+;7b,6r,8g;7b,3g,6r;8g,6b,11r;6b,3g,12r
+6 val
+r
+;7b,6r,8g;7b,3g,6r;8g,6b,11r;6b,3g,12r
+{'b': 7, 'g': 8, 'r': 6} MOST
+,
+;7b,6r,8g;7b,3g,6r;8g,6b,11r;6b,3g,12r
+8
+;7b,6r,8g;7b,3g,6r;8g,6b,11r;6b,3g,12r
+8 val
+g
+;7b,6r,8g;7b,3g,6r;8g,6b,11r;6b,3g,12r
+{'b': 7, 'g': 8, 'r': 6} MOST
+;
+;7b,6r,8g;7b,3g,6r;8g,6b,11r;6b,3g,12r
+{'b': 7, 'g': 8, 'r': 6} MOST
+7
+,6r;8g,6b,11r;6b,3g,12r
+7 val
+b
+,6r;8g,6b,11r;6b,3g,12r
+{'b': 7, 'g': 8, 'r': 6} MOST
+,
+,6r;8g,6b,11r;6b,3g,12r
+3
+,6r;8g,6b,11r;6b,3g,12r
+3 val
+g
+,6r;8g,6b,11r;6b,3g,12r
+{'b': 7, 'g': 8, 'r': 6} MOST
+,
+,6r;8g,6b,11r;6b,3g,12r
+6
+,6r;8g,6b,11r;6b,3g,12r
+6 val
+r
+,6r;8g,6b,11r;6b,3g,12r
+{'b': 7, 'g': 8, 'r': 6} MOST
+;
+,6r;8g,6b,11r;6b,3g,12r
+{'b': 7, 'g': 8, 'r': 6} MOST
+8
+
+8 val
+g
+
+{'b': 7, 'g': 8, 'r': 6} MOST
+,
+
+6
+
+6 val
+b
+
+{'b': 7, 'g': 8, 'r': 6} MOST
+,
+
+1
+
+1 val
+1
+
+11 val
+r
+
+{'b': 7, 'g': 8, 'r': 11} MOST
+;
+
+{'b': 7, 'g': 8, 'r': 11} MOST
+6
+
+6 val
+b
+
+{'b': 7, 'g': 8, 'r': 11} MOST
+,
+
+3
+
+3 val
+g
+
+{'b': 7, 'g': 8, 'r': 11} MOST
+,
+
+1
+
+1 val
+2
+
+12 val
+r
+
+{'b': 7, 'g': 8, 'r': 12} MOST
+{'b': 7, 'g': 8, 'r': 12}
+7 VAL
+1 CURR
+7 NEW
+{'b': 7, 'g': 8, 'r': 12}
+8 VAL
+7 CURR
+56 NEW
+{'b': 7, 'g': 8, 'r': 12}
+12 VAL
+56 CURR
+672 NEW
+672 CURR
+3:6b,3r,7g;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+ NEW GAME
+:
+:6b,3r,7g;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+6
+:6b,3r,7g;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+6 val
+b
+:6b,3r,7g;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+{'b': 6, 'g': 0, 'r': 0} MOST
+,
+:6b,3r,7g;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+3
+:6b,3r,7g;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+3 val
+r
+:6b,3r,7g;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+{'b': 6, 'g': 0, 'r': 3} MOST
+,
+:6b,3r,7g;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+7
+:6b,3r,7g;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+7 val
+g
+:6b,3r,7g;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+{'b': 6, 'g': 7, 'r': 3} MOST
+;
+:6b,3r,7g;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+{'b': 6, 'g': 7, 'r': 3} MOST
+3
+;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+3 val
+r
+;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+{'b': 6, 'g': 7, 'r': 3} MOST
+,
+;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+3
+;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+3 val
+g
+;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+{'b': 6, 'g': 7, 'r': 3} MOST
+,
+;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+8
+;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+8 val
+b
+;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+{'b': 8, 'g': 7, 'r': 3} MOST
+;
+;3r,3g,8b;8b,11r,4g;5b,7r,6g;9b,7g,1r
+{'b': 8, 'g': 7, 'r': 3} MOST
+8
+g;5b,7r,6g;9b,7g,1r
+8 val
+b
+g;5b,7r,6g;9b,7g,1r
+{'b': 8, 'g': 7, 'r': 3} MOST
+,
+g;5b,7r,6g;9b,7g,1r
+1
+g;5b,7r,6g;9b,7g,1r
+1 val
+1
+g;5b,7r,6g;9b,7g,1r
+11 val
+r
+g;5b,7r,6g;9b,7g,1r
+{'b': 8, 'g': 7, 'r': 11} MOST
+,
+g;5b,7r,6g;9b,7g,1r
+4
+g;5b,7r,6g;9b,7g,1r
+4 val
+g
+g;5b,7r,6g;9b,7g,1r
+{'b': 8, 'g': 7, 'r': 11} MOST
+;
+g;5b,7r,6g;9b,7g,1r
+{'b': 8, 'g': 7, 'r': 11} MOST
+5
+
+5 val
+b
+
+{'b': 8, 'g': 7, 'r': 11} MOST
+,
+
+7
+
+7 val
+r
+
+{'b': 8, 'g': 7, 'r': 11} MOST
+,
+
+6
+
+6 val
+g
+
+{'b': 8, 'g': 7, 'r': 11} MOST
+;
+
+{'b': 8, 'g': 7, 'r': 11} MOST
+9
+
+9 val
+b
+
+{'b': 9, 'g': 7, 'r': 11} MOST
+,
+
+7
+
+7 val
+g
+
+{'b': 9, 'g': 7, 'r': 11} MOST
+,
+
+1
+
+1 val
+r
+
+{'b': 9, 'g': 7, 'r': 11} MOST
+{'b': 9, 'g': 7, 'r': 11}
+9 VAL
+1 CURR
+9 NEW
+{'b': 9, 'g': 7, 'r': 11}
+7 VAL
+9 CURR
+63 NEW
+{'b': 9, 'g': 7, 'r': 11}
+11 VAL
+63 CURR
+693 NEW
+693 CURR
+4:3r,4g;5r,1b;2g;3g,1b;2g,1b,1r
+ NEW GAME
+:
+:3r,4g;5r,1b;2g;3g,1b;2g,1b,1r
+3
+:3r,4g;5r,1b;2g;3g,1b;2g,1b,1r
+3 val
+r
+:3r,4g;5r,1b;2g;3g,1b;2g,1b,1r
+{'b': 0, 'g': 0, 'r': 3} MOST
+,
+:3r,4g;5r,1b;2g;3g,1b;2g,1b,1r
+4
+:3r,4g;5r,1b;2g;3g,1b;2g,1b,1r
+4 val
+g
+:3r,4g;5r,1b;2g;3g,1b;2g,1b,1r
+{'b': 0, 'g': 4, 'r': 3} MOST
+;
+:3r,4g;5r,1b;2g;3g,1b;2g,1b,1r
+{'b': 0, 'g': 4, 'r': 3} MOST
+5
+;5r,1b;2g;3g,1b;2g,1b,1r
+5 val
+r
+;5r,1b;2g;3g,1b;2g,1b,1r
+{'b': 0, 'g': 4, 'r': 5} MOST
+,
+;5r,1b;2g;3g,1b;2g,1b,1r
+1
+;5r,1b;2g;3g,1b;2g,1b,1r
+1 val
+b
+;5r,1b;2g;3g,1b;2g,1b,1r
+{'b': 1, 'g': 4, 'r': 5} MOST
+;
+;5r,1b;2g;3g,1b;2g,1b,1r
+{'b': 1, 'g': 4, 'r': 5} MOST
+2
+,1b;2g,1b,1r
+2 val
+g
+,1b;2g,1b,1r
+{'b': 1, 'g': 4, 'r': 5} MOST
+;
+,1b;2g,1b,1r
+{'b': 1, 'g': 4, 'r': 5} MOST
+3
+
+3 val
+g
+
+{'b': 1, 'g': 4, 'r': 5} MOST
+,
+
+1
+
+1 val
+b
+
+{'b': 1, 'g': 4, 'r': 5} MOST
+;
+
+{'b': 1, 'g': 4, 'r': 5} MOST
+2
+
+2 val
+g
+
+{'b': 1, 'g': 4, 'r': 5} MOST
+,
+
+1
+
+1 val
+b
+
+{'b': 1, 'g': 4, 'r': 5} MOST
+,
+
+1
+
+1 val
+r
+
+{'b': 1, 'g': 4, 'r': 5} MOST
+{'b': 1, 'g': 4, 'r': 5}
+1 VAL
+1 CURR
+1 NEW
+{'b': 1, 'g': 4, 'r': 5}
+4 VAL
+1 CURR
+4 NEW
+{'b': 1, 'g': 4, 'r': 5}
+5 VAL
+4 CURR
+20 NEW
+20 CURR
+5:17r,5b,3g;8g,9r,10b;2g,9b,4r
+ NEW GAME
+:
+:17r,5b,3g;8g,9r,10b;2g,9b,4r
+1
+:17r,5b,3g;8g,9r,10b;2g,9b,4r
+1 val
+7
+:17r,5b,3g;8g,9r,10b;2g,9b,4r
+17 val
+r
+:17r,5b,3g;8g,9r,10b;2g,9b,4r
+{'b': 0, 'g': 0, 'r': 17} MOST
+,
+:17r,5b,3g;8g,9r,10b;2g,9b,4r
+5
+:17r,5b,3g;8g,9r,10b;2g,9b,4r
+5 val
+b
+:17r,5b,3g;8g,9r,10b;2g,9b,4r
+{'b': 5, 'g': 0, 'r': 17} MOST
+,
+:17r,5b,3g;8g,9r,10b;2g,9b,4r
+3
+:17r,5b,3g;8g,9r,10b;2g,9b,4r
+3 val
+g
+:17r,5b,3g;8g,9r,10b;2g,9b,4r
+{'b': 5, 'g': 3, 'r': 17} MOST
+;
+:17r,5b,3g;8g,9r,10b;2g,9b,4r
+{'b': 5, 'g': 3, 'r': 17} MOST
+8
+;8g,9r,10b;2g,9b,4r
+8 val
+g
+;8g,9r,10b;2g,9b,4r
+{'b': 5, 'g': 8, 'r': 17} MOST
+,
+;8g,9r,10b;2g,9b,4r
+9
+;8g,9r,10b;2g,9b,4r
+9 val
+r
+;8g,9r,10b;2g,9b,4r
+{'b': 5, 'g': 8, 'r': 17} MOST
+,
+;8g,9r,10b;2g,9b,4r
+1
+;8g,9r,10b;2g,9b,4r
+1 val
+0
+;8g,9r,10b;2g,9b,4r
+10 val
+b
+;8g,9r,10b;2g,9b,4r
+{'b': 10, 'g': 8, 'r': 17} MOST
+;
+;8g,9r,10b;2g,9b,4r
+{'b': 10, 'g': 8, 'r': 17} MOST
+2
+
+2 val
+g
+
+{'b': 10, 'g': 8, 'r': 17} MOST
+,
+
+9
+
+9 val
+b
+
+{'b': 10, 'g': 8, 'r': 17} MOST
+,
+
+4
+
+4 val
+r
+
+{'b': 10, 'g': 8, 'r': 17} MOST
+{'b': 10, 'g': 8, 'r': 17}
+10 VAL
+1 CURR
+10 NEW
+{'b': 10, 'g': 8, 'r': 17}
+8 VAL
+10 CURR
+80 NEW
+{'b': 10, 'g': 8, 'r': 17}
+17 VAL
+80 CURR
+1360 NEW
+1360 CURR
+6:5b,6g,3r;1g,8b,12r;2b,13r,6g
+ NEW GAME
+:
+:5b,6g,3r;1g,8b,12r;2b,13r,6g
+5
+:5b,6g,3r;1g,8b,12r;2b,13r,6g
+5 val
+b
+:5b,6g,3r;1g,8b,12r;2b,13r,6g
+{'b': 5, 'g': 0, 'r': 0} MOST
+,
+:5b,6g,3r;1g,8b,12r;2b,13r,6g
+6
+:5b,6g,3r;1g,8b,12r;2b,13r,6g
+6 val
+g
+:5b,6g,3r;1g,8b,12r;2b,13r,6g
+{'b': 5, 'g': 6, 'r': 0} MOST
+,
+:5b,6g,3r;1g,8b,12r;2b,13r,6g
+3
+:5b,6g,3r;1g,8b,12r;2b,13r,6g
+3 val
+r
+:5b,6g,3r;1g,8b,12r;2b,13r,6g
+{'b': 5, 'g': 6, 'r': 3} MOST
+;
+:5b,6g,3r;1g,8b,12r;2b,13r,6g
+{'b': 5, 'g': 6, 'r': 3} MOST
+1
+;1g,8b,12r;2b,13r,6g
+1 val
+g
+;1g,8b,12r;2b,13r,6g
+{'b': 5, 'g': 6, 'r': 3} MOST
+,
+;1g,8b,12r;2b,13r,6g
+8
+;1g,8b,12r;2b,13r,6g
+8 val
+b
+;1g,8b,12r;2b,13r,6g
+{'b': 8, 'g': 6, 'r': 3} MOST
+,
+;1g,8b,12r;2b,13r,6g
+1
+;1g,8b,12r;2b,13r,6g
+1 val
+2
+;1g,8b,12r;2b,13r,6g
+12 val
+r
+;1g,8b,12r;2b,13r,6g
+{'b': 8, 'g': 6, 'r': 12} MOST
+;
+;1g,8b,12r;2b,13r,6g
+{'b': 8, 'g': 6, 'r': 12} MOST
+2
+g
+2 val
+b
+g
+{'b': 8, 'g': 6, 'r': 12} MOST
+,
+g
+1
+g
+1 val
+3
+g
+13 val
+r
+g
+{'b': 8, 'g': 6, 'r': 13} MOST
+,
+g
+6
+g
+6 val
+g
+g
+{'b': 8, 'g': 6, 'r': 13} MOST
+{'b': 8, 'g': 6, 'r': 13}
+8 VAL
+1 CURR
+8 NEW
+{'b': 8, 'g': 6, 'r': 13}
+6 VAL
+8 CURR
+48 NEW
+{'b': 8, 'g': 6, 'r': 13}
+13 VAL
+48 CURR
+624 NEW
+624 CURR
+7:1g,1b,6r;1r,8g;3r,8g,2b;14g,4b,4r;4g,5b;7g,2b,1r
+ NEW GAME
+:
+:1g,1b,6r;1r,8g;3r,8g,2b;14g,4b,4r;4g,5b;7g,2b,1r
+1
+:1g,1b,6r;1r,8g;3r,8g,2b;14g,4b,4r;4g,5b;7g,2b,1r
+1 val
+g
+:1g,1b,6r;1r,8g;3r,8g,2b;14g,4b,4r;4g,5b;7g,2b,1r
+{'b': 0, 'g': 1, 'r': 0} MOST
+,
+:1g,1b,6r;1r,8g;3r,8g,2b;14g,4b,4r;4g,5b;7g,2b,1r
+1
+:1g,1b,6r;1r,8g;3r,8g,2b;14g,4b,4r;4g,5b;7g,2b,1r
+1 val
+b
+:1g,1b,6r;1r,8g;3r,8g,2b;14g,4b,4r;4g,5b;7g,2b,1r
+{'b': 1, 'g': 1, 'r': 0} MOST
+,
+:1g,1b,6r;1r,8g;3r,8g,2b;14g,4b,4r;4g,5b;7g,2b,1r
+6
+:1g,1b,6r;1r,8g;3r,8g,2b;14g,4b,4r;4g,5b;7g,2b,1r
+6 val
+r
+:1g,1b,6r;1r,8g;3r,8g,2b;14g,4b,4r;4g,5b;7g,2b,1r
+{'b': 1, 'g': 1, 'r': 6} MOST
+;
+:1g,1b,6r;1r,8g;3r,8g,2b;14g,4b,4r;4g,5b;7g,2b,1r
+{'b': 1, 'g': 1, 'r': 6} MOST
+1
+;1r,8g;3r,8g,2b;14g,4b,4r;4g,5b;7g,2b,1r
+1 val
+r
+;1r,8g;3r,8g,2b;14g,4b,4r;4g,5b;7g,2b,1r
+{'b': 1, 'g': 1, 'r': 6} MOST
+,
+;1r,8g;3r,8g,2b;14g,4b,4r;4g,5b;7g,2b,1r
+8
+;1r,8g;3r,8g,2b;14g,4b,4r;4g,5b;7g,2b,1r
+8 val
+g
+;1r,8g;3r,8g,2b;14g,4b,4r;4g,5b;7g,2b,1r
+{'b': 1, 'g': 8, 'r': 6} MOST
+;
+;1r,8g;3r,8g,2b;14g,4b,4r;4g,5b;7g,2b,1r
+{'b': 1, 'g': 8, 'r': 6} MOST
+3
+;14g,4b,4r;4g,5b;7g,2b,1r
+3 val
+r
+;14g,4b,4r;4g,5b;7g,2b,1r
+{'b': 1, 'g': 8, 'r': 6} MOST
+,
+;14g,4b,4r;4g,5b;7g,2b,1r
+8
+;14g,4b,4r;4g,5b;7g,2b,1r
+8 val
+g
+;14g,4b,4r;4g,5b;7g,2b,1r
+{'b': 1, 'g': 8, 'r': 6} MOST
+,
+;14g,4b,4r;4g,5b;7g,2b,1r
+2
+;14g,4b,4r;4g,5b;7g,2b,1r
+2 val
+b
+;14g,4b,4r;4g,5b;7g,2b,1r
+{'b': 2, 'g': 8, 'r': 6} MOST
+;
+;14g,4b,4r;4g,5b;7g,2b,1r
+{'b': 2, 'g': 8, 'r': 6} MOST
+1
+r
+1 val
+4
+r
+14 val
+g
+r
+{'b': 2, 'g': 14, 'r': 6} MOST
+,
+r
+4
+r
+4 val
+b
+r
+{'b': 4, 'g': 14, 'r': 6} MOST
+,
+r
+4
+r
+4 val
+r
+r
+{'b': 4, 'g': 14, 'r': 6} MOST
+;
+r
+{'b': 4, 'g': 14, 'r': 6} MOST
+4
+
+4 val
+g
+
+{'b': 4, 'g': 14, 'r': 6} MOST
+,
+
+5
+
+5 val
+b
+
+{'b': 5, 'g': 14, 'r': 6} MOST
+;
+
+{'b': 5, 'g': 14, 'r': 6} MOST
+7
+
+7 val
+g
+
+{'b': 5, 'g': 14, 'r': 6} MOST
+,
+
+2
+
+2 val
+b
+
+{'b': 5, 'g': 14, 'r': 6} MOST
+,
+
+1
+
+1 val
+r
+
+{'b': 5, 'g': 14, 'r': 6} MOST
+{'b': 5, 'g': 14, 'r': 6}
+5 VAL
+1 CURR
+5 NEW
+{'b': 5, 'g': 14, 'r': 6}
+14 VAL
+5 CURR
+70 NEW
+{'b': 5, 'g': 14, 'r': 6}
+6 VAL
+70 CURR
+420 NEW
+420 CURR
+8:6b,9r,3g;2r,6b;2g,1r,2b;2g,9b,6r
+ NEW GAME
+:
+:6b,9r,3g;2r,6b;2g,1r,2b;2g,9b,6r
+6
+:6b,9r,3g;2r,6b;2g,1r,2b;2g,9b,6r
+6 val
+b
+:6b,9r,3g;2r,6b;2g,1r,2b;2g,9b,6r
+{'b': 6, 'g': 0, 'r': 0} MOST
+,
+:6b,9r,3g;2r,6b;2g,1r,2b;2g,9b,6r
+9
+:6b,9r,3g;2r,6b;2g,1r,2b;2g,9b,6r
+9 val
+r
+:6b,9r,3g;2r,6b;2g,1r,2b;2g,9b,6r
+{'b': 6, 'g': 0, 'r': 9} MOST
+,
+:6b,9r,3g;2r,6b;2g,1r,2b;2g,9b,6r
+3
+:6b,9r,3g;2r,6b;2g,1r,2b;2g,9b,6r
+3 val
+g
+:6b,9r,3g;2r,6b;2g,1r,2b;2g,9b,6r
+{'b': 6, 'g': 3, 'r': 9} MOST
+;
+:6b,9r,3g;2r,6b;2g,1r,2b;2g,9b,6r
+{'b': 6, 'g': 3, 'r': 9} MOST
+2
+;2r,6b;2g,1r,2b;2g,9b,6r
+2 val
+r
+;2r,6b;2g,1r,2b;2g,9b,6r
+{'b': 6, 'g': 3, 'r': 9} MOST
+,
+;2r,6b;2g,1r,2b;2g,9b,6r
+6
+;2r,6b;2g,1r,2b;2g,9b,6r
+6 val
+b
+;2r,6b;2g,1r,2b;2g,9b,6r
+{'b': 6, 'g': 3, 'r': 9} MOST
+;
+;2r,6b;2g,1r,2b;2g,9b,6r
+{'b': 6, 'g': 3, 'r': 9} MOST
+2
+;2g,9b,6r
+2 val
+g
+;2g,9b,6r
+{'b': 6, 'g': 3, 'r': 9} MOST
+,
+;2g,9b,6r
+1
+;2g,9b,6r
+1 val
+r
+;2g,9b,6r
+{'b': 6, 'g': 3, 'r': 9} MOST
+,
+;2g,9b,6r
+2
+;2g,9b,6r
+2 val
+b
+;2g,9b,6r
+{'b': 6, 'g': 3, 'r': 9} MOST
+;
+;2g,9b,6r
+{'b': 6, 'g': 3, 'r': 9} MOST
+2
+
+2 val
+g
+
+{'b': 6, 'g': 3, 'r': 9} MOST
+,
+
+9
+
+9 val
+b
+
+{'b': 9, 'g': 3, 'r': 9} MOST
+,
+
+6
+
+6 val
+r
+
+{'b': 9, 'g': 3, 'r': 9} MOST
+{'b': 9, 'g': 3, 'r': 9}
+9 VAL
+1 CURR
+9 NEW
+{'b': 9, 'g': 3, 'r': 9}
+3 VAL
+9 CURR
+27 NEW
+{'b': 9, 'g': 3, 'r': 9}
+9 VAL
+27 CURR
+243 NEW
+243 CURR
+9:5g,8b,8r;2b,6g,8r;6r,9g
+ NEW GAME
+:
+:5g,8b,8r;2b,6g,8r;6r,9g
+5
+:5g,8b,8r;2b,6g,8r;6r,9g
+5 val
+g
+:5g,8b,8r;2b,6g,8r;6r,9g
+{'b': 0, 'g': 5, 'r': 0} MOST
+,
+:5g,8b,8r;2b,6g,8r;6r,9g
+8
+:5g,8b,8r;2b,6g,8r;6r,9g
+8 val
+b
+:5g,8b,8r;2b,6g,8r;6r,9g
+{'b': 8, 'g': 5, 'r': 0} MOST
+,
+:5g,8b,8r;2b,6g,8r;6r,9g
+8
+:5g,8b,8r;2b,6g,8r;6r,9g
+8 val
+r
+:5g,8b,8r;2b,6g,8r;6r,9g
+{'b': 8, 'g': 5, 'r': 8} MOST
+;
+:5g,8b,8r;2b,6g,8r;6r,9g
+{'b': 8, 'g': 5, 'r': 8} MOST
+2
+;2b,6g,8r;6r,9g
+2 val
+b
+;2b,6g,8r;6r,9g
+{'b': 8, 'g': 5, 'r': 8} MOST
+,
+;2b,6g,8r;6r,9g
+6
+;2b,6g,8r;6r,9g
+6 val
+g
+;2b,6g,8r;6r,9g
+{'b': 8, 'g': 6, 'r': 8} MOST
+,
+;2b,6g,8r;6r,9g
+8
+;2b,6g,8r;6r,9g
+8 val
+r
+;2b,6g,8r;6r,9g
+{'b': 8, 'g': 6, 'r': 8} MOST
+;
+;2b,6g,8r;6r,9g
+{'b': 8, 'g': 6, 'r': 8} MOST
+6
+
+6 val
+r
+
+{'b': 8, 'g': 6, 'r': 8} MOST
+,
+
+9
+
+9 val
+g
+
+{'b': 8, 'g': 9, 'r': 8} MOST
+{'b': 8, 'g': 9, 'r': 8}
+8 VAL
+1 CURR
+8 NEW
+{'b': 8, 'g': 9, 'r': 8}
+9 VAL
+8 CURR
+72 NEW
+{'b': 8, 'g': 9, 'r': 8}
+8 VAL
+72 CURR
+576 NEW
+576 CURR
+10:2r,2b,12g;8g,3r;5b,11r,6g;14r,1g
+ NEW GAME
+:
+:2r,2b,12g;8g,3r;5b,11r,6g;14r,1g
+2
+:2r,2b,12g;8g,3r;5b,11r,6g;14r,1g
+2 val
+r
+:2r,2b,12g;8g,3r;5b,11r,6g;14r,1g
+{'b': 0, 'g': 0, 'r': 2} MOST
+,
+:2r,2b,12g;8g,3r;5b,11r,6g;14r,1g
+2
+:2r,2b,12g;8g,3r;5b,11r,6g;14r,1g
+2 val
+b
+:2r,2b,12g;8g,3r;5b,11r,6g;14r,1g
+{'b': 2, 'g': 0, 'r': 2} MOST
+,
+:2r,2b,12g;8g,3r;5b,11r,6g;14r,1g
+1
+:2r,2b,12g;8g,3r;5b,11r,6g;14r,1g
+1 val
+2
+:2r,2b,12g;8g,3r;5b,11r,6g;14r,1g
+12 val
+g
+:2r,2b,12g;8g,3r;5b,11r,6g;14r,1g
+{'b': 2, 'g': 12, 'r': 2} MOST
+;
+:2r,2b,12g;8g,3r;5b,11r,6g;14r,1g
+{'b': 2, 'g': 12, 'r': 2} MOST
+8
+;8g,3r;5b,11r,6g;14r,1g
+8 val
+g
+;8g,3r;5b,11r,6g;14r,1g
+{'b': 2, 'g': 12, 'r': 2} MOST
+,
+;8g,3r;5b,11r,6g;14r,1g
+3
+;8g,3r;5b,11r,6g;14r,1g
+3 val
+r
+;8g,3r;5b,11r,6g;14r,1g
+{'b': 2, 'g': 12, 'r': 3} MOST
+;
+;8g,3r;5b,11r,6g;14r,1g
+{'b': 2, 'g': 12, 'r': 3} MOST
+5
+;14r,1g
+5 val
+b
+;14r,1g
+{'b': 5, 'g': 12, 'r': 3} MOST
+,
+;14r,1g
+1
+;14r,1g
+1 val
+1
+;14r,1g
+11 val
+r
+;14r,1g
+{'b': 5, 'g': 12, 'r': 11} MOST
+,
+;14r,1g
+6
+;14r,1g
+6 val
+g
+;14r,1g
+{'b': 5, 'g': 12, 'r': 11} MOST
+;
+;14r,1g
+{'b': 5, 'g': 12, 'r': 11} MOST
+1
+
+1 val
+4
+
+14 val
+r
+
+{'b': 5, 'g': 12, 'r': 14} MOST
+,
+
+1
+
+1 val
+g
+
+{'b': 5, 'g': 12, 'r': 14} MOST
+{'b': 5, 'g': 12, 'r': 14}
+5 VAL
+1 CURR
+5 NEW
+{'b': 5, 'g': 12, 'r': 14}
+12 VAL
+5 CURR
+60 NEW
+{'b': 5, 'g': 12, 'r': 14}
+14 VAL
+60 CURR
+840 NEW
+840 CURR
+11:2g,1r,1b;4b,7r;7r,7g,5b;2b,3r,6g;3b,9r,7g
+ NEW GAME
+:
+:2g,1r,1b;4b,7r;7r,7g,5b;2b,3r,6g;3b,9r,7g
+2
+:2g,1r,1b;4b,7r;7r,7g,5b;2b,3r,6g;3b,9r,7g
+2 val
+g
+:2g,1r,1b;4b,7r;7r,7g,5b;2b,3r,6g;3b,9r,7g
+{'b': 0, 'g': 2, 'r': 0} MOST
+,
+:2g,1r,1b;4b,7r;7r,7g,5b;2b,3r,6g;3b,9r,7g
+1
+:2g,1r,1b;4b,7r;7r,7g,5b;2b,3r,6g;3b,9r,7g
+1 val
+r
+:2g,1r,1b;4b,7r;7r,7g,5b;2b,3r,6g;3b,9r,7g
+{'b': 0, 'g': 2, 'r': 1} MOST
+,
+:2g,1r,1b;4b,7r;7r,7g,5b;2b,3r,6g;3b,9r,7g
+1
+:2g,1r,1b;4b,7r;7r,7g,5b;2b,3r,6g;3b,9r,7g
+1 val
+b
+:2g,1r,1b;4b,7r;7r,7g,5b;2b,3r,6g;3b,9r,7g
+{'b': 1, 'g': 2, 'r': 1} MOST
+;
+:2g,1r,1b;4b,7r;7r,7g,5b;2b,3r,6g;3b,9r,7g
+{'b': 1, 'g': 2, 'r': 1} MOST
+4
+;4b,7r;7r,7g,5b;2b,3r,6g;3b,9r,7g
+4 val
+b
+;4b,7r;7r,7g,5b;2b,3r,6g;3b,9r,7g
+{'b': 4, 'g': 2, 'r': 1} MOST
+,
+;4b,7r;7r,7g,5b;2b,3r,6g;3b,9r,7g
+7
+;4b,7r;7r,7g,5b;2b,3r,6g;3b,9r,7g
+7 val
+r
+;4b,7r;7r,7g,5b;2b,3r,6g;3b,9r,7g
+{'b': 4, 'g': 2, 'r': 7} MOST
+;
+;4b,7r;7r,7g,5b;2b,3r,6g;3b,9r,7g
+{'b': 4, 'g': 2, 'r': 7} MOST
+7
+;2b,3r,6g;3b,9r,7g
+7 val
+r
+;2b,3r,6g;3b,9r,7g
+{'b': 4, 'g': 2, 'r': 7} MOST
+,
+;2b,3r,6g;3b,9r,7g
+7
+;2b,3r,6g;3b,9r,7g
+7 val
+g
+;2b,3r,6g;3b,9r,7g
+{'b': 4, 'g': 7, 'r': 7} MOST
+,
+;2b,3r,6g;3b,9r,7g
+5
+;2b,3r,6g;3b,9r,7g
+5 val
+b
+;2b,3r,6g;3b,9r,7g
+{'b': 5, 'g': 7, 'r': 7} MOST
+;
+;2b,3r,6g;3b,9r,7g
+{'b': 5, 'g': 7, 'r': 7} MOST
+2
+
+2 val
+b
+
+{'b': 5, 'g': 7, 'r': 7} MOST
+,
+
+3
+
+3 val
+r
+
+{'b': 5, 'g': 7, 'r': 7} MOST
+,
+
+6
+
+6 val
+g
+
+{'b': 5, 'g': 7, 'r': 7} MOST
+;
+
+{'b': 5, 'g': 7, 'r': 7} MOST
+3
+
+3 val
+b
+
+{'b': 5, 'g': 7, 'r': 7} MOST
+,
+
+9
+
+9 val
+r
+
+{'b': 5, 'g': 7, 'r': 9} MOST
+,
+
+7
+
+7 val
+g
+
+{'b': 5, 'g': 7, 'r': 9} MOST
+{'b': 5, 'g': 7, 'r': 9}
+5 VAL
+1 CURR
+5 NEW
+{'b': 5, 'g': 7, 'r': 9}
+7 VAL
+5 CURR
+35 NEW
+{'b': 5, 'g': 7, 'r': 9}
+9 VAL
+35 CURR
+315 NEW
+315 CURR
+12:9g,7r,7b;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+ NEW GAME
+:
+:9g,7r,7b;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+9
+:9g,7r,7b;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+9 val
+g
+:9g,7r,7b;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+{'b': 0, 'g': 9, 'r': 0} MOST
+,
+:9g,7r,7b;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+7
+:9g,7r,7b;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+7 val
+r
+:9g,7r,7b;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+{'b': 0, 'g': 9, 'r': 7} MOST
+,
+:9g,7r,7b;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+7
+:9g,7r,7b;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+7 val
+b
+:9g,7r,7b;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+{'b': 7, 'g': 9, 'r': 7} MOST
+;
+:9g,7r,7b;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+{'b': 7, 'g': 9, 'r': 7} MOST
+6
+;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+6 val
+g
+;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+{'b': 7, 'g': 9, 'r': 7} MOST
+,
+;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+4
+;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+4 val
+b
+;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+{'b': 7, 'g': 9, 'r': 7} MOST
+,
+;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+1
+;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+1 val
+r
+;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+{'b': 7, 'g': 9, 'r': 7} MOST
+;
+;6g,4b,1r;3b,5r,7g;9g,10r,12b;11g,5r;9b,12g,3r
+{'b': 7, 'g': 9, 'r': 7} MOST
+3
+;9g,10r,12b;11g,5r;9b,12g,3r
+3 val
+b
+;9g,10r,12b;11g,5r;9b,12g,3r
+{'b': 7, 'g': 9, 'r': 7} MOST
+,
+;9g,10r,12b;11g,5r;9b,12g,3r
+5
+;9g,10r,12b;11g,5r;9b,12g,3r
+5 val
+r
+;9g,10r,12b;11g,5r;9b,12g,3r
+{'b': 7, 'g': 9, 'r': 7} MOST
+,
+;9g,10r,12b;11g,5r;9b,12g,3r
+7
+;9g,10r,12b;11g,5r;9b,12g,3r
+7 val
+g
+;9g,10r,12b;11g,5r;9b,12g,3r
+{'b': 7, 'g': 9, 'r': 7} MOST
+;
+;9g,10r,12b;11g,5r;9b,12g,3r
+{'b': 7, 'g': 9, 'r': 7} MOST
+9
+r
+9 val
+g
+r
+{'b': 7, 'g': 9, 'r': 7} MOST
+,
+r
+1
+r
+1 val
+0
+r
+10 val
+r
+r
+{'b': 7, 'g': 9, 'r': 10} MOST
+,
+r
+1
+r
+1 val
+2
+r
+12 val
+b
+r
+{'b': 12, 'g': 9, 'r': 10} MOST
+;
+r
+{'b': 12, 'g': 9, 'r': 10} MOST
+1
+
+1 val
+1
+
+11 val
+g
+
+{'b': 12, 'g': 11, 'r': 10} MOST
+,
+
+5
+
+5 val
+r
+
+{'b': 12, 'g': 11, 'r': 10} MOST
+;
+
+{'b': 12, 'g': 11, 'r': 10} MOST
+9
+
+9 val
+b
+
+{'b': 12, 'g': 11, 'r': 10} MOST
+,
+
+1
+
+1 val
+2
+
+12 val
+g
+
+{'b': 12, 'g': 12, 'r': 10} MOST
+,
+
+3
+
+3 val
+r
+
+{'b': 12, 'g': 12, 'r': 10} MOST
+{'b': 12, 'g': 12, 'r': 10}
+12 VAL
+1 CURR
+12 NEW
+{'b': 12, 'g': 12, 'r': 10}
+12 VAL
+12 CURR
+144 NEW
+{'b': 12, 'g': 12, 'r': 10}
+10 VAL
+144 CURR
+1440 NEW
+1440 CURR
+13:7b,7r,2g;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+ NEW GAME
+:
+:7b,7r,2g;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+7
+:7b,7r,2g;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+7 val
+b
+:7b,7r,2g;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+{'b': 7, 'g': 0, 'r': 0} MOST
+,
+:7b,7r,2g;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+7
+:7b,7r,2g;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+7 val
+r
+:7b,7r,2g;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+{'b': 7, 'g': 0, 'r': 7} MOST
+,
+:7b,7r,2g;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+2
+:7b,7r,2g;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+2 val
+g
+:7b,7r,2g;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+{'b': 7, 'g': 2, 'r': 7} MOST
+;
+:7b,7r,2g;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+{'b': 7, 'g': 2, 'r': 7} MOST
+5
+;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+5 val
+b
+;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+{'b': 7, 'g': 2, 'r': 7} MOST
+,
+;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+5
+;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+5 val
+g
+;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+{'b': 7, 'g': 5, 'r': 7} MOST
+,
+;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+7
+;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+7 val
+r
+;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+{'b': 7, 'g': 5, 'r': 7} MOST
+;
+;5b,5g,7r;1b,10r;11r,2b,1g;1g,1b,4r
+{'b': 7, 'g': 5, 'r': 7} MOST
+1
+1r,2b,1g;1g,1b,4r
+1 val
+b
+1r,2b,1g;1g,1b,4r
+{'b': 7, 'g': 5, 'r': 7} MOST
+,
+1r,2b,1g;1g,1b,4r
+1
+1r,2b,1g;1g,1b,4r
+1 val
+0
+1r,2b,1g;1g,1b,4r
+10 val
+r
+1r,2b,1g;1g,1b,4r
+{'b': 7, 'g': 5, 'r': 10} MOST
+;
+1r,2b,1g;1g,1b,4r
+{'b': 7, 'g': 5, 'r': 10} MOST
+1
+
+1 val
+1
+
+11 val
+r
+
+{'b': 7, 'g': 5, 'r': 11} MOST
+,
+
+2
+
+2 val
+b
+
+{'b': 7, 'g': 5, 'r': 11} MOST
+,
+
+1
+
+1 val
+g
+
+{'b': 7, 'g': 5, 'r': 11} MOST
+;
+
+{'b': 7, 'g': 5, 'r': 11} MOST
+1
+
+1 val
+g
+
+{'b': 7, 'g': 5, 'r': 11} MOST
+,
+
+1
+
+1 val
+b
+
+{'b': 7, 'g': 5, 'r': 11} MOST
+,
+
+4
+
+4 val
+r
+
+{'b': 7, 'g': 5, 'r': 11} MOST
+{'b': 7, 'g': 5, 'r': 11}
+7 VAL
+1 CURR
+7 NEW
+{'b': 7, 'g': 5, 'r': 11}
+5 VAL
+7 CURR
+35 NEW
+{'b': 7, 'g': 5, 'r': 11}
+11 VAL
+35 CURR
+385 NEW
+385 CURR
+14:2b,10r;3b,6g,17r;3g,4b,14r
+ NEW GAME
+:
+:2b,10r;3b,6g,17r;3g,4b,14r
+2
+:2b,10r;3b,6g,17r;3g,4b,14r
+2 val
+b
+:2b,10r;3b,6g,17r;3g,4b,14r
+{'b': 2, 'g': 0, 'r': 0} MOST
+,
+:2b,10r;3b,6g,17r;3g,4b,14r
+1
+:2b,10r;3b,6g,17r;3g,4b,14r
+1 val
+0
+:2b,10r;3b,6g,17r;3g,4b,14r
+10 val
+r
+:2b,10r;3b,6g,17r;3g,4b,14r
+{'b': 2, 'g': 0, 'r': 10} MOST
+;
+:2b,10r;3b,6g,17r;3g,4b,14r
+{'b': 2, 'g': 0, 'r': 10} MOST
+3
+;3b,6g,17r;3g,4b,14r
+3 val
+b
+;3b,6g,17r;3g,4b,14r
+{'b': 3, 'g': 0, 'r': 10} MOST
+,
+;3b,6g,17r;3g,4b,14r
+6
+;3b,6g,17r;3g,4b,14r
+6 val
+g
+;3b,6g,17r;3g,4b,14r
+{'b': 3, 'g': 6, 'r': 10} MOST
+,
+;3b,6g,17r;3g,4b,14r
+1
+;3b,6g,17r;3g,4b,14r
+1 val
+7
+;3b,6g,17r;3g,4b,14r
+17 val
+r
+;3b,6g,17r;3g,4b,14r
+{'b': 3, 'g': 6, 'r': 17} MOST
+;
+;3b,6g,17r;3g,4b,14r
+{'b': 3, 'g': 6, 'r': 17} MOST
+3
+14r
+3 val
+g
+14r
+{'b': 3, 'g': 6, 'r': 17} MOST
+,
+14r
+4
+14r
+4 val
+b
+14r
+{'b': 4, 'g': 6, 'r': 17} MOST
+,
+14r
+1
+14r
+1 val
+4
+14r
+14 val
+r
+14r
+{'b': 4, 'g': 6, 'r': 17} MOST
+{'b': 4, 'g': 6, 'r': 17}
+4 VAL
+1 CURR
+4 NEW
+{'b': 4, 'g': 6, 'r': 17}
+6 VAL
+4 CURR
+24 NEW
+{'b': 4, 'g': 6, 'r': 17}
+17 VAL
+24 CURR
+408 NEW
+408 CURR
+15:7b,2g,4r;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+ NEW GAME
+:
+:7b,2g,4r;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+7
+:7b,2g,4r;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+7 val
+b
+:7b,2g,4r;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+{'b': 7, 'g': 0, 'r': 0} MOST
+,
+:7b,2g,4r;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+2
+:7b,2g,4r;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+2 val
+g
+:7b,2g,4r;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+{'b': 7, 'g': 2, 'r': 0} MOST
+,
+:7b,2g,4r;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+4
+:7b,2g,4r;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+4 val
+r
+:7b,2g,4r;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+{'b': 7, 'g': 2, 'r': 4} MOST
+;
+:7b,2g,4r;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+{'b': 7, 'g': 2, 'r': 4} MOST
+7
+;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+7 val
+b
+;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+{'b': 7, 'g': 2, 'r': 4} MOST
+,
+;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+3
+;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+3 val
+r
+;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+{'b': 7, 'g': 2, 'r': 4} MOST
+,
+;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+3
+;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+3 val
+g
+;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+{'b': 7, 'g': 3, 'r': 4} MOST
+;
+;7b,3r,3g;4r,2g,1b;2r,9g,5b;2r,4g,5b
+{'b': 7, 'g': 3, 'r': 4} MOST
+4
+;2r,9g,5b;2r,4g,5b
+4 val
+r
+;2r,9g,5b;2r,4g,5b
+{'b': 7, 'g': 3, 'r': 4} MOST
+,
+;2r,9g,5b;2r,4g,5b
+2
+;2r,9g,5b;2r,4g,5b
+2 val
+g
+;2r,9g,5b;2r,4g,5b
+{'b': 7, 'g': 3, 'r': 4} MOST
+,
+;2r,9g,5b;2r,4g,5b
+1
+;2r,9g,5b;2r,4g,5b
+1 val
+b
+;2r,9g,5b;2r,4g,5b
+{'b': 7, 'g': 3, 'r': 4} MOST
+;
+;2r,9g,5b;2r,4g,5b
+{'b': 7, 'g': 3, 'r': 4} MOST
+2
+
+2 val
+r
+
+{'b': 7, 'g': 3, 'r': 4} MOST
+,
+
+9
+
+9 val
+g
+
+{'b': 7, 'g': 9, 'r': 4} MOST
+,
+
+5
+
+5 val
+b
+
+{'b': 7, 'g': 9, 'r': 4} MOST
+;
+
+{'b': 7, 'g': 9, 'r': 4} MOST
+2
+
+2 val
+r
+
+{'b': 7, 'g': 9, 'r': 4} MOST
+,
+
+4
+
+4 val
+g
+
+{'b': 7, 'g': 9, 'r': 4} MOST
+,
+
+5
+
+5 val
+b
+
+{'b': 7, 'g': 9, 'r': 4} MOST
+{'b': 7, 'g': 9, 'r': 4}
+7 VAL
+1 CURR
+7 NEW
+{'b': 7, 'g': 9, 'r': 4}
+9 VAL
+7 CURR
+63 NEW
+{'b': 7, 'g': 9, 'r': 4}
+4 VAL
+63 CURR
+252 NEW
+252 CURR
+16:5b,1r;8b,1g;5g,3b,2r;8b,2g;2r,2b,5g
+ NEW GAME
+:
+:5b,1r;8b,1g;5g,3b,2r;8b,2g;2r,2b,5g
+5
+:5b,1r;8b,1g;5g,3b,2r;8b,2g;2r,2b,5g
+5 val
+b
+:5b,1r;8b,1g;5g,3b,2r;8b,2g;2r,2b,5g
+{'b': 5, 'g': 0, 'r': 0} MOST
+,
+:5b,1r;8b,1g;5g,3b,2r;8b,2g;2r,2b,5g
+1
+:5b,1r;8b,1g;5g,3b,2r;8b,2g;2r,2b,5g
+1 val
+r
+:5b,1r;8b,1g;5g,3b,2r;8b,2g;2r,2b,5g
+{'b': 5, 'g': 0, 'r': 1} MOST
+;
+:5b,1r;8b,1g;5g,3b,2r;8b,2g;2r,2b,5g
+{'b': 5, 'g': 0, 'r': 1} MOST
+8
+;8b,1g;5g,3b,2r;8b,2g;2r,2b,5g
+8 val
+b
+;8b,1g;5g,3b,2r;8b,2g;2r,2b,5g
+{'b': 8, 'g': 0, 'r': 1} MOST
+,
+;8b,1g;5g,3b,2r;8b,2g;2r,2b,5g
+1
+;8b,1g;5g,3b,2r;8b,2g;2r,2b,5g
+1 val
+g
+;8b,1g;5g,3b,2r;8b,2g;2r,2b,5g
+{'b': 8, 'g': 1, 'r': 1} MOST
+;
+;8b,1g;5g,3b,2r;8b,2g;2r,2b,5g
+{'b': 8, 'g': 1, 'r': 1} MOST
+5
+,2r;8b,2g;2r,2b,5g
+5 val
+g
+,2r;8b,2g;2r,2b,5g
+{'b': 8, 'g': 5, 'r': 1} MOST
+,
+,2r;8b,2g;2r,2b,5g
+3
+,2r;8b,2g;2r,2b,5g
+3 val
+b
+,2r;8b,2g;2r,2b,5g
+{'b': 8, 'g': 5, 'r': 1} MOST
+,
+,2r;8b,2g;2r,2b,5g
+2
+,2r;8b,2g;2r,2b,5g
+2 val
+r
+,2r;8b,2g;2r,2b,5g
+{'b': 8, 'g': 5, 'r': 2} MOST
+;
+,2r;8b,2g;2r,2b,5g
+{'b': 8, 'g': 5, 'r': 2} MOST
+8
+
+8 val
+b
+
+{'b': 8, 'g': 5, 'r': 2} MOST
+,
+
+2
+
+2 val
+g
+
+{'b': 8, 'g': 5, 'r': 2} MOST
+;
+
+{'b': 8, 'g': 5, 'r': 2} MOST
+2
+
+2 val
+r
+
+{'b': 8, 'g': 5, 'r': 2} MOST
+,
+
+2
+
+2 val
+b
+
+{'b': 8, 'g': 5, 'r': 2} MOST
+,
+
+5
+
+5 val
+g
+
+{'b': 8, 'g': 5, 'r': 2} MOST
+{'b': 8, 'g': 5, 'r': 2}
+8 VAL
+1 CURR
+8 NEW
+{'b': 8, 'g': 5, 'r': 2}
+5 VAL
+8 CURR
+40 NEW
+{'b': 8, 'g': 5, 'r': 2}
+2 VAL
+40 CURR
+80 NEW
+80 CURR
+17:2b,5r;7r,1b;2b,2g,3r;3b,2r,1g;5g,7r;6r,3g
+ NEW GAME
+:
+:2b,5r;7r,1b;2b,2g,3r;3b,2r,1g;5g,7r;6r,3g
+2
+:2b,5r;7r,1b;2b,2g,3r;3b,2r,1g;5g,7r;6r,3g
+2 val
+b
+:2b,5r;7r,1b;2b,2g,3r;3b,2r,1g;5g,7r;6r,3g
+{'b': 2, 'g': 0, 'r': 0} MOST
+,
+:2b,5r;7r,1b;2b,2g,3r;3b,2r,1g;5g,7r;6r,3g
+5
+:2b,5r;7r,1b;2b,2g,3r;3b,2r,1g;5g,7r;6r,3g
+5 val
+r
+:2b,5r;7r,1b;2b,2g,3r;3b,2r,1g;5g,7r;6r,3g
+{'b': 2, 'g': 0, 'r': 5} MOST
+;
+:2b,5r;7r,1b;2b,2g,3r;3b,2r,1g;5g,7r;6r,3g
+{'b': 2, 'g': 0, 'r': 5} MOST
+7
+;7r,1b;2b,2g,3r;3b,2r,1g;5g,7r;6r,3g
+7 val
+r
+;7r,1b;2b,2g,3r;3b,2r,1g;5g,7r;6r,3g
+{'b': 2, 'g': 0, 'r': 7} MOST
+,
+;7r,1b;2b,2g,3r;3b,2r,1g;5g,7r;6r,3g
+1
+;7r,1b;2b,2g,3r;3b,2r,1g;5g,7r;6r,3g
+1 val
+b
+;7r,1b;2b,2g,3r;3b,2r,1g;5g,7r;6r,3g
+{'b': 2, 'g': 0, 'r': 7} MOST
+;
+;7r,1b;2b,2g,3r;3b,2r,1g;5g,7r;6r,3g
+{'b': 2, 'g': 0, 'r': 7} MOST
+2
+,3r;3b,2r,1g;5g,7r;6r,3g
+2 val
+b
+,3r;3b,2r,1g;5g,7r;6r,3g
+{'b': 2, 'g': 0, 'r': 7} MOST
+,
+,3r;3b,2r,1g;5g,7r;6r,3g
+2
+,3r;3b,2r,1g;5g,7r;6r,3g
+2 val
+g
+,3r;3b,2r,1g;5g,7r;6r,3g
+{'b': 2, 'g': 2, 'r': 7} MOST
+,
+,3r;3b,2r,1g;5g,7r;6r,3g
+3
+,3r;3b,2r,1g;5g,7r;6r,3g
+3 val
+r
+,3r;3b,2r,1g;5g,7r;6r,3g
+{'b': 2, 'g': 2, 'r': 7} MOST
+;
+,3r;3b,2r,1g;5g,7r;6r,3g
+{'b': 2, 'g': 2, 'r': 7} MOST
+3
+,3g
+3 val
+b
+,3g
+{'b': 3, 'g': 2, 'r': 7} MOST
+,
+,3g
+2
+,3g
+2 val
+r
+,3g
+{'b': 3, 'g': 2, 'r': 7} MOST
+,
+,3g
+1
+,3g
+1 val
+g
+,3g
+{'b': 3, 'g': 2, 'r': 7} MOST
+;
+,3g
+{'b': 3, 'g': 2, 'r': 7} MOST
+5
+
+5 val
+g
+
+{'b': 3, 'g': 5, 'r': 7} MOST
+,
+
+7
+
+7 val
+r
+
+{'b': 3, 'g': 5, 'r': 7} MOST
+;
+
+{'b': 3, 'g': 5, 'r': 7} MOST
+6
+
+6 val
+r
+
+{'b': 3, 'g': 5, 'r': 7} MOST
+,
+
+3
+
+3 val
+g
+
+{'b': 3, 'g': 5, 'r': 7} MOST
+{'b': 3, 'g': 5, 'r': 7}
+3 VAL
+1 CURR
+3 NEW
+{'b': 3, 'g': 5, 'r': 7}
+5 VAL
+3 CURR
+15 NEW
+{'b': 3, 'g': 5, 'r': 7}
+7 VAL
+15 CURR
+105 NEW
+105 CURR
+18:4b,1r,14g;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+ NEW GAME
+:
+:4b,1r,14g;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+4
+:4b,1r,14g;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+4 val
+b
+:4b,1r,14g;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+{'b': 4, 'g': 0, 'r': 0} MOST
+,
+:4b,1r,14g;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+1
+:4b,1r,14g;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+1 val
+r
+:4b,1r,14g;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+{'b': 4, 'g': 0, 'r': 1} MOST
+,
+:4b,1r,14g;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+1
+:4b,1r,14g;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+1 val
+4
+:4b,1r,14g;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+14 val
+g
+:4b,1r,14g;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+{'b': 4, 'g': 14, 'r': 1} MOST
+;
+:4b,1r,14g;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+{'b': 4, 'g': 14, 'r': 1} MOST
+8
+;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+8 val
+r
+;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+{'b': 4, 'g': 14, 'r': 8} MOST
+,
+;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+4
+;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+4 val
+b
+;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+{'b': 4, 'g': 14, 'r': 8} MOST
+,
+;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+1
+;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+1 val
+4
+;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+14 val
+g
+;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+{'b': 4, 'g': 14, 'r': 8} MOST
+;
+;8r,4b,14g;6r,11b,10g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+{'b': 4, 'g': 14, 'r': 8} MOST
+6
+g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+6 val
+r
+g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+{'b': 4, 'g': 14, 'r': 8} MOST
+,
+g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+1
+g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+1 val
+1
+g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+11 val
+b
+g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+{'b': 11, 'g': 14, 'r': 8} MOST
+,
+g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+1
+g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+1 val
+0
+g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+10 val
+g
+g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+{'b': 11, 'g': 14, 'r': 8} MOST
+;
+g;5b,2g,3r;16g,10b,2r;6r,4b,12g
+{'b': 11, 'g': 14, 'r': 8} MOST
+5
+
+5 val
+b
+
+{'b': 11, 'g': 14, 'r': 8} MOST
+,
+
+2
+
+2 val
+g
+
+{'b': 11, 'g': 14, 'r': 8} MOST
+,
+
+3
+
+3 val
+r
+
+{'b': 11, 'g': 14, 'r': 8} MOST
+;
+
+{'b': 11, 'g': 14, 'r': 8} MOST
+1
+
+1 val
+6
+
+16 val
+g
+
+{'b': 11, 'g': 16, 'r': 8} MOST
+,
+
+1
+
+1 val
+0
+
+10 val
+b
+
+{'b': 11, 'g': 16, 'r': 8} MOST
+,
+
+2
+
+2 val
+r
+
+{'b': 11, 'g': 16, 'r': 8} MOST
+;
+
+{'b': 11, 'g': 16, 'r': 8} MOST
+6
+
+6 val
+r
+
+{'b': 11, 'g': 16, 'r': 8} MOST
+,
+
+4
+
+4 val
+b
+
+{'b': 11, 'g': 16, 'r': 8} MOST
+,
+
+1
+
+1 val
+2
+
+12 val
+g
+
+{'b': 11, 'g': 16, 'r': 8} MOST
+{'b': 11, 'g': 16, 'r': 8}
+11 VAL
+1 CURR
+11 NEW
+{'b': 11, 'g': 16, 'r': 8}
+16 VAL
+11 CURR
+176 NEW
+{'b': 11, 'g': 16, 'r': 8}
+8 VAL
+176 CURR
+1408 NEW
+1408 CURR
+19:10g,12r,12b;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+ NEW GAME
+:
+:10g,12r,12b;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+1
+:10g,12r,12b;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+1 val
+0
+:10g,12r,12b;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+10 val
+g
+:10g,12r,12b;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+{'b': 0, 'g': 10, 'r': 0} MOST
+,
+:10g,12r,12b;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+1
+:10g,12r,12b;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+1 val
+2
+:10g,12r,12b;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+12 val
+r
+:10g,12r,12b;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+{'b': 0, 'g': 10, 'r': 12} MOST
+,
+:10g,12r,12b;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+1
+:10g,12r,12b;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+1 val
+2
+:10g,12r,12b;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+12 val
+b
+:10g,12r,12b;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+{'b': 12, 'g': 10, 'r': 12} MOST
+;
+:10g,12r,12b;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+{'b': 12, 'g': 10, 'r': 12} MOST
+5
+;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+5 val
+b
+;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+{'b': 12, 'g': 10, 'r': 12} MOST
+,
+;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+1
+;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+1 val
+2
+;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+12 val
+r
+;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+{'b': 12, 'g': 10, 'r': 12} MOST
+,
+;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+7
+;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+7 val
+g
+;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+{'b': 12, 'g': 10, 'r': 12} MOST
+;
+;5b,12r,7g;15r,8b,6g;13g,1r,10b;4b,8r,9g;16r,7g,3b
+{'b': 12, 'g': 10, 'r': 12} MOST
+1
+3g,1r,10b;4b,8r,9g;16r,7g,3b
+1 val
+5
+3g,1r,10b;4b,8r,9g;16r,7g,3b
+15 val
+r
+3g,1r,10b;4b,8r,9g;16r,7g,3b
+{'b': 12, 'g': 10, 'r': 15} MOST
+,
+3g,1r,10b;4b,8r,9g;16r,7g,3b
+8
+3g,1r,10b;4b,8r,9g;16r,7g,3b
+8 val
+b
+3g,1r,10b;4b,8r,9g;16r,7g,3b
+{'b': 12, 'g': 10, 'r': 15} MOST
+,
+3g,1r,10b;4b,8r,9g;16r,7g,3b
+6
+3g,1r,10b;4b,8r,9g;16r,7g,3b
+6 val
+g
+3g,1r,10b;4b,8r,9g;16r,7g,3b
+{'b': 12, 'g': 10, 'r': 15} MOST
+;
+3g,1r,10b;4b,8r,9g;16r,7g,3b
+{'b': 12, 'g': 10, 'r': 15} MOST
+1
+
+1 val
+3
+
+13 val
+g
+
+{'b': 12, 'g': 13, 'r': 15} MOST
+,
+
+1
+
+1 val
+r
+
+{'b': 12, 'g': 13, 'r': 15} MOST
+,
+
+1
+
+1 val
+0
+
+10 val
+b
+
+{'b': 12, 'g': 13, 'r': 15} MOST
+;
+
+{'b': 12, 'g': 13, 'r': 15} MOST
+4
+
+4 val
+b
+
+{'b': 12, 'g': 13, 'r': 15} MOST
+,
+
+8
+
+8 val
+r
+
+{'b': 12, 'g': 13, 'r': 15} MOST
+,
+
+9
+
+9 val
+g
+
+{'b': 12, 'g': 13, 'r': 15} MOST
+;
+
+{'b': 12, 'g': 13, 'r': 15} MOST
+1
+
+1 val
+6
+
+16 val
+r
+
+{'b': 12, 'g': 13, 'r': 16} MOST
+,
+
+7
+
+7 val
+g
+
+{'b': 12, 'g': 13, 'r': 16} MOST
+,
+
+3
+
+3 val
+b
+
+{'b': 12, 'g': 13, 'r': 16} MOST
+{'b': 12, 'g': 13, 'r': 16}
+12 VAL
+1 CURR
+12 NEW
+{'b': 12, 'g': 13, 'r': 16}
+13 VAL
+12 CURR
+156 NEW
+{'b': 12, 'g': 13, 'r': 16}
+16 VAL
+156 CURR
+2496 NEW
+2496 CURR
+20:10b,9g;9b,1r,3g;11b;6b;8b,10g
+ NEW GAME
+:
+:10b,9g;9b,1r,3g;11b;6b;8b,10g
+1
+:10b,9g;9b,1r,3g;11b;6b;8b,10g
+1 val
+0
+:10b,9g;9b,1r,3g;11b;6b;8b,10g
+10 val
+b
+:10b,9g;9b,1r,3g;11b;6b;8b,10g
+{'b': 10, 'g': 0, 'r': 0} MOST
+,
+:10b,9g;9b,1r,3g;11b;6b;8b,10g
+9
+:10b,9g;9b,1r,3g;11b;6b;8b,10g
+9 val
+g
+:10b,9g;9b,1r,3g;11b;6b;8b,10g
+{'b': 10, 'g': 9, 'r': 0} MOST
+;
+:10b,9g;9b,1r,3g;11b;6b;8b,10g
+{'b': 10, 'g': 9, 'r': 0} MOST
+9
+;9b,1r,3g;11b;6b;8b,10g
+9 val
+b
+;9b,1r,3g;11b;6b;8b,10g
+{'b': 10, 'g': 9, 'r': 0} MOST
+,
+;9b,1r,3g;11b;6b;8b,10g
+1
+;9b,1r,3g;11b;6b;8b,10g
+1 val
+r
+;9b,1r,3g;11b;6b;8b,10g
+{'b': 10, 'g': 9, 'r': 1} MOST
+,
+;9b,1r,3g;11b;6b;8b,10g
+3
+;9b,1r,3g;11b;6b;8b,10g
+3 val
+g
+;9b,1r,3g;11b;6b;8b,10g
+{'b': 10, 'g': 9, 'r': 1} MOST
+;
+;9b,1r,3g;11b;6b;8b,10g
+{'b': 10, 'g': 9, 'r': 1} MOST
+1
+;8b,10g
+1 val
+1
+;8b,10g
+11 val
+b
+;8b,10g
+{'b': 11, 'g': 9, 'r': 1} MOST
+;
+;8b,10g
+{'b': 11, 'g': 9, 'r': 1} MOST
+6
+
+6 val
+b
+
+{'b': 11, 'g': 9, 'r': 1} MOST
+;
+
+{'b': 11, 'g': 9, 'r': 1} MOST
+8
+
+8 val
+b
+
+{'b': 11, 'g': 9, 'r': 1} MOST
+,
+
+1
+
+1 val
+0
+
+10 val
+g
+
+{'b': 11, 'g': 10, 'r': 1} MOST
+{'b': 11, 'g': 10, 'r': 1}
+11 VAL
+1 CURR
+11 NEW
+{'b': 11, 'g': 10, 'r': 1}
+10 VAL
+11 CURR
+110 NEW
+{'b': 11, 'g': 10, 'r': 1}
+1 VAL
+110 CURR
+110 NEW
+110 CURR
+21:4b,4r;1g,3r,3b;4b,1g,2r
+ NEW GAME
+:
+:4b,4r;1g,3r,3b;4b,1g,2r
+4
+:4b,4r;1g,3r,3b;4b,1g,2r
+4 val
+b
+:4b,4r;1g,3r,3b;4b,1g,2r
+{'b': 4, 'g': 0, 'r': 0} MOST
+,
+:4b,4r;1g,3r,3b;4b,1g,2r
+4
+:4b,4r;1g,3r,3b;4b,1g,2r
+4 val
+r
+:4b,4r;1g,3r,3b;4b,1g,2r
+{'b': 4, 'g': 0, 'r': 4} MOST
+;
+:4b,4r;1g,3r,3b;4b,1g,2r
+{'b': 4, 'g': 0, 'r': 4} MOST
+1
+;1g,3r,3b;4b,1g,2r
+1 val
+g
+;1g,3r,3b;4b,1g,2r
+{'b': 4, 'g': 1, 'r': 4} MOST
+,
+;1g,3r,3b;4b,1g,2r
+3
+;1g,3r,3b;4b,1g,2r
+3 val
+r
+;1g,3r,3b;4b,1g,2r
+{'b': 4, 'g': 1, 'r': 4} MOST
+,
+;1g,3r,3b;4b,1g,2r
+3
+;1g,3r,3b;4b,1g,2r
+3 val
+b
+;1g,3r,3b;4b,1g,2r
+{'b': 4, 'g': 1, 'r': 4} MOST
+;
+;1g,3r,3b;4b,1g,2r
+{'b': 4, 'g': 1, 'r': 4} MOST
+4
+,2r
+4 val
+b
+,2r
+{'b': 4, 'g': 1, 'r': 4} MOST
+,
+,2r
+1
+,2r
+1 val
+g
+,2r
+{'b': 4, 'g': 1, 'r': 4} MOST
+,
+,2r
+2
+,2r
+2 val
+r
+,2r
+{'b': 4, 'g': 1, 'r': 4} MOST
+{'b': 4, 'g': 1, 'r': 4}
+4 VAL
+1 CURR
+4 NEW
+{'b': 4, 'g': 1, 'r': 4}
+1 VAL
+4 CURR
+4 NEW
+{'b': 4, 'g': 1, 'r': 4}
+4 VAL
+4 CURR
+16 NEW
+16 CURR
+22:5b,4g,1r;14g,4b,1r;4b,4r,13g
+ NEW GAME
+:
+:5b,4g,1r;14g,4b,1r;4b,4r,13g
+5
+:5b,4g,1r;14g,4b,1r;4b,4r,13g
+5 val
+b
+:5b,4g,1r;14g,4b,1r;4b,4r,13g
+{'b': 5, 'g': 0, 'r': 0} MOST
+,
+:5b,4g,1r;14g,4b,1r;4b,4r,13g
+4
+:5b,4g,1r;14g,4b,1r;4b,4r,13g
+4 val
+g
+:5b,4g,1r;14g,4b,1r;4b,4r,13g
+{'b': 5, 'g': 4, 'r': 0} MOST
+,
+:5b,4g,1r;14g,4b,1r;4b,4r,13g
+1
+:5b,4g,1r;14g,4b,1r;4b,4r,13g
+1 val
+r
+:5b,4g,1r;14g,4b,1r;4b,4r,13g
+{'b': 5, 'g': 4, 'r': 1} MOST
+;
+:5b,4g,1r;14g,4b,1r;4b,4r,13g
+{'b': 5, 'g': 4, 'r': 1} MOST
+1
+;14g,4b,1r;4b,4r,13g
+1 val
+4
+;14g,4b,1r;4b,4r,13g
+14 val
+g
+;14g,4b,1r;4b,4r,13g
+{'b': 5, 'g': 14, 'r': 1} MOST
+,
+;14g,4b,1r;4b,4r,13g
+4
+;14g,4b,1r;4b,4r,13g
+4 val
+b
+;14g,4b,1r;4b,4r,13g
+{'b': 5, 'g': 14, 'r': 1} MOST
+,
+;14g,4b,1r;4b,4r,13g
+1
+;14g,4b,1r;4b,4r,13g
+1 val
+r
+;14g,4b,1r;4b,4r,13g
+{'b': 5, 'g': 14, 'r': 1} MOST
+;
+;14g,4b,1r;4b,4r,13g
+{'b': 5, 'g': 14, 'r': 1} MOST
+4
+g
+4 val
+b
+g
+{'b': 5, 'g': 14, 'r': 1} MOST
+,
+g
+4
+g
+4 val
+r
+g
+{'b': 5, 'g': 14, 'r': 4} MOST
+,
+g
+1
+g
+1 val
+3
+g
+13 val
+g
+g
+{'b': 5, 'g': 14, 'r': 4} MOST
+{'b': 5, 'g': 14, 'r': 4}
+5 VAL
+1 CURR
+5 NEW
+{'b': 5, 'g': 14, 'r': 4}
+14 VAL
+5 CURR
+70 NEW
+{'b': 5, 'g': 14, 'r': 4}
+4 VAL
+70 CURR
+280 NEW
+280 CURR
+23:6r,8g;4g,1b,7r;10g,5r;2r,9g
+ NEW GAME
+:
+:6r,8g;4g,1b,7r;10g,5r;2r,9g
+6
+:6r,8g;4g,1b,7r;10g,5r;2r,9g
+6 val
+r
+:6r,8g;4g,1b,7r;10g,5r;2r,9g
+{'b': 0, 'g': 0, 'r': 6} MOST
+,
+:6r,8g;4g,1b,7r;10g,5r;2r,9g
+8
+:6r,8g;4g,1b,7r;10g,5r;2r,9g
+8 val
+g
+:6r,8g;4g,1b,7r;10g,5r;2r,9g
+{'b': 0, 'g': 8, 'r': 6} MOST
+;
+:6r,8g;4g,1b,7r;10g,5r;2r,9g
+{'b': 0, 'g': 8, 'r': 6} MOST
+4
+;4g,1b,7r;10g,5r;2r,9g
+4 val
+g
+;4g,1b,7r;10g,5r;2r,9g
+{'b': 0, 'g': 8, 'r': 6} MOST
+,
+;4g,1b,7r;10g,5r;2r,9g
+1
+;4g,1b,7r;10g,5r;2r,9g
+1 val
+b
+;4g,1b,7r;10g,5r;2r,9g
+{'b': 1, 'g': 8, 'r': 6} MOST
+,
+;4g,1b,7r;10g,5r;2r,9g
+7
+;4g,1b,7r;10g,5r;2r,9g
+7 val
+r
+;4g,1b,7r;10g,5r;2r,9g
+{'b': 1, 'g': 8, 'r': 7} MOST
+;
+;4g,1b,7r;10g,5r;2r,9g
+{'b': 1, 'g': 8, 'r': 7} MOST
+1
+r;2r,9g
+1 val
+0
+r;2r,9g
+10 val
+g
+r;2r,9g
+{'b': 1, 'g': 10, 'r': 7} MOST
+,
+r;2r,9g
+5
+r;2r,9g
+5 val
+r
+r;2r,9g
+{'b': 1, 'g': 10, 'r': 7} MOST
+;
+r;2r,9g
+{'b': 1, 'g': 10, 'r': 7} MOST
+2
+
+2 val
+r
+
+{'b': 1, 'g': 10, 'r': 7} MOST
+,
+
+9
+
+9 val
+g
+
+{'b': 1, 'g': 10, 'r': 7} MOST
+{'b': 1, 'g': 10, 'r': 7}
+1 VAL
+1 CURR
+1 NEW
+{'b': 1, 'g': 10, 'r': 7}
+10 VAL
+1 CURR
+10 NEW
+{'b': 1, 'g': 10, 'r': 7}
+7 VAL
+10 CURR
+70 NEW
+70 CURR
+24:1b,10g;12g,5b;1r,3g;2r,4b
+ NEW GAME
+:
+:1b,10g;12g,5b;1r,3g;2r,4b
+1
+:1b,10g;12g,5b;1r,3g;2r,4b
+1 val
+b
+:1b,10g;12g,5b;1r,3g;2r,4b
+{'b': 1, 'g': 0, 'r': 0} MOST
+,
+:1b,10g;12g,5b;1r,3g;2r,4b
+1
+:1b,10g;12g,5b;1r,3g;2r,4b
+1 val
+0
+:1b,10g;12g,5b;1r,3g;2r,4b
+10 val
+g
+:1b,10g;12g,5b;1r,3g;2r,4b
+{'b': 1, 'g': 10, 'r': 0} MOST
+;
+:1b,10g;12g,5b;1r,3g;2r,4b
+{'b': 1, 'g': 10, 'r': 0} MOST
+1
+;12g,5b;1r,3g;2r,4b
+1 val
+2
+;12g,5b;1r,3g;2r,4b
+12 val
+g
+;12g,5b;1r,3g;2r,4b
+{'b': 1, 'g': 12, 'r': 0} MOST
+,
+;12g,5b;1r,3g;2r,4b
+5
+;12g,5b;1r,3g;2r,4b
+5 val
+b
+;12g,5b;1r,3g;2r,4b
+{'b': 5, 'g': 12, 'r': 0} MOST
+;
+;12g,5b;1r,3g;2r,4b
+{'b': 5, 'g': 12, 'r': 0} MOST
+1
+2r,4b
+1 val
+r
+2r,4b
+{'b': 5, 'g': 12, 'r': 1} MOST
+,
+2r,4b
+3
+2r,4b
+3 val
+g
+2r,4b
+{'b': 5, 'g': 12, 'r': 1} MOST
+;
+2r,4b
+{'b': 5, 'g': 12, 'r': 1} MOST
+2
+
+2 val
+r
+
+{'b': 5, 'g': 12, 'r': 2} MOST
+,
+
+4
+
+4 val
+b
+
+{'b': 5, 'g': 12, 'r': 2} MOST
+{'b': 5, 'g': 12, 'r': 2}
+5 VAL
+1 CURR
+5 NEW
+{'b': 5, 'g': 12, 'r': 2}
+12 VAL
+5 CURR
+60 NEW
+{'b': 5, 'g': 12, 'r': 2}
+2 VAL
+60 CURR
+120 NEW
+120 CURR
+25:2b,3r,13g;7b,15g,1r;7b,2g
+ NEW GAME
+:
+:2b,3r,13g;7b,15g,1r;7b,2g
+2
+:2b,3r,13g;7b,15g,1r;7b,2g
+2 val
+b
+:2b,3r,13g;7b,15g,1r;7b,2g
+{'b': 2, 'g': 0, 'r': 0} MOST
+,
+:2b,3r,13g;7b,15g,1r;7b,2g
+3
+:2b,3r,13g;7b,15g,1r;7b,2g
+3 val
+r
+:2b,3r,13g;7b,15g,1r;7b,2g
+{'b': 2, 'g': 0, 'r': 3} MOST
+,
+:2b,3r,13g;7b,15g,1r;7b,2g
+1
+:2b,3r,13g;7b,15g,1r;7b,2g
+1 val
+3
+:2b,3r,13g;7b,15g,1r;7b,2g
+13 val
+g
+:2b,3r,13g;7b,15g,1r;7b,2g
+{'b': 2, 'g': 13, 'r': 3} MOST
+;
+:2b,3r,13g;7b,15g,1r;7b,2g
+{'b': 2, 'g': 13, 'r': 3} MOST
+7
+;7b,15g,1r;7b,2g
+7 val
+b
+;7b,15g,1r;7b,2g
+{'b': 7, 'g': 13, 'r': 3} MOST
+,
+;7b,15g,1r;7b,2g
+1
+;7b,15g,1r;7b,2g
+1 val
+5
+;7b,15g,1r;7b,2g
+15 val
+g
+;7b,15g,1r;7b,2g
+{'b': 7, 'g': 15, 'r': 3} MOST
+,
+;7b,15g,1r;7b,2g
+1
+;7b,15g,1r;7b,2g
+1 val
+r
+;7b,15g,1r;7b,2g
+{'b': 7, 'g': 15, 'r': 3} MOST
+;
+;7b,15g,1r;7b,2g
+{'b': 7, 'g': 15, 'r': 3} MOST
+7
+
+7 val
+b
+
+{'b': 7, 'g': 15, 'r': 3} MOST
+,
+
+2
+
+2 val
+g
+
+{'b': 7, 'g': 15, 'r': 3} MOST
+{'b': 7, 'g': 15, 'r': 3}
+7 VAL
+1 CURR
+7 NEW
+{'b': 7, 'g': 15, 'r': 3}
+15 VAL
+7 CURR
+105 NEW
+{'b': 7, 'g': 15, 'r': 3}
+3 VAL
+105 CURR
+315 NEW
+315 CURR
+26:20r,5b,4g;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+ NEW GAME
+:
+:20r,5b,4g;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+2
+:20r,5b,4g;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+2 val
+0
+:20r,5b,4g;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+20 val
+r
+:20r,5b,4g;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+{'b': 0, 'g': 0, 'r': 20} MOST
+,
+:20r,5b,4g;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+5
+:20r,5b,4g;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+5 val
+b
+:20r,5b,4g;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+{'b': 5, 'g': 0, 'r': 20} MOST
+,
+:20r,5b,4g;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+4
+:20r,5b,4g;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+4 val
+g
+:20r,5b,4g;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+{'b': 5, 'g': 4, 'r': 20} MOST
+;
+:20r,5b,4g;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+{'b': 5, 'g': 4, 'r': 20} MOST
+1
+;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+1 val
+g
+;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+{'b': 5, 'g': 4, 'r': 20} MOST
+,
+;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+8
+;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+8 val
+b
+;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+{'b': 8, 'g': 4, 'r': 20} MOST
+,
+;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+1
+;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+1 val
+1
+;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+11 val
+r
+;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+{'b': 8, 'g': 4, 'r': 20} MOST
+;
+;1g,8b,11r;7b,6r,2g;4g,7b,4r;5r,8b
+{'b': 8, 'g': 4, 'r': 20} MOST
+7
+4g,7b,4r;5r,8b
+7 val
+b
+4g,7b,4r;5r,8b
+{'b': 8, 'g': 4, 'r': 20} MOST
+,
+4g,7b,4r;5r,8b
+6
+4g,7b,4r;5r,8b
+6 val
+r
+4g,7b,4r;5r,8b
+{'b': 8, 'g': 4, 'r': 20} MOST
+,
+4g,7b,4r;5r,8b
+2
+4g,7b,4r;5r,8b
+2 val
+g
+4g,7b,4r;5r,8b
+{'b': 8, 'g': 4, 'r': 20} MOST
+;
+4g,7b,4r;5r,8b
+{'b': 8, 'g': 4, 'r': 20} MOST
+4
+
+4 val
+g
+
+{'b': 8, 'g': 4, 'r': 20} MOST
+,
+
+7
+
+7 val
+b
+
+{'b': 8, 'g': 4, 'r': 20} MOST
+,
+
+4
+
+4 val
+r
+
+{'b': 8, 'g': 4, 'r': 20} MOST
+;
+
+{'b': 8, 'g': 4, 'r': 20} MOST
+5
+
+5 val
+r
+
+{'b': 8, 'g': 4, 'r': 20} MOST
+,
+
+8
+
+8 val
+b
+
+{'b': 8, 'g': 4, 'r': 20} MOST
+{'b': 8, 'g': 4, 'r': 20}
+8 VAL
+1 CURR
+8 NEW
+{'b': 8, 'g': 4, 'r': 20}
+4 VAL
+8 CURR
+32 NEW
+{'b': 8, 'g': 4, 'r': 20}
+20 VAL
+32 CURR
+640 NEW
+640 CURR
+27:3r,3g,1b;3r,1b,8g;3b,4r
+ NEW GAME
+:
+:3r,3g,1b;3r,1b,8g;3b,4r
+3
+:3r,3g,1b;3r,1b,8g;3b,4r
+3 val
+r
+:3r,3g,1b;3r,1b,8g;3b,4r
+{'b': 0, 'g': 0, 'r': 3} MOST
+,
+:3r,3g,1b;3r,1b,8g;3b,4r
+3
+:3r,3g,1b;3r,1b,8g;3b,4r
+3 val
+g
+:3r,3g,1b;3r,1b,8g;3b,4r
+{'b': 0, 'g': 3, 'r': 3} MOST
+,
+:3r,3g,1b;3r,1b,8g;3b,4r
+1
+:3r,3g,1b;3r,1b,8g;3b,4r
+1 val
+b
+:3r,3g,1b;3r,1b,8g;3b,4r
+{'b': 1, 'g': 3, 'r': 3} MOST
+;
+:3r,3g,1b;3r,1b,8g;3b,4r
+{'b': 1, 'g': 3, 'r': 3} MOST
+3
+;3r,1b,8g;3b,4r
+3 val
+r
+;3r,1b,8g;3b,4r
+{'b': 1, 'g': 3, 'r': 3} MOST
+,
+;3r,1b,8g;3b,4r
+1
+;3r,1b,8g;3b,4r
+1 val
+b
+;3r,1b,8g;3b,4r
+{'b': 1, 'g': 3, 'r': 3} MOST
+,
+;3r,1b,8g;3b,4r
+8
+;3r,1b,8g;3b,4r
+8 val
+g
+;3r,1b,8g;3b,4r
+{'b': 1, 'g': 8, 'r': 3} MOST
+;
+;3r,1b,8g;3b,4r
+{'b': 1, 'g': 8, 'r': 3} MOST
+3
+
+3 val
+b
+
+{'b': 3, 'g': 8, 'r': 3} MOST
+,
+
+4
+
+4 val
+r
+
+{'b': 3, 'g': 8, 'r': 4} MOST
+{'b': 3, 'g': 8, 'r': 4}
+3 VAL
+1 CURR
+3 NEW
+{'b': 3, 'g': 8, 'r': 4}
+8 VAL
+3 CURR
+24 NEW
+{'b': 3, 'g': 8, 'r': 4}
+4 VAL
+24 CURR
+96 NEW
+96 CURR
+28:1b,15r,2g;15r;3r,2g;3r,1g
+ NEW GAME
+:
+:1b,15r,2g;15r;3r,2g;3r,1g
+1
+:1b,15r,2g;15r;3r,2g;3r,1g
+1 val
+b
+:1b,15r,2g;15r;3r,2g;3r,1g
+{'b': 1, 'g': 0, 'r': 0} MOST
+,
+:1b,15r,2g;15r;3r,2g;3r,1g
+1
+:1b,15r,2g;15r;3r,2g;3r,1g
+1 val
+5
+:1b,15r,2g;15r;3r,2g;3r,1g
+15 val
+r
+:1b,15r,2g;15r;3r,2g;3r,1g
+{'b': 1, 'g': 0, 'r': 15} MOST
+,
+:1b,15r,2g;15r;3r,2g;3r,1g
+2
+:1b,15r,2g;15r;3r,2g;3r,1g
+2 val
+g
+:1b,15r,2g;15r;3r,2g;3r,1g
+{'b': 1, 'g': 2, 'r': 15} MOST
+;
+:1b,15r,2g;15r;3r,2g;3r,1g
+{'b': 1, 'g': 2, 'r': 15} MOST
+1
+;15r;3r,2g;3r,1g
+1 val
+5
+;15r;3r,2g;3r,1g
+15 val
+r
+;15r;3r,2g;3r,1g
+{'b': 1, 'g': 2, 'r': 15} MOST
+;
+;15r;3r,2g;3r,1g
+{'b': 1, 'g': 2, 'r': 15} MOST
+3
+1g
+3 val
+r
+1g
+{'b': 1, 'g': 2, 'r': 15} MOST
+,
+1g
+2
+1g
+2 val
+g
+1g
+{'b': 1, 'g': 2, 'r': 15} MOST
+;
+1g
+{'b': 1, 'g': 2, 'r': 15} MOST
+3
+
+3 val
+r
+
+{'b': 1, 'g': 2, 'r': 15} MOST
+,
+
+1
+
+1 val
+g
+
+{'b': 1, 'g': 2, 'r': 15} MOST
+{'b': 1, 'g': 2, 'r': 15}
+1 VAL
+1 CURR
+1 NEW
+{'b': 1, 'g': 2, 'r': 15}
+2 VAL
+1 CURR
+2 NEW
+{'b': 1, 'g': 2, 'r': 15}
+15 VAL
+2 CURR
+30 NEW
+30 CURR
+29:4b,7g,1r;5g,9r;8g,1r,10b;2b,1g
+ NEW GAME
+:
+:4b,7g,1r;5g,9r;8g,1r,10b;2b,1g
+4
+:4b,7g,1r;5g,9r;8g,1r,10b;2b,1g
+4 val
+b
+:4b,7g,1r;5g,9r;8g,1r,10b;2b,1g
+{'b': 4, 'g': 0, 'r': 0} MOST
+,
+:4b,7g,1r;5g,9r;8g,1r,10b;2b,1g
+7
+:4b,7g,1r;5g,9r;8g,1r,10b;2b,1g
+7 val
+g
+:4b,7g,1r;5g,9r;8g,1r,10b;2b,1g
+{'b': 4, 'g': 7, 'r': 0} MOST
+,
+:4b,7g,1r;5g,9r;8g,1r,10b;2b,1g
+1
+:4b,7g,1r;5g,9r;8g,1r,10b;2b,1g
+1 val
+r
+:4b,7g,1r;5g,9r;8g,1r,10b;2b,1g
+{'b': 4, 'g': 7, 'r': 1} MOST
+;
+:4b,7g,1r;5g,9r;8g,1r,10b;2b,1g
+{'b': 4, 'g': 7, 'r': 1} MOST
+5
+;5g,9r;8g,1r,10b;2b,1g
+5 val
+g
+;5g,9r;8g,1r,10b;2b,1g
+{'b': 4, 'g': 7, 'r': 1} MOST
+,
+;5g,9r;8g,1r,10b;2b,1g
+9
+;5g,9r;8g,1r,10b;2b,1g
+9 val
+r
+;5g,9r;8g,1r,10b;2b,1g
+{'b': 4, 'g': 7, 'r': 9} MOST
+;
+;5g,9r;8g,1r,10b;2b,1g
+{'b': 4, 'g': 7, 'r': 9} MOST
+8
+b;2b,1g
+8 val
+g
+b;2b,1g
+{'b': 4, 'g': 8, 'r': 9} MOST
+,
+b;2b,1g
+1
+b;2b,1g
+1 val
+r
+b;2b,1g
+{'b': 4, 'g': 8, 'r': 9} MOST
+,
+b;2b,1g
+1
+b;2b,1g
+1 val
+0
+b;2b,1g
+10 val
+b
+b;2b,1g
+{'b': 10, 'g': 8, 'r': 9} MOST
+;
+b;2b,1g
+{'b': 10, 'g': 8, 'r': 9} MOST
+2
+
+2 val
+b
+
+{'b': 10, 'g': 8, 'r': 9} MOST
+,
+
+1
+
+1 val
+g
+
+{'b': 10, 'g': 8, 'r': 9} MOST
+{'b': 10, 'g': 8, 'r': 9}
+10 VAL
+1 CURR
+10 NEW
+{'b': 10, 'g': 8, 'r': 9}
+8 VAL
+10 CURR
+80 NEW
+{'b': 10, 'g': 8, 'r': 9}
+9 VAL
+80 CURR
+720 NEW
+720 CURR
+30:9b,5r,6g;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+ NEW GAME
+:
+:9b,5r,6g;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+9
+:9b,5r,6g;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+9 val
+b
+:9b,5r,6g;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+{'b': 9, 'g': 0, 'r': 0} MOST
+,
+:9b,5r,6g;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+5
+:9b,5r,6g;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+5 val
+r
+:9b,5r,6g;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+{'b': 9, 'g': 0, 'r': 5} MOST
+,
+:9b,5r,6g;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+6
+:9b,5r,6g;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+6 val
+g
+:9b,5r,6g;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+{'b': 9, 'g': 6, 'r': 5} MOST
+;
+:9b,5r,6g;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+{'b': 9, 'g': 6, 'r': 5} MOST
+1
+;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+1 val
+5
+;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+15 val
+r
+;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+{'b': 9, 'g': 6, 'r': 15} MOST
+,
+;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+6
+;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+6 val
+b
+;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+{'b': 9, 'g': 6, 'r': 15} MOST
+,
+;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+3
+;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+3 val
+g
+;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+{'b': 9, 'g': 6, 'r': 15} MOST
+;
+;15r,6b,3g;13r,2b,4g;2g,3b;13r,8b;5g,6b,17r
+{'b': 9, 'g': 6, 'r': 15} MOST
+1
+g;2g,3b;13r,8b;5g,6b,17r
+1 val
+3
+g;2g,3b;13r,8b;5g,6b,17r
+13 val
+r
+g;2g,3b;13r,8b;5g,6b,17r
+{'b': 9, 'g': 6, 'r': 15} MOST
+,
+g;2g,3b;13r,8b;5g,6b,17r
+2
+g;2g,3b;13r,8b;5g,6b,17r
+2 val
+b
+g;2g,3b;13r,8b;5g,6b,17r
+{'b': 9, 'g': 6, 'r': 15} MOST
+,
+g;2g,3b;13r,8b;5g,6b,17r
+4
+g;2g,3b;13r,8b;5g,6b,17r
+4 val
+g
+g;2g,3b;13r,8b;5g,6b,17r
+{'b': 9, 'g': 6, 'r': 15} MOST
+;
+g;2g,3b;13r,8b;5g,6b,17r
+{'b': 9, 'g': 6, 'r': 15} MOST
+2
+
+2 val
+g
+
+{'b': 9, 'g': 6, 'r': 15} MOST
+,
+
+3
+
+3 val
+b
+
+{'b': 9, 'g': 6, 'r': 15} MOST
+;
+
+{'b': 9, 'g': 6, 'r': 15} MOST
+1
+
+1 val
+3
+
+13 val
+r
+
+{'b': 9, 'g': 6, 'r': 15} MOST
+,
+
+8
+
+8 val
+b
+
+{'b': 9, 'g': 6, 'r': 15} MOST
+;
+
+{'b': 9, 'g': 6, 'r': 15} MOST
+5
+
+5 val
+g
+
+{'b': 9, 'g': 6, 'r': 15} MOST
+,
+
+6
+
+6 val
+b
+
+{'b': 9, 'g': 6, 'r': 15} MOST
+,
+
+1
+
+1 val
+7
+
+17 val
+r
+
+{'b': 9, 'g': 6, 'r': 17} MOST
+{'b': 9, 'g': 6, 'r': 17}
+9 VAL
+1 CURR
+9 NEW
+{'b': 9, 'g': 6, 'r': 17}
+6 VAL
+9 CURR
+54 NEW
+{'b': 9, 'g': 6, 'r': 17}
+17 VAL
+54 CURR
+918 NEW
+918 CURR
+31:1g,9b,9r;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+ NEW GAME
+:
+:1g,9b,9r;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+1
+:1g,9b,9r;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+1 val
+g
+:1g,9b,9r;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+{'b': 0, 'g': 1, 'r': 0} MOST
+,
+:1g,9b,9r;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+9
+:1g,9b,9r;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+9 val
+b
+:1g,9b,9r;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+{'b': 9, 'g': 1, 'r': 0} MOST
+,
+:1g,9b,9r;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+9
+:1g,9b,9r;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+9 val
+r
+:1g,9b,9r;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+{'b': 9, 'g': 1, 'r': 9} MOST
+;
+:1g,9b,9r;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+{'b': 9, 'g': 1, 'r': 9} MOST
+4
+;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+4 val
+g
+;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+{'b': 9, 'g': 4, 'r': 9} MOST
+,
+;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+8
+;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+8 val
+r
+;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+{'b': 9, 'g': 4, 'r': 9} MOST
+,
+;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+1
+;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+1 val
+b
+;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+{'b': 9, 'g': 4, 'r': 9} MOST
+;
+;4g,8r,1b;10b,2g;1r,1b;1r,1b;6b,9r,5g
+{'b': 9, 'g': 4, 'r': 9} MOST
+1
+r,1b;1r,1b;6b,9r,5g
+1 val
+0
+r,1b;1r,1b;6b,9r,5g
+10 val
+b
+r,1b;1r,1b;6b,9r,5g
+{'b': 10, 'g': 4, 'r': 9} MOST
+,
+r,1b;1r,1b;6b,9r,5g
+2
+r,1b;1r,1b;6b,9r,5g
+2 val
+g
+r,1b;1r,1b;6b,9r,5g
+{'b': 10, 'g': 4, 'r': 9} MOST
+;
+r,1b;1r,1b;6b,9r,5g
+{'b': 10, 'g': 4, 'r': 9} MOST
+1
+
+1 val
+r
+
+{'b': 10, 'g': 4, 'r': 9} MOST
+,
+
+1
+
+1 val
+b
+
+{'b': 10, 'g': 4, 'r': 9} MOST
+;
+
+{'b': 10, 'g': 4, 'r': 9} MOST
+1
+
+1 val
+r
+
+{'b': 10, 'g': 4, 'r': 9} MOST
+,
+
+1
+
+1 val
+b
+
+{'b': 10, 'g': 4, 'r': 9} MOST
+;
+
+{'b': 10, 'g': 4, 'r': 9} MOST
+6
+
+6 val
+b
+
+{'b': 10, 'g': 4, 'r': 9} MOST
+,
+
+9
+
+9 val
+r
+
+{'b': 10, 'g': 4, 'r': 9} MOST
+,
+
+5
+
+5 val
+g
+
+{'b': 10, 'g': 5, 'r': 9} MOST
+{'b': 10, 'g': 5, 'r': 9}
+10 VAL
+1 CURR
+10 NEW
+{'b': 10, 'g': 5, 'r': 9}
+5 VAL
+10 CURR
+50 NEW
+{'b': 10, 'g': 5, 'r': 9}
+9 VAL
+50 CURR
+450 NEW
+450 CURR
+32:7r,7g,3b;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+ NEW GAME
+:
+:7r,7g,3b;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+7
+:7r,7g,3b;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+7 val
+r
+:7r,7g,3b;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+{'b': 0, 'g': 0, 'r': 7} MOST
+,
+:7r,7g,3b;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+7
+:7r,7g,3b;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+7 val
+g
+:7r,7g,3b;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+{'b': 0, 'g': 7, 'r': 7} MOST
+,
+:7r,7g,3b;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+3
+:7r,7g,3b;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+3 val
+b
+:7r,7g,3b;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+{'b': 3, 'g': 7, 'r': 7} MOST
+;
+:7r,7g,3b;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+{'b': 3, 'g': 7, 'r': 7} MOST
+1
+;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+1 val
+4
+;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+14 val
+g
+;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+{'b': 3, 'g': 14, 'r': 7} MOST
+,
+;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+1
+;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+1 val
+1
+;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+11 val
+r
+;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+{'b': 3, 'g': 14, 'r': 11} MOST
+,
+;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+1
+;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+1 val
+1
+;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+11 val
+b
+;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+{'b': 11, 'g': 14, 'r': 11} MOST
+;
+;14g,11r,11b;10g,7r,2b;1g,4b,4r;9b,10g,5r
+{'b': 11, 'g': 14, 'r': 11} MOST
+1
+b;1g,4b,4r;9b,10g,5r
+1 val
+0
+b;1g,4b,4r;9b,10g,5r
+10 val
+g
+b;1g,4b,4r;9b,10g,5r
+{'b': 11, 'g': 14, 'r': 11} MOST
+,
+b;1g,4b,4r;9b,10g,5r
+7
+b;1g,4b,4r;9b,10g,5r
+7 val
+r
+b;1g,4b,4r;9b,10g,5r
+{'b': 11, 'g': 14, 'r': 11} MOST
+,
+b;1g,4b,4r;9b,10g,5r
+2
+b;1g,4b,4r;9b,10g,5r
+2 val
+b
+b;1g,4b,4r;9b,10g,5r
+{'b': 11, 'g': 14, 'r': 11} MOST
+;
+b;1g,4b,4r;9b,10g,5r
+{'b': 11, 'g': 14, 'r': 11} MOST
+1
+
+1 val
+g
+
+{'b': 11, 'g': 14, 'r': 11} MOST
+,
+
+4
+
+4 val
+b
+
+{'b': 11, 'g': 14, 'r': 11} MOST
+,
+
+4
+
+4 val
+r
+
+{'b': 11, 'g': 14, 'r': 11} MOST
+;
+
+{'b': 11, 'g': 14, 'r': 11} MOST
+9
+
+9 val
+b
+
+{'b': 11, 'g': 14, 'r': 11} MOST
+,
+
+1
+
+1 val
+0
+
+10 val
+g
+
+{'b': 11, 'g': 14, 'r': 11} MOST
+,
+
+5
+
+5 val
+r
+
+{'b': 11, 'g': 14, 'r': 11} MOST
+{'b': 11, 'g': 14, 'r': 11}
+11 VAL
+1 CURR
+11 NEW
+{'b': 11, 'g': 14, 'r': 11}
+14 VAL
+11 CURR
+154 NEW
+{'b': 11, 'g': 14, 'r': 11}
+11 VAL
+154 CURR
+1694 NEW
+1694 CURR
+33:12r,4g,11b;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+ NEW GAME
+:
+:12r,4g,11b;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+1
+:12r,4g,11b;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+1 val
+2
+:12r,4g,11b;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+12 val
+r
+:12r,4g,11b;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+{'b': 0, 'g': 0, 'r': 12} MOST
+,
+:12r,4g,11b;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+4
+:12r,4g,11b;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+4 val
+g
+:12r,4g,11b;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+{'b': 0, 'g': 4, 'r': 12} MOST
+,
+:12r,4g,11b;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+1
+:12r,4g,11b;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+1 val
+1
+:12r,4g,11b;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+11 val
+b
+:12r,4g,11b;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+{'b': 11, 'g': 4, 'r': 12} MOST
+;
+:12r,4g,11b;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+{'b': 11, 'g': 4, 'r': 12} MOST
+4
+;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+4 val
+b
+;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+{'b': 11, 'g': 4, 'r': 12} MOST
+,
+;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+1
+;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+1 val
+0
+;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+10 val
+r
+;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+{'b': 11, 'g': 4, 'r': 12} MOST
+,
+;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+1
+;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+1 val
+g
+;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+{'b': 11, 'g': 4, 'r': 12} MOST
+;
+;4b,10r,1g;7g,10r,16b;15r,5b;10g,4r;8g,5b,6r
+{'b': 11, 'g': 4, 'r': 12} MOST
+7
+;15r,5b;10g,4r;8g,5b,6r
+7 val
+g
+;15r,5b;10g,4r;8g,5b,6r
+{'b': 11, 'g': 7, 'r': 12} MOST
+,
+;15r,5b;10g,4r;8g,5b,6r
+1
+;15r,5b;10g,4r;8g,5b,6r
+1 val
+0
+;15r,5b;10g,4r;8g,5b,6r
+10 val
+r
+;15r,5b;10g,4r;8g,5b,6r
+{'b': 11, 'g': 7, 'r': 12} MOST
+,
+;15r,5b;10g,4r;8g,5b,6r
+1
+;15r,5b;10g,4r;8g,5b,6r
+1 val
+6
+;15r,5b;10g,4r;8g,5b,6r
+16 val
+b
+;15r,5b;10g,4r;8g,5b,6r
+{'b': 16, 'g': 7, 'r': 12} MOST
+;
+;15r,5b;10g,4r;8g,5b,6r
+{'b': 16, 'g': 7, 'r': 12} MOST
+1
+
+1 val
+5
+
+15 val
+r
+
+{'b': 16, 'g': 7, 'r': 15} MOST
+,
+
+5
+
+5 val
+b
+
+{'b': 16, 'g': 7, 'r': 15} MOST
+;
+
+{'b': 16, 'g': 7, 'r': 15} MOST
+1
+
+1 val
+0
+
+10 val
+g
+
+{'b': 16, 'g': 10, 'r': 15} MOST
+,
+
+4
+
+4 val
+r
+
+{'b': 16, 'g': 10, 'r': 15} MOST
+;
+
+{'b': 16, 'g': 10, 'r': 15} MOST
+8
+
+8 val
+g
+
+{'b': 16, 'g': 10, 'r': 15} MOST
+,
+
+5
+
+5 val
+b
+
+{'b': 16, 'g': 10, 'r': 15} MOST
+,
+
+6
+
+6 val
+r
+
+{'b': 16, 'g': 10, 'r': 15} MOST
+{'b': 16, 'g': 10, 'r': 15}
+16 VAL
+1 CURR
+16 NEW
+{'b': 16, 'g': 10, 'r': 15}
+10 VAL
+16 CURR
+160 NEW
+{'b': 16, 'g': 10, 'r': 15}
+15 VAL
+160 CURR
+2400 NEW
+2400 CURR
+34:8b,1r,2g;3g,3b,4r;6r,3g;6r;9b,4r,3g
+ NEW GAME
+:
+:8b,1r,2g;3g,3b,4r;6r,3g;6r;9b,4r,3g
+8
+:8b,1r,2g;3g,3b,4r;6r,3g;6r;9b,4r,3g
+8 val
+b
+:8b,1r,2g;3g,3b,4r;6r,3g;6r;9b,4r,3g
+{'b': 8, 'g': 0, 'r': 0} MOST
+,
+:8b,1r,2g;3g,3b,4r;6r,3g;6r;9b,4r,3g
+1
+:8b,1r,2g;3g,3b,4r;6r,3g;6r;9b,4r,3g
+1 val
+r
+:8b,1r,2g;3g,3b,4r;6r,3g;6r;9b,4r,3g
+{'b': 8, 'g': 0, 'r': 1} MOST
+,
+:8b,1r,2g;3g,3b,4r;6r,3g;6r;9b,4r,3g
+2
+:8b,1r,2g;3g,3b,4r;6r,3g;6r;9b,4r,3g
+2 val
+g
+:8b,1r,2g;3g,3b,4r;6r,3g;6r;9b,4r,3g
+{'b': 8, 'g': 2, 'r': 1} MOST
+;
+:8b,1r,2g;3g,3b,4r;6r,3g;6r;9b,4r,3g
+{'b': 8, 'g': 2, 'r': 1} MOST
+3
+;3g,3b,4r;6r,3g;6r;9b,4r,3g
+3 val
+g
+;3g,3b,4r;6r,3g;6r;9b,4r,3g
+{'b': 8, 'g': 3, 'r': 1} MOST
+,
+;3g,3b,4r;6r,3g;6r;9b,4r,3g
+3
+;3g,3b,4r;6r,3g;6r;9b,4r,3g
+3 val
+b
+;3g,3b,4r;6r,3g;6r;9b,4r,3g
+{'b': 8, 'g': 3, 'r': 1} MOST
+,
+;3g,3b,4r;6r,3g;6r;9b,4r,3g
+4
+;3g,3b,4r;6r,3g;6r;9b,4r,3g
+4 val
+r
+;3g,3b,4r;6r,3g;6r;9b,4r,3g
+{'b': 8, 'g': 3, 'r': 4} MOST
+;
+;3g,3b,4r;6r,3g;6r;9b,4r,3g
+{'b': 8, 'g': 3, 'r': 4} MOST
+6
+;9b,4r,3g
+6 val
+r
+;9b,4r,3g
+{'b': 8, 'g': 3, 'r': 6} MOST
+,
+;9b,4r,3g
+3
+;9b,4r,3g
+3 val
+g
+;9b,4r,3g
+{'b': 8, 'g': 3, 'r': 6} MOST
+;
+;9b,4r,3g
+{'b': 8, 'g': 3, 'r': 6} MOST
+6
+
+6 val
+r
+
+{'b': 8, 'g': 3, 'r': 6} MOST
+;
+
+{'b': 8, 'g': 3, 'r': 6} MOST
+9
+
+9 val
+b
+
+{'b': 9, 'g': 3, 'r': 6} MOST
+,
+
+4
+
+4 val
+r
+
+{'b': 9, 'g': 3, 'r': 6} MOST
+,
+
+3
+
+3 val
+g
+
+{'b': 9, 'g': 3, 'r': 6} MOST
+{'b': 9, 'g': 3, 'r': 6}
+9 VAL
+1 CURR
+9 NEW
+{'b': 9, 'g': 3, 'r': 6}
+3 VAL
+9 CURR
+27 NEW
+{'b': 9, 'g': 3, 'r': 6}
+6 VAL
+27 CURR
+162 NEW
+162 CURR
+35:6g,6b,1r;3g,3b;1r,5b,2g;1r,13g,1b;3g,1r,10b;5g,4b
+ NEW GAME
+:
+:6g,6b,1r;3g,3b;1r,5b,2g;1r,13g,1b;3g,1r,10b;5g,4b
+6
+:6g,6b,1r;3g,3b;1r,5b,2g;1r,13g,1b;3g,1r,10b;5g,4b
+6 val
+g
+:6g,6b,1r;3g,3b;1r,5b,2g;1r,13g,1b;3g,1r,10b;5g,4b
+{'b': 0, 'g': 6, 'r': 0} MOST
+,
+:6g,6b,1r;3g,3b;1r,5b,2g;1r,13g,1b;3g,1r,10b;5g,4b
+6
+:6g,6b,1r;3g,3b;1r,5b,2g;1r,13g,1b;3g,1r,10b;5g,4b
+6 val
+b
+:6g,6b,1r;3g,3b;1r,5b,2g;1r,13g,1b;3g,1r,10b;5g,4b
+{'b': 6, 'g': 6, 'r': 0} MOST
+,
+:6g,6b,1r;3g,3b;1r,5b,2g;1r,13g,1b;3g,1r,10b;5g,4b
+1
+:6g,6b,1r;3g,3b;1r,5b,2g;1r,13g,1b;3g,1r,10b;5g,4b
+1 val
+r
+:6g,6b,1r;3g,3b;1r,5b,2g;1r,13g,1b;3g,1r,10b;5g,4b
+{'b': 6, 'g': 6, 'r': 1} MOST
+;
+:6g,6b,1r;3g,3b;1r,5b,2g;1r,13g,1b;3g,1r,10b;5g,4b
+{'b': 6, 'g': 6, 'r': 1} MOST
+3
+;3g,3b;1r,5b,2g;1r,13g,1b;3g,1r,10b;5g,4b
+3 val
+g
+;3g,3b;1r,5b,2g;1r,13g,1b;3g,1r,10b;5g,4b
+{'b': 6, 'g': 6, 'r': 1} MOST
+,
+;3g,3b;1r,5b,2g;1r,13g,1b;3g,1r,10b;5g,4b
+3
+;3g,3b;1r,5b,2g;1r,13g,1b;3g,1r,10b;5g,4b
+3 val
+b
+;3g,3b;1r,5b,2g;1r,13g,1b;3g,1r,10b;5g,4b
+{'b': 6, 'g': 6, 'r': 1} MOST
+;
+;3g,3b;1r,5b,2g;1r,13g,1b;3g,1r,10b;5g,4b
+{'b': 6, 'g': 6, 'r': 1} MOST
+1
+;1r,13g,1b;3g,1r,10b;5g,4b
+1 val
+r
+;1r,13g,1b;3g,1r,10b;5g,4b
+{'b': 6, 'g': 6, 'r': 1} MOST
+,
+;1r,13g,1b;3g,1r,10b;5g,4b
+5
+;1r,13g,1b;3g,1r,10b;5g,4b
+5 val
+b
+;1r,13g,1b;3g,1r,10b;5g,4b
+{'b': 6, 'g': 6, 'r': 1} MOST
+,
+;1r,13g,1b;3g,1r,10b;5g,4b
+2
+;1r,13g,1b;3g,1r,10b;5g,4b
+2 val
+g
+;1r,13g,1b;3g,1r,10b;5g,4b
+{'b': 6, 'g': 6, 'r': 1} MOST
+;
+;1r,13g,1b;3g,1r,10b;5g,4b
+{'b': 6, 'g': 6, 'r': 1} MOST
+1
+4b
+1 val
+r
+4b
+{'b': 6, 'g': 6, 'r': 1} MOST
+,
+4b
+1
+4b
+1 val
+3
+4b
+13 val
+g
+4b
+{'b': 6, 'g': 13, 'r': 1} MOST
+,
+4b
+1
+4b
+1 val
+b
+4b
+{'b': 6, 'g': 13, 'r': 1} MOST
+;
+4b
+{'b': 6, 'g': 13, 'r': 1} MOST
+3
+
+3 val
+g
+
+{'b': 6, 'g': 13, 'r': 1} MOST
+,
+
+1
+
+1 val
+r
+
+{'b': 6, 'g': 13, 'r': 1} MOST
+,
+
+1
+
+1 val
+0
+
+10 val
+b
+
+{'b': 10, 'g': 13, 'r': 1} MOST
+;
+
+{'b': 10, 'g': 13, 'r': 1} MOST
+5
+
+5 val
+g
+
+{'b': 10, 'g': 13, 'r': 1} MOST
+,
+
+4
+
+4 val
+b
+
+{'b': 10, 'g': 13, 'r': 1} MOST
+{'b': 10, 'g': 13, 'r': 1}
+10 VAL
+1 CURR
+10 NEW
+{'b': 10, 'g': 13, 'r': 1}
+13 VAL
+10 CURR
+130 NEW
+{'b': 10, 'g': 13, 'r': 1}
+1 VAL
+130 CURR
+130 NEW
+130 CURR
+36:15b,1r;2r,3g,17b;6b,7r,8g;12r,7g,14b;4b,2r;8g,12b,10r
+ NEW GAME
+:
+:15b,1r;2r,3g,17b;6b,7r,8g;12r,7g,14b;4b,2r;8g,12b,10r
+1
+:15b,1r;2r,3g,17b;6b,7r,8g;12r,7g,14b;4b,2r;8g,12b,10r
+1 val
+5
+:15b,1r;2r,3g,17b;6b,7r,8g;12r,7g,14b;4b,2r;8g,12b,10r
+15 val
+b
+:15b,1r;2r,3g,17b;6b,7r,8g;12r,7g,14b;4b,2r;8g,12b,10r
+{'b': 15, 'g': 0, 'r': 0} MOST
+,
+:15b,1r;2r,3g,17b;6b,7r,8g;12r,7g,14b;4b,2r;8g,12b,10r
+1
+:15b,1r;2r,3g,17b;6b,7r,8g;12r,7g,14b;4b,2r;8g,12b,10r
+1 val
+r
+:15b,1r;2r,3g,17b;6b,7r,8g;12r,7g,14b;4b,2r;8g,12b,10r
+{'b': 15, 'g': 0, 'r': 1} MOST
+;
+:15b,1r;2r,3g,17b;6b,7r,8g;12r,7g,14b;4b,2r;8g,12b,10r
+{'b': 15, 'g': 0, 'r': 1} MOST
+2
+;2r,3g,17b;6b,7r,8g;12r,7g,14b;4b,2r;8g,12b,10r
+2 val
+r
+;2r,3g,17b;6b,7r,8g;12r,7g,14b;4b,2r;8g,12b,10r
+{'b': 15, 'g': 0, 'r': 2} MOST
+,
+;2r,3g,17b;6b,7r,8g;12r,7g,14b;4b,2r;8g,12b,10r
+3
+;2r,3g,17b;6b,7r,8g;12r,7g,14b;4b,2r;8g,12b,10r
+3 val
+g
+;2r,3g,17b;6b,7r,8g;12r,7g,14b;4b,2r;8g,12b,10r
+{'b': 15, 'g': 3, 'r': 2} MOST
+,
+;2r,3g,17b;6b,7r,8g;12r,7g,14b;4b,2r;8g,12b,10r
+1
+;2r,3g,17b;6b,7r,8g;12r,7g,14b;4b,2r;8g,12b,10r
+1 val
+7
+;2r,3g,17b;6b,7r,8g;12r,7g,14b;4b,2r;8g,12b,10r
+17 val
+b
+;2r,3g,17b;6b,7r,8g;12r,7g,14b;4b,2r;8g,12b,10r
+{'b': 17, 'g': 3, 'r': 2} MOST
+;
+;2r,3g,17b;6b,7r,8g;12r,7g,14b;4b,2r;8g,12b,10r
+{'b': 17, 'g': 3, 'r': 2} MOST
+6
+8g;12r,7g,14b;4b,2r;8g,12b,10r
+6 val
+b
+8g;12r,7g,14b;4b,2r;8g,12b,10r
+{'b': 17, 'g': 3, 'r': 2} MOST
+,
+8g;12r,7g,14b;4b,2r;8g,12b,10r
+7
+8g;12r,7g,14b;4b,2r;8g,12b,10r
+7 val
+r
+8g;12r,7g,14b;4b,2r;8g,12b,10r
+{'b': 17, 'g': 3, 'r': 7} MOST
+,
+8g;12r,7g,14b;4b,2r;8g,12b,10r
+8
+8g;12r,7g,14b;4b,2r;8g,12b,10r
+8 val
+g
+8g;12r,7g,14b;4b,2r;8g,12b,10r
+{'b': 17, 'g': 8, 'r': 7} MOST
+;
+8g;12r,7g,14b;4b,2r;8g,12b,10r
+{'b': 17, 'g': 8, 'r': 7} MOST
+1
+,10r
+1 val
+2
+,10r
+12 val
+r
+,10r
+{'b': 17, 'g': 8, 'r': 12} MOST
+,
+,10r
+7
+,10r
+7 val
+g
+,10r
+{'b': 17, 'g': 8, 'r': 12} MOST
+,
+,10r
+1
+,10r
+1 val
+4
+,10r
+14 val
+b
+,10r
+{'b': 17, 'g': 8, 'r': 12} MOST
+;
+,10r
+{'b': 17, 'g': 8, 'r': 12} MOST
+4
+
+4 val
+b
+
+{'b': 17, 'g': 8, 'r': 12} MOST
+,
+
+2
+
+2 val
+r
+
+{'b': 17, 'g': 8, 'r': 12} MOST
+;
+
+{'b': 17, 'g': 8, 'r': 12} MOST
+8
+
+8 val
+g
+
+{'b': 17, 'g': 8, 'r': 12} MOST
+,
+
+1
+
+1 val
+2
+
+12 val
+b
+
+{'b': 17, 'g': 8, 'r': 12} MOST
+,
+
+1
+
+1 val
+0
+
+10 val
+r
+
+{'b': 17, 'g': 8, 'r': 12} MOST
+{'b': 17, 'g': 8, 'r': 12}
+17 VAL
+1 CURR
+17 NEW
+{'b': 17, 'g': 8, 'r': 12}
+8 VAL
+17 CURR
+136 NEW
+{'b': 17, 'g': 8, 'r': 12}
+12 VAL
+136 CURR
+1632 NEW
+1632 CURR
+37:2g,2b;6r,3b,1g;2g,3b,1r
+ NEW GAME
+:
+:2g,2b;6r,3b,1g;2g,3b,1r
+2
+:2g,2b;6r,3b,1g;2g,3b,1r
+2 val
+g
+:2g,2b;6r,3b,1g;2g,3b,1r
+{'b': 0, 'g': 2, 'r': 0} MOST
+,
+:2g,2b;6r,3b,1g;2g,3b,1r
+2
+:2g,2b;6r,3b,1g;2g,3b,1r
+2 val
+b
+:2g,2b;6r,3b,1g;2g,3b,1r
+{'b': 2, 'g': 2, 'r': 0} MOST
+;
+:2g,2b;6r,3b,1g;2g,3b,1r
+{'b': 2, 'g': 2, 'r': 0} MOST
+6
+;6r,3b,1g;2g,3b,1r
+6 val
+r
+;6r,3b,1g;2g,3b,1r
+{'b': 2, 'g': 2, 'r': 6} MOST
+,
+;6r,3b,1g;2g,3b,1r
+3
+;6r,3b,1g;2g,3b,1r
+3 val
+b
+;6r,3b,1g;2g,3b,1r
+{'b': 3, 'g': 2, 'r': 6} MOST
+,
+;6r,3b,1g;2g,3b,1r
+1
+;6r,3b,1g;2g,3b,1r
+1 val
+g
+;6r,3b,1g;2g,3b,1r
+{'b': 3, 'g': 2, 'r': 6} MOST
+;
+;6r,3b,1g;2g,3b,1r
+{'b': 3, 'g': 2, 'r': 6} MOST
+2
+,1r
+2 val
+g
+,1r
+{'b': 3, 'g': 2, 'r': 6} MOST
+,
+,1r
+3
+,1r
+3 val
+b
+,1r
+{'b': 3, 'g': 2, 'r': 6} MOST
+,
+,1r
+1
+,1r
+1 val
+r
+,1r
+{'b': 3, 'g': 2, 'r': 6} MOST
+{'b': 3, 'g': 2, 'r': 6}
+3 VAL
+1 CURR
+3 NEW
+{'b': 3, 'g': 2, 'r': 6}
+2 VAL
+3 CURR
+6 NEW
+{'b': 3, 'g': 2, 'r': 6}
+6 VAL
+6 CURR
+36 NEW
+36 CURR
+38:2b,7r,9g;3r,18g,6b;6r,19g,2b;2b,13g,7r
+ NEW GAME
+:
+:2b,7r,9g;3r,18g,6b;6r,19g,2b;2b,13g,7r
+2
+:2b,7r,9g;3r,18g,6b;6r,19g,2b;2b,13g,7r
+2 val
+b
+:2b,7r,9g;3r,18g,6b;6r,19g,2b;2b,13g,7r
+{'b': 2, 'g': 0, 'r': 0} MOST
+,
+:2b,7r,9g;3r,18g,6b;6r,19g,2b;2b,13g,7r
+7
+:2b,7r,9g;3r,18g,6b;6r,19g,2b;2b,13g,7r
+7 val
+r
+:2b,7r,9g;3r,18g,6b;6r,19g,2b;2b,13g,7r
+{'b': 2, 'g': 0, 'r': 7} MOST
+,
+:2b,7r,9g;3r,18g,6b;6r,19g,2b;2b,13g,7r
+9
+:2b,7r,9g;3r,18g,6b;6r,19g,2b;2b,13g,7r
+9 val
+g
+:2b,7r,9g;3r,18g,6b;6r,19g,2b;2b,13g,7r
+{'b': 2, 'g': 9, 'r': 7} MOST
+;
+:2b,7r,9g;3r,18g,6b;6r,19g,2b;2b,13g,7r
+{'b': 2, 'g': 9, 'r': 7} MOST
+3
+;3r,18g,6b;6r,19g,2b;2b,13g,7r
+3 val
+r
+;3r,18g,6b;6r,19g,2b;2b,13g,7r
+{'b': 2, 'g': 9, 'r': 7} MOST
+,
+;3r,18g,6b;6r,19g,2b;2b,13g,7r
+1
+;3r,18g,6b;6r,19g,2b;2b,13g,7r
+1 val
+8
+;3r,18g,6b;6r,19g,2b;2b,13g,7r
+18 val
+g
+;3r,18g,6b;6r,19g,2b;2b,13g,7r
+{'b': 2, 'g': 18, 'r': 7} MOST
+,
+;3r,18g,6b;6r,19g,2b;2b,13g,7r
+6
+;3r,18g,6b;6r,19g,2b;2b,13g,7r
+6 val
+b
+;3r,18g,6b;6r,19g,2b;2b,13g,7r
+{'b': 6, 'g': 18, 'r': 7} MOST
+;
+;3r,18g,6b;6r,19g,2b;2b,13g,7r
+{'b': 6, 'g': 18, 'r': 7} MOST
+6
+b;2b,13g,7r
+6 val
+r
+b;2b,13g,7r
+{'b': 6, 'g': 18, 'r': 7} MOST
+,
+b;2b,13g,7r
+1
+b;2b,13g,7r
+1 val
+9
+b;2b,13g,7r
+19 val
+g
+b;2b,13g,7r
+{'b': 6, 'g': 19, 'r': 7} MOST
+,
+b;2b,13g,7r
+2
+b;2b,13g,7r
+2 val
+b
+b;2b,13g,7r
+{'b': 6, 'g': 19, 'r': 7} MOST
+;
+b;2b,13g,7r
+{'b': 6, 'g': 19, 'r': 7} MOST
+2
+
+2 val
+b
+
+{'b': 6, 'g': 19, 'r': 7} MOST
+,
+
+1
+
+1 val
+3
+
+13 val
+g
+
+{'b': 6, 'g': 19, 'r': 7} MOST
+,
+
+7
+
+7 val
+r
+
+{'b': 6, 'g': 19, 'r': 7} MOST
+{'b': 6, 'g': 19, 'r': 7}
+6 VAL
+1 CURR
+6 NEW
+{'b': 6, 'g': 19, 'r': 7}
+19 VAL
+6 CURR
+114 NEW
+{'b': 6, 'g': 19, 'r': 7}
+7 VAL
+114 CURR
+798 NEW
+798 CURR
+39:12b,7g,3r;16g,6b;1r,4g,2b;15b,2r,2g
+ NEW GAME
+:
+:12b,7g,3r;16g,6b;1r,4g,2b;15b,2r,2g
+1
+:12b,7g,3r;16g,6b;1r,4g,2b;15b,2r,2g
+1 val
+2
+:12b,7g,3r;16g,6b;1r,4g,2b;15b,2r,2g
+12 val
+b
+:12b,7g,3r;16g,6b;1r,4g,2b;15b,2r,2g
+{'b': 12, 'g': 0, 'r': 0} MOST
+,
+:12b,7g,3r;16g,6b;1r,4g,2b;15b,2r,2g
+7
+:12b,7g,3r;16g,6b;1r,4g,2b;15b,2r,2g
+7 val
+g
+:12b,7g,3r;16g,6b;1r,4g,2b;15b,2r,2g
+{'b': 12, 'g': 7, 'r': 0} MOST
+,
+:12b,7g,3r;16g,6b;1r,4g,2b;15b,2r,2g
+3
+:12b,7g,3r;16g,6b;1r,4g,2b;15b,2r,2g
+3 val
+r
+:12b,7g,3r;16g,6b;1r,4g,2b;15b,2r,2g
+{'b': 12, 'g': 7, 'r': 3} MOST
+;
+:12b,7g,3r;16g,6b;1r,4g,2b;15b,2r,2g
+{'b': 12, 'g': 7, 'r': 3} MOST
+1
+;16g,6b;1r,4g,2b;15b,2r,2g
+1 val
+6
+;16g,6b;1r,4g,2b;15b,2r,2g
+16 val
+g
+;16g,6b;1r,4g,2b;15b,2r,2g
+{'b': 12, 'g': 16, 'r': 3} MOST
+,
+;16g,6b;1r,4g,2b;15b,2r,2g
+6
+;16g,6b;1r,4g,2b;15b,2r,2g
+6 val
+b
+;16g,6b;1r,4g,2b;15b,2r,2g
+{'b': 12, 'g': 16, 'r': 3} MOST
+;
+;16g,6b;1r,4g,2b;15b,2r,2g
+{'b': 12, 'g': 16, 'r': 3} MOST
+1
+15b,2r,2g
+1 val
+r
+15b,2r,2g
+{'b': 12, 'g': 16, 'r': 3} MOST
+,
+15b,2r,2g
+4
+15b,2r,2g
+4 val
+g
+15b,2r,2g
+{'b': 12, 'g': 16, 'r': 3} MOST
+,
+15b,2r,2g
+2
+15b,2r,2g
+2 val
+b
+15b,2r,2g
+{'b': 12, 'g': 16, 'r': 3} MOST
+;
+15b,2r,2g
+{'b': 12, 'g': 16, 'r': 3} MOST
+1
+
+1 val
+5
+
+15 val
+b
+
+{'b': 15, 'g': 16, 'r': 3} MOST
+,
+
+2
+
+2 val
+r
+
+{'b': 15, 'g': 16, 'r': 3} MOST
+,
+
+2
+
+2 val
+g
+
+{'b': 15, 'g': 16, 'r': 3} MOST
+{'b': 15, 'g': 16, 'r': 3}
+15 VAL
+1 CURR
+15 NEW
+{'b': 15, 'g': 16, 'r': 3}
+16 VAL
+15 CURR
+240 NEW
+{'b': 15, 'g': 16, 'r': 3}
+3 VAL
+240 CURR
+720 NEW
+720 CURR
+40:18b,1r;4g,15b;5g,17b,3r;4r,16b,2g
+ NEW GAME
+:
+:18b,1r;4g,15b;5g,17b,3r;4r,16b,2g
+1
+:18b,1r;4g,15b;5g,17b,3r;4r,16b,2g
+1 val
+8
+:18b,1r;4g,15b;5g,17b,3r;4r,16b,2g
+18 val
+b
+:18b,1r;4g,15b;5g,17b,3r;4r,16b,2g
+{'b': 18, 'g': 0, 'r': 0} MOST
+,
+:18b,1r;4g,15b;5g,17b,3r;4r,16b,2g
+1
+:18b,1r;4g,15b;5g,17b,3r;4r,16b,2g
+1 val
+r
+:18b,1r;4g,15b;5g,17b,3r;4r,16b,2g
+{'b': 18, 'g': 0, 'r': 1} MOST
+;
+:18b,1r;4g,15b;5g,17b,3r;4r,16b,2g
+{'b': 18, 'g': 0, 'r': 1} MOST
+4
+;4g,15b;5g,17b,3r;4r,16b,2g
+4 val
+g
+;4g,15b;5g,17b,3r;4r,16b,2g
+{'b': 18, 'g': 4, 'r': 1} MOST
+,
+;4g,15b;5g,17b,3r;4r,16b,2g
+1
+;4g,15b;5g,17b,3r;4r,16b,2g
+1 val
+5
+;4g,15b;5g,17b,3r;4r,16b,2g
+15 val
+b
+;4g,15b;5g,17b,3r;4r,16b,2g
+{'b': 18, 'g': 4, 'r': 1} MOST
+;
+;4g,15b;5g,17b,3r;4r,16b,2g
+{'b': 18, 'g': 4, 'r': 1} MOST
+5
+,3r;4r,16b,2g
+5 val
+g
+,3r;4r,16b,2g
+{'b': 18, 'g': 5, 'r': 1} MOST
+,
+,3r;4r,16b,2g
+1
+,3r;4r,16b,2g
+1 val
+7
+,3r;4r,16b,2g
+17 val
+b
+,3r;4r,16b,2g
+{'b': 18, 'g': 5, 'r': 1} MOST
+,
+,3r;4r,16b,2g
+3
+,3r;4r,16b,2g
+3 val
+r
+,3r;4r,16b,2g
+{'b': 18, 'g': 5, 'r': 3} MOST
+;
+,3r;4r,16b,2g
+{'b': 18, 'g': 5, 'r': 3} MOST
+4
+
+4 val
+r
+
+{'b': 18, 'g': 5, 'r': 4} MOST
+,
+
+1
+
+1 val
+6
+
+16 val
+b
+
+{'b': 18, 'g': 5, 'r': 4} MOST
+,
+
+2
+
+2 val
+g
+
+{'b': 18, 'g': 5, 'r': 4} MOST
+{'b': 18, 'g': 5, 'r': 4}
+18 VAL
+1 CURR
+18 NEW
+{'b': 18, 'g': 5, 'r': 4}
+5 VAL
+18 CURR
+90 NEW
+{'b': 18, 'g': 5, 'r': 4}
+4 VAL
+90 CURR
+360 NEW
+360 CURR
+41:3b,14g;11g,8b;14b,4r,1g;5b,2r,15g
+ NEW GAME
+:
+:3b,14g;11g,8b;14b,4r,1g;5b,2r,15g
+3
+:3b,14g;11g,8b;14b,4r,1g;5b,2r,15g
+3 val
+b
+:3b,14g;11g,8b;14b,4r,1g;5b,2r,15g
+{'b': 3, 'g': 0, 'r': 0} MOST
+,
+:3b,14g;11g,8b;14b,4r,1g;5b,2r,15g
+1
+:3b,14g;11g,8b;14b,4r,1g;5b,2r,15g
+1 val
+4
+:3b,14g;11g,8b;14b,4r,1g;5b,2r,15g
+14 val
+g
+:3b,14g;11g,8b;14b,4r,1g;5b,2r,15g
+{'b': 3, 'g': 14, 'r': 0} MOST
+;
+:3b,14g;11g,8b;14b,4r,1g;5b,2r,15g
+{'b': 3, 'g': 14, 'r': 0} MOST
+1
+;11g,8b;14b,4r,1g;5b,2r,15g
+1 val
+1
+;11g,8b;14b,4r,1g;5b,2r,15g
+11 val
+g
+;11g,8b;14b,4r,1g;5b,2r,15g
+{'b': 3, 'g': 14, 'r': 0} MOST
+,
+;11g,8b;14b,4r,1g;5b,2r,15g
+8
+;11g,8b;14b,4r,1g;5b,2r,15g
+8 val
+b
+;11g,8b;14b,4r,1g;5b,2r,15g
+{'b': 8, 'g': 14, 'r': 0} MOST
+;
+;11g,8b;14b,4r,1g;5b,2r,15g
+{'b': 8, 'g': 14, 'r': 0} MOST
+1
+,1g;5b,2r,15g
+1 val
+4
+,1g;5b,2r,15g
+14 val
+b
+,1g;5b,2r,15g
+{'b': 14, 'g': 14, 'r': 0} MOST
+,
+,1g;5b,2r,15g
+4
+,1g;5b,2r,15g
+4 val
+r
+,1g;5b,2r,15g
+{'b': 14, 'g': 14, 'r': 4} MOST
+,
+,1g;5b,2r,15g
+1
+,1g;5b,2r,15g
+1 val
+g
+,1g;5b,2r,15g
+{'b': 14, 'g': 14, 'r': 4} MOST
+;
+,1g;5b,2r,15g
+{'b': 14, 'g': 14, 'r': 4} MOST
+5
+
+5 val
+b
+
+{'b': 14, 'g': 14, 'r': 4} MOST
+,
+
+2
+
+2 val
+r
+
+{'b': 14, 'g': 14, 'r': 4} MOST
+,
+
+1
+
+1 val
+5
+
+15 val
+g
+
+{'b': 14, 'g': 15, 'r': 4} MOST
+{'b': 14, 'g': 15, 'r': 4}
+14 VAL
+1 CURR
+14 NEW
+{'b': 14, 'g': 15, 'r': 4}
+15 VAL
+14 CURR
+210 NEW
+{'b': 14, 'g': 15, 'r': 4}
+4 VAL
+210 CURR
+840 NEW
+840 CURR
+42:7r,9g;10r,19g,10b;16b,8g,7r;6b,11g,7r
+ NEW GAME
+:
+:7r,9g;10r,19g,10b;16b,8g,7r;6b,11g,7r
+7
+:7r,9g;10r,19g,10b;16b,8g,7r;6b,11g,7r
+7 val
+r
+:7r,9g;10r,19g,10b;16b,8g,7r;6b,11g,7r
+{'b': 0, 'g': 0, 'r': 7} MOST
+,
+:7r,9g;10r,19g,10b;16b,8g,7r;6b,11g,7r
+9
+:7r,9g;10r,19g,10b;16b,8g,7r;6b,11g,7r
+9 val
+g
+:7r,9g;10r,19g,10b;16b,8g,7r;6b,11g,7r
+{'b': 0, 'g': 9, 'r': 7} MOST
+;
+:7r,9g;10r,19g,10b;16b,8g,7r;6b,11g,7r
+{'b': 0, 'g': 9, 'r': 7} MOST
+1
+;10r,19g,10b;16b,8g,7r;6b,11g,7r
+1 val
+0
+;10r,19g,10b;16b,8g,7r;6b,11g,7r
+10 val
+r
+;10r,19g,10b;16b,8g,7r;6b,11g,7r
+{'b': 0, 'g': 9, 'r': 10} MOST
+,
+;10r,19g,10b;16b,8g,7r;6b,11g,7r
+1
+;10r,19g,10b;16b,8g,7r;6b,11g,7r
+1 val
+9
+;10r,19g,10b;16b,8g,7r;6b,11g,7r
+19 val
+g
+;10r,19g,10b;16b,8g,7r;6b,11g,7r
+{'b': 0, 'g': 19, 'r': 10} MOST
+,
+;10r,19g,10b;16b,8g,7r;6b,11g,7r
+1
+;10r,19g,10b;16b,8g,7r;6b,11g,7r
+1 val
+0
+;10r,19g,10b;16b,8g,7r;6b,11g,7r
+10 val
+b
+;10r,19g,10b;16b,8g,7r;6b,11g,7r
+{'b': 10, 'g': 19, 'r': 10} MOST
+;
+;10r,19g,10b;16b,8g,7r;6b,11g,7r
+{'b': 10, 'g': 19, 'r': 10} MOST
+1
+g,7r;6b,11g,7r
+1 val
+6
+g,7r;6b,11g,7r
+16 val
+b
+g,7r;6b,11g,7r
+{'b': 16, 'g': 19, 'r': 10} MOST
+,
+g,7r;6b,11g,7r
+8
+g,7r;6b,11g,7r
+8 val
+g
+g,7r;6b,11g,7r
+{'b': 16, 'g': 19, 'r': 10} MOST
+,
+g,7r;6b,11g,7r
+7
+g,7r;6b,11g,7r
+7 val
+r
+g,7r;6b,11g,7r
+{'b': 16, 'g': 19, 'r': 10} MOST
+;
+g,7r;6b,11g,7r
+{'b': 16, 'g': 19, 'r': 10} MOST
+6
+
+6 val
+b
+
+{'b': 16, 'g': 19, 'r': 10} MOST
+,
+
+1
+
+1 val
+1
+
+11 val
+g
+
+{'b': 16, 'g': 19, 'r': 10} MOST
+,
+
+7
+
+7 val
+r
+
+{'b': 16, 'g': 19, 'r': 10} MOST
+{'b': 16, 'g': 19, 'r': 10}
+16 VAL
+1 CURR
+16 NEW
+{'b': 16, 'g': 19, 'r': 10}
+19 VAL
+16 CURR
+304 NEW
+{'b': 16, 'g': 19, 'r': 10}
+10 VAL
+304 CURR
+3040 NEW
+3040 CURR
+43:1b,5r;8r,2g,1b;4r,3g;2g,1r
+ NEW GAME
+:
+:1b,5r;8r,2g,1b;4r,3g;2g,1r
+1
+:1b,5r;8r,2g,1b;4r,3g;2g,1r
+1 val
+b
+:1b,5r;8r,2g,1b;4r,3g;2g,1r
+{'b': 1, 'g': 0, 'r': 0} MOST
+,
+:1b,5r;8r,2g,1b;4r,3g;2g,1r
+5
+:1b,5r;8r,2g,1b;4r,3g;2g,1r
+5 val
+r
+:1b,5r;8r,2g,1b;4r,3g;2g,1r
+{'b': 1, 'g': 0, 'r': 5} MOST
+;
+:1b,5r;8r,2g,1b;4r,3g;2g,1r
+{'b': 1, 'g': 0, 'r': 5} MOST
+8
+;8r,2g,1b;4r,3g;2g,1r
+8 val
+r
+;8r,2g,1b;4r,3g;2g,1r
+{'b': 1, 'g': 0, 'r': 8} MOST
+,
+;8r,2g,1b;4r,3g;2g,1r
+2
+;8r,2g,1b;4r,3g;2g,1r
+2 val
+g
+;8r,2g,1b;4r,3g;2g,1r
+{'b': 1, 'g': 2, 'r': 8} MOST
+,
+;8r,2g,1b;4r,3g;2g,1r
+1
+;8r,2g,1b;4r,3g;2g,1r
+1 val
+b
+;8r,2g,1b;4r,3g;2g,1r
+{'b': 1, 'g': 2, 'r': 8} MOST
+;
+;8r,2g,1b;4r,3g;2g,1r
+{'b': 1, 'g': 2, 'r': 8} MOST
+4
+;2g,1r
+4 val
+r
+;2g,1r
+{'b': 1, 'g': 2, 'r': 8} MOST
+,
+;2g,1r
+3
+;2g,1r
+3 val
+g
+;2g,1r
+{'b': 1, 'g': 3, 'r': 8} MOST
+;
+;2g,1r
+{'b': 1, 'g': 3, 'r': 8} MOST
+2
+
+2 val
+g
+
+{'b': 1, 'g': 3, 'r': 8} MOST
+,
+
+1
+
+1 val
+r
+
+{'b': 1, 'g': 3, 'r': 8} MOST
+{'b': 1, 'g': 3, 'r': 8}
+1 VAL
+1 CURR
+1 NEW
+{'b': 1, 'g': 3, 'r': 8}
+3 VAL
+1 CURR
+3 NEW
+{'b': 1, 'g': 3, 'r': 8}
+8 VAL
+3 CURR
+24 NEW
+24 CURR
+44:5g,13b,12r;18b,3g,8r;2g,3b,11r
+ NEW GAME
+:
+:5g,13b,12r;18b,3g,8r;2g,3b,11r
+5
+:5g,13b,12r;18b,3g,8r;2g,3b,11r
+5 val
+g
+:5g,13b,12r;18b,3g,8r;2g,3b,11r
+{'b': 0, 'g': 5, 'r': 0} MOST
+,
+:5g,13b,12r;18b,3g,8r;2g,3b,11r
+1
+:5g,13b,12r;18b,3g,8r;2g,3b,11r
+1 val
+3
+:5g,13b,12r;18b,3g,8r;2g,3b,11r
+13 val
+b
+:5g,13b,12r;18b,3g,8r;2g,3b,11r
+{'b': 13, 'g': 5, 'r': 0} MOST
+,
+:5g,13b,12r;18b,3g,8r;2g,3b,11r
+1
+:5g,13b,12r;18b,3g,8r;2g,3b,11r
+1 val
+2
+:5g,13b,12r;18b,3g,8r;2g,3b,11r
+12 val
+r
+:5g,13b,12r;18b,3g,8r;2g,3b,11r
+{'b': 13, 'g': 5, 'r': 12} MOST
+;
+:5g,13b,12r;18b,3g,8r;2g,3b,11r
+{'b': 13, 'g': 5, 'r': 12} MOST
+1
+;18b,3g,8r;2g,3b,11r
+1 val
+8
+;18b,3g,8r;2g,3b,11r
+18 val
+b
+;18b,3g,8r;2g,3b,11r
+{'b': 18, 'g': 5, 'r': 12} MOST
+,
+;18b,3g,8r;2g,3b,11r
+3
+;18b,3g,8r;2g,3b,11r
+3 val
+g
+;18b,3g,8r;2g,3b,11r
+{'b': 18, 'g': 5, 'r': 12} MOST
+,
+;18b,3g,8r;2g,3b,11r
+8
+;18b,3g,8r;2g,3b,11r
+8 val
+r
+;18b,3g,8r;2g,3b,11r
+{'b': 18, 'g': 5, 'r': 12} MOST
+;
+;18b,3g,8r;2g,3b,11r
+{'b': 18, 'g': 5, 'r': 12} MOST
+2
+
+2 val
+g
+
+{'b': 18, 'g': 5, 'r': 12} MOST
+,
+
+3
+
+3 val
+b
+
+{'b': 18, 'g': 5, 'r': 12} MOST
+,
+
+1
+
+1 val
+1
+
+11 val
+r
+
+{'b': 18, 'g': 5, 'r': 12} MOST
+{'b': 18, 'g': 5, 'r': 12}
+18 VAL
+1 CURR
+18 NEW
+{'b': 18, 'g': 5, 'r': 12}
+5 VAL
+18 CURR
+90 NEW
+{'b': 18, 'g': 5, 'r': 12}
+12 VAL
+90 CURR
+1080 NEW
+1080 CURR
+45:3b,1r,4g;2b,1r;1b,4g;3r,16g
+ NEW GAME
+:
+:3b,1r,4g;2b,1r;1b,4g;3r,16g
+3
+:3b,1r,4g;2b,1r;1b,4g;3r,16g
+3 val
+b
+:3b,1r,4g;2b,1r;1b,4g;3r,16g
+{'b': 3, 'g': 0, 'r': 0} MOST
+,
+:3b,1r,4g;2b,1r;1b,4g;3r,16g
+1
+:3b,1r,4g;2b,1r;1b,4g;3r,16g
+1 val
+r
+:3b,1r,4g;2b,1r;1b,4g;3r,16g
+{'b': 3, 'g': 0, 'r': 1} MOST
+,
+:3b,1r,4g;2b,1r;1b,4g;3r,16g
+4
+:3b,1r,4g;2b,1r;1b,4g;3r,16g
+4 val
+g
+:3b,1r,4g;2b,1r;1b,4g;3r,16g
+{'b': 3, 'g': 4, 'r': 1} MOST
+;
+:3b,1r,4g;2b,1r;1b,4g;3r,16g
+{'b': 3, 'g': 4, 'r': 1} MOST
+2
+;2b,1r;1b,4g;3r,16g
+2 val
+b
+;2b,1r;1b,4g;3r,16g
+{'b': 3, 'g': 4, 'r': 1} MOST
+,
+;2b,1r;1b,4g;3r,16g
+1
+;2b,1r;1b,4g;3r,16g
+1 val
+r
+;2b,1r;1b,4g;3r,16g
+{'b': 3, 'g': 4, 'r': 1} MOST
+;
+;2b,1r;1b,4g;3r,16g
+{'b': 3, 'g': 4, 'r': 1} MOST
+1
+,16g
+1 val
+b
+,16g
+{'b': 3, 'g': 4, 'r': 1} MOST
+,
+,16g
+4
+,16g
+4 val
+g
+,16g
+{'b': 3, 'g': 4, 'r': 1} MOST
+;
+,16g
+{'b': 3, 'g': 4, 'r': 1} MOST
+3
+
+3 val
+r
+
+{'b': 3, 'g': 4, 'r': 3} MOST
+,
+
+1
+
+1 val
+6
+
+16 val
+g
+
+{'b': 3, 'g': 16, 'r': 3} MOST
+{'b': 3, 'g': 16, 'r': 3}
+3 VAL
+1 CURR
+3 NEW
+{'b': 3, 'g': 16, 'r': 3}
+16 VAL
+3 CURR
+48 NEW
+{'b': 3, 'g': 16, 'r': 3}
+3 VAL
+48 CURR
+144 NEW
+144 CURR
+46:10r,1g,4b;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+ NEW GAME
+:
+:10r,1g,4b;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+1
+:10r,1g,4b;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+1 val
+0
+:10r,1g,4b;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+10 val
+r
+:10r,1g,4b;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+{'b': 0, 'g': 0, 'r': 10} MOST
+,
+:10r,1g,4b;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+1
+:10r,1g,4b;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+1 val
+g
+:10r,1g,4b;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+{'b': 0, 'g': 1, 'r': 10} MOST
+,
+:10r,1g,4b;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+4
+:10r,1g,4b;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+4 val
+b
+:10r,1g,4b;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+{'b': 4, 'g': 1, 'r': 10} MOST
+;
+:10r,1g,4b;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+{'b': 4, 'g': 1, 'r': 10} MOST
+4
+;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+4 val
+g
+;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+{'b': 4, 'g': 4, 'r': 10} MOST
+,
+;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+1
+;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+1 val
+4
+;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+14 val
+b
+;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+{'b': 14, 'g': 4, 'r': 10} MOST
+,
+;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+2
+;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+2 val
+r
+;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+{'b': 14, 'g': 4, 'r': 10} MOST
+;
+;4g,14b,2r;12r,3b,2g;4g,2r,2b;2r,1g,11b;2g,19b
+{'b': 14, 'g': 4, 'r': 10} MOST
+1
+;4g,2r,2b;2r,1g,11b;2g,19b
+1 val
+2
+;4g,2r,2b;2r,1g,11b;2g,19b
+12 val
+r
+;4g,2r,2b;2r,1g,11b;2g,19b
+{'b': 14, 'g': 4, 'r': 12} MOST
+,
+;4g,2r,2b;2r,1g,11b;2g,19b
+3
+;4g,2r,2b;2r,1g,11b;2g,19b
+3 val
+b
+;4g,2r,2b;2r,1g,11b;2g,19b
+{'b': 14, 'g': 4, 'r': 12} MOST
+,
+;4g,2r,2b;2r,1g,11b;2g,19b
+2
+;4g,2r,2b;2r,1g,11b;2g,19b
+2 val
+g
+;4g,2r,2b;2r,1g,11b;2g,19b
+{'b': 14, 'g': 4, 'r': 12} MOST
+;
+;4g,2r,2b;2r,1g,11b;2g,19b
+{'b': 14, 'g': 4, 'r': 12} MOST
+4
+
+4 val
+g
+
+{'b': 14, 'g': 4, 'r': 12} MOST
+,
+
+2
+
+2 val
+r
+
+{'b': 14, 'g': 4, 'r': 12} MOST
+,
+
+2
+
+2 val
+b
+
+{'b': 14, 'g': 4, 'r': 12} MOST
+;
+
+{'b': 14, 'g': 4, 'r': 12} MOST
+2
+
+2 val
+r
+
+{'b': 14, 'g': 4, 'r': 12} MOST
+,
+
+1
+
+1 val
+g
+
+{'b': 14, 'g': 4, 'r': 12} MOST
+,
+
+1
+
+1 val
+1
+
+11 val
+b
+
+{'b': 14, 'g': 4, 'r': 12} MOST
+;
+
+{'b': 14, 'g': 4, 'r': 12} MOST
+2
+
+2 val
+g
+
+{'b': 14, 'g': 4, 'r': 12} MOST
+,
+
+1
+
+1 val
+9
+
+19 val
+b
+
+{'b': 19, 'g': 4, 'r': 12} MOST
+{'b': 19, 'g': 4, 'r': 12}
+19 VAL
+1 CURR
+19 NEW
+{'b': 19, 'g': 4, 'r': 12}
+4 VAL
+19 CURR
+76 NEW
+{'b': 19, 'g': 4, 'r': 12}
+12 VAL
+76 CURR
+912 NEW
+912 CURR
+47:10b,10g,3r;3r,11b,9g;4b,10g
+ NEW GAME
+:
+:10b,10g,3r;3r,11b,9g;4b,10g
+1
+:10b,10g,3r;3r,11b,9g;4b,10g
+1 val
+0
+:10b,10g,3r;3r,11b,9g;4b,10g
+10 val
+b
+:10b,10g,3r;3r,11b,9g;4b,10g
+{'b': 10, 'g': 0, 'r': 0} MOST
+,
+:10b,10g,3r;3r,11b,9g;4b,10g
+1
+:10b,10g,3r;3r,11b,9g;4b,10g
+1 val
+0
+:10b,10g,3r;3r,11b,9g;4b,10g
+10 val
+g
+:10b,10g,3r;3r,11b,9g;4b,10g
+{'b': 10, 'g': 10, 'r': 0} MOST
+,
+:10b,10g,3r;3r,11b,9g;4b,10g
+3
+:10b,10g,3r;3r,11b,9g;4b,10g
+3 val
+r
+:10b,10g,3r;3r,11b,9g;4b,10g
+{'b': 10, 'g': 10, 'r': 3} MOST
+;
+:10b,10g,3r;3r,11b,9g;4b,10g
+{'b': 10, 'g': 10, 'r': 3} MOST
+3
+;3r,11b,9g;4b,10g
+3 val
+r
+;3r,11b,9g;4b,10g
+{'b': 10, 'g': 10, 'r': 3} MOST
+,
+;3r,11b,9g;4b,10g
+1
+;3r,11b,9g;4b,10g
+1 val
+1
+;3r,11b,9g;4b,10g
+11 val
+b
+;3r,11b,9g;4b,10g
+{'b': 11, 'g': 10, 'r': 3} MOST
+,
+;3r,11b,9g;4b,10g
+9
+;3r,11b,9g;4b,10g
+9 val
+g
+;3r,11b,9g;4b,10g
+{'b': 11, 'g': 10, 'r': 3} MOST
+;
+;3r,11b,9g;4b,10g
+{'b': 11, 'g': 10, 'r': 3} MOST
+4
+
+4 val
+b
+
+{'b': 11, 'g': 10, 'r': 3} MOST
+,
+
+1
+
+1 val
+0
+
+10 val
+g
+
+{'b': 11, 'g': 10, 'r': 3} MOST
+{'b': 11, 'g': 10, 'r': 3}
+11 VAL
+1 CURR
+11 NEW
+{'b': 11, 'g': 10, 'r': 3}
+10 VAL
+11 CURR
+110 NEW
+{'b': 11, 'g': 10, 'r': 3}
+3 VAL
+110 CURR
+330 NEW
+330 CURR
+48:5g,1b;4r,8g,8b;17r,5b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+ NEW GAME
+:
+:5g,1b;4r,8g,8b;17r,5b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+5
+:5g,1b;4r,8g,8b;17r,5b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+5 val
+g
+:5g,1b;4r,8g,8b;17r,5b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+{'b': 0, 'g': 5, 'r': 0} MOST
+,
+:5g,1b;4r,8g,8b;17r,5b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+1
+:5g,1b;4r,8g,8b;17r,5b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+1 val
+b
+:5g,1b;4r,8g,8b;17r,5b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+{'b': 1, 'g': 5, 'r': 0} MOST
+;
+:5g,1b;4r,8g,8b;17r,5b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+{'b': 1, 'g': 5, 'r': 0} MOST
+4
+;4r,8g,8b;17r,5b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+4 val
+r
+;4r,8g,8b;17r,5b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+{'b': 1, 'g': 5, 'r': 4} MOST
+,
+;4r,8g,8b;17r,5b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+8
+;4r,8g,8b;17r,5b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+8 val
+g
+;4r,8g,8b;17r,5b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+{'b': 1, 'g': 8, 'r': 4} MOST
+,
+;4r,8g,8b;17r,5b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+8
+;4r,8g,8b;17r,5b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+8 val
+b
+;4r,8g,8b;17r,5b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+{'b': 8, 'g': 8, 'r': 4} MOST
+;
+;4r,8g,8b;17r,5b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+{'b': 8, 'g': 8, 'r': 4} MOST
+1
+b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+1 val
+7
+b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+17 val
+r
+b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+{'b': 8, 'g': 8, 'r': 17} MOST
+,
+b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+5
+b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+5 val
+b
+b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+{'b': 8, 'g': 8, 'r': 17} MOST
+,
+b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+2
+b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+2 val
+g
+b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+{'b': 8, 'g': 8, 'r': 17} MOST
+;
+b,2g;12g,18r,7b;15g,14r,8b;11g,1b,16r
+{'b': 8, 'g': 8, 'r': 17} MOST
+1
+b;11g,1b,16r
+1 val
+2
+b;11g,1b,16r
+12 val
+g
+b;11g,1b,16r
+{'b': 8, 'g': 12, 'r': 17} MOST
+,
+b;11g,1b,16r
+1
+b;11g,1b,16r
+1 val
+8
+b;11g,1b,16r
+18 val
+r
+b;11g,1b,16r
+{'b': 8, 'g': 12, 'r': 18} MOST
+,
+b;11g,1b,16r
+7
+b;11g,1b,16r
+7 val
+b
+b;11g,1b,16r
+{'b': 8, 'g': 12, 'r': 18} MOST
+;
+b;11g,1b,16r
+{'b': 8, 'g': 12, 'r': 18} MOST
+1
+
+1 val
+5
+
+15 val
+g
+
+{'b': 8, 'g': 15, 'r': 18} MOST
+,
+
+1
+
+1 val
+4
+
+14 val
+r
+
+{'b': 8, 'g': 15, 'r': 18} MOST
+,
+
+8
+
+8 val
+b
+
+{'b': 8, 'g': 15, 'r': 18} MOST
+;
+
+{'b': 8, 'g': 15, 'r': 18} MOST
+1
+
+1 val
+1
+
+11 val
+g
+
+{'b': 8, 'g': 15, 'r': 18} MOST
+,
+
+1
+
+1 val
+b
+
+{'b': 8, 'g': 15, 'r': 18} MOST
+,
+
+1
+
+1 val
+6
+
+16 val
+r
+
+{'b': 8, 'g': 15, 'r': 18} MOST
+{'b': 8, 'g': 15, 'r': 18}
+8 VAL
+1 CURR
+8 NEW
+{'b': 8, 'g': 15, 'r': 18}
+15 VAL
+8 CURR
+120 NEW
+{'b': 8, 'g': 15, 'r': 18}
+18 VAL
+120 CURR
+2160 NEW
+2160 CURR
+49:2r,4g,1b;1g,5b,2r;8g,3b,1r;4b,3r,9g
+ NEW GAME
+:
+:2r,4g,1b;1g,5b,2r;8g,3b,1r;4b,3r,9g
+2
+:2r,4g,1b;1g,5b,2r;8g,3b,1r;4b,3r,9g
+2 val
+r
+:2r,4g,1b;1g,5b,2r;8g,3b,1r;4b,3r,9g
+{'b': 0, 'g': 0, 'r': 2} MOST
+,
+:2r,4g,1b;1g,5b,2r;8g,3b,1r;4b,3r,9g
+4
+:2r,4g,1b;1g,5b,2r;8g,3b,1r;4b,3r,9g
+4 val
+g
+:2r,4g,1b;1g,5b,2r;8g,3b,1r;4b,3r,9g
+{'b': 0, 'g': 4, 'r': 2} MOST
+,
+:2r,4g,1b;1g,5b,2r;8g,3b,1r;4b,3r,9g
+1
+:2r,4g,1b;1g,5b,2r;8g,3b,1r;4b,3r,9g
+1 val
+b
+:2r,4g,1b;1g,5b,2r;8g,3b,1r;4b,3r,9g
+{'b': 1, 'g': 4, 'r': 2} MOST
+;
+:2r,4g,1b;1g,5b,2r;8g,3b,1r;4b,3r,9g
+{'b': 1, 'g': 4, 'r': 2} MOST
+1
+;1g,5b,2r;8g,3b,1r;4b,3r,9g
+1 val
+g
+;1g,5b,2r;8g,3b,1r;4b,3r,9g
+{'b': 1, 'g': 4, 'r': 2} MOST
+,
+;1g,5b,2r;8g,3b,1r;4b,3r,9g
+5
+;1g,5b,2r;8g,3b,1r;4b,3r,9g
+5 val
+b
+;1g,5b,2r;8g,3b,1r;4b,3r,9g
+{'b': 5, 'g': 4, 'r': 2} MOST
+,
+;1g,5b,2r;8g,3b,1r;4b,3r,9g
+2
+;1g,5b,2r;8g,3b,1r;4b,3r,9g
+2 val
+r
+;1g,5b,2r;8g,3b,1r;4b,3r,9g
+{'b': 5, 'g': 4, 'r': 2} MOST
+;
+;1g,5b,2r;8g,3b,1r;4b,3r,9g
+{'b': 5, 'g': 4, 'r': 2} MOST
+8
+;4b,3r,9g
+8 val
+g
+;4b,3r,9g
+{'b': 5, 'g': 8, 'r': 2} MOST
+,
+;4b,3r,9g
+3
+;4b,3r,9g
+3 val
+b
+;4b,3r,9g
+{'b': 5, 'g': 8, 'r': 2} MOST
+,
+;4b,3r,9g
+1
+;4b,3r,9g
+1 val
+r
+;4b,3r,9g
+{'b': 5, 'g': 8, 'r': 2} MOST
+;
+;4b,3r,9g
+{'b': 5, 'g': 8, 'r': 2} MOST
+4
+
+4 val
+b
+
+{'b': 5, 'g': 8, 'r': 2} MOST
+,
+
+3
+
+3 val
+r
+
+{'b': 5, 'g': 8, 'r': 3} MOST
+,
+
+9
+
+9 val
+g
+
+{'b': 5, 'g': 9, 'r': 3} MOST
+{'b': 5, 'g': 9, 'r': 3}
+5 VAL
+1 CURR
+5 NEW
+{'b': 5, 'g': 9, 'r': 3}
+9 VAL
+5 CURR
+45 NEW
+{'b': 5, 'g': 9, 'r': 3}
+3 VAL
+45 CURR
+135 NEW
+135 CURR
+50:2b;7g,5r;3r,3b;5g,1b,2r;5b,3g;4g,3b,1r
+ NEW GAME
+:
+:2b;7g,5r;3r,3b;5g,1b,2r;5b,3g;4g,3b,1r
+2
+:2b;7g,5r;3r,3b;5g,1b,2r;5b,3g;4g,3b,1r
+2 val
+b
+:2b;7g,5r;3r,3b;5g,1b,2r;5b,3g;4g,3b,1r
+{'b': 2, 'g': 0, 'r': 0} MOST
+;
+:2b;7g,5r;3r,3b;5g,1b,2r;5b,3g;4g,3b,1r
+{'b': 2, 'g': 0, 'r': 0} MOST
+7
+;7g,5r;3r,3b;5g,1b,2r;5b,3g;4g,3b,1r
+7 val
+g
+;7g,5r;3r,3b;5g,1b,2r;5b,3g;4g,3b,1r
+{'b': 2, 'g': 7, 'r': 0} MOST
+,
+;7g,5r;3r,3b;5g,1b,2r;5b,3g;4g,3b,1r
+5
+;7g,5r;3r,3b;5g,1b,2r;5b,3g;4g,3b,1r
+5 val
+r
+;7g,5r;3r,3b;5g,1b,2r;5b,3g;4g,3b,1r
+{'b': 2, 'g': 7, 'r': 5} MOST
+;
+;7g,5r;3r,3b;5g,1b,2r;5b,3g;4g,3b,1r
+{'b': 2, 'g': 7, 'r': 5} MOST
+3
+,3b;5g,1b,2r;5b,3g;4g,3b,1r
+3 val
+r
+,3b;5g,1b,2r;5b,3g;4g,3b,1r
+{'b': 2, 'g': 7, 'r': 5} MOST
+,
+,3b;5g,1b,2r;5b,3g;4g,3b,1r
+3
+,3b;5g,1b,2r;5b,3g;4g,3b,1r
+3 val
+b
+,3b;5g,1b,2r;5b,3g;4g,3b,1r
+{'b': 3, 'g': 7, 'r': 5} MOST
+;
+,3b;5g,1b,2r;5b,3g;4g,3b,1r
+{'b': 3, 'g': 7, 'r': 5} MOST
+5
+,3g;4g,3b,1r
+5 val
+g
+,3g;4g,3b,1r
+{'b': 3, 'g': 7, 'r': 5} MOST
+,
+,3g;4g,3b,1r
+1
+,3g;4g,3b,1r
+1 val
+b
+,3g;4g,3b,1r
+{'b': 3, 'g': 7, 'r': 5} MOST
+,
+,3g;4g,3b,1r
+2
+,3g;4g,3b,1r
+2 val
+r
+,3g;4g,3b,1r
+{'b': 3, 'g': 7, 'r': 5} MOST
+;
+,3g;4g,3b,1r
+{'b': 3, 'g': 7, 'r': 5} MOST
+5
+
+5 val
+b
+
+{'b': 5, 'g': 7, 'r': 5} MOST
+,
+
+3
+
+3 val
+g
+
+{'b': 5, 'g': 7, 'r': 5} MOST
+;
+
+{'b': 5, 'g': 7, 'r': 5} MOST
+4
+
+4 val
+g
+
+{'b': 5, 'g': 7, 'r': 5} MOST
+,
+
+3
+
+3 val
+b
+
+{'b': 5, 'g': 7, 'r': 5} MOST
+,
+
+1
+
+1 val
+r
+
+{'b': 5, 'g': 7, 'r': 5} MOST
+{'b': 5, 'g': 7, 'r': 5}
+5 VAL
+1 CURR
+5 NEW
+{'b': 5, 'g': 7, 'r': 5}
+7 VAL
+5 CURR
+35 NEW
+{'b': 5, 'g': 7, 'r': 5}
+5 VAL
+35 CURR
+175 NEW
+175 CURR
+51:6g,13b,3r;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+ NEW GAME
+:
+:6g,13b,3r;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+6
+:6g,13b,3r;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+6 val
+g
+:6g,13b,3r;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+{'b': 0, 'g': 6, 'r': 0} MOST
+,
+:6g,13b,3r;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+1
+:6g,13b,3r;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+1 val
+3
+:6g,13b,3r;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+13 val
+b
+:6g,13b,3r;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+{'b': 13, 'g': 6, 'r': 0} MOST
+,
+:6g,13b,3r;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+3
+:6g,13b,3r;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+3 val
+r
+:6g,13b,3r;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+{'b': 13, 'g': 6, 'r': 3} MOST
+;
+:6g,13b,3r;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+{'b': 13, 'g': 6, 'r': 3} MOST
+7
+;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+7 val
+b
+;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+{'b': 13, 'g': 6, 'r': 3} MOST
+,
+;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+7
+;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+7 val
+g
+;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+{'b': 13, 'g': 7, 'r': 3} MOST
+,
+;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+1
+;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+1 val
+r
+;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+{'b': 13, 'g': 7, 'r': 3} MOST
+;
+;7b,7g,1r;15g,2r,13b;1r,7b,3g;11b,16g,1r
+{'b': 13, 'g': 7, 'r': 3} MOST
+1
+b;1r,7b,3g;11b,16g,1r
+1 val
+5
+b;1r,7b,3g;11b,16g,1r
+15 val
+g
+b;1r,7b,3g;11b,16g,1r
+{'b': 13, 'g': 15, 'r': 3} MOST
+,
+b;1r,7b,3g;11b,16g,1r
+2
+b;1r,7b,3g;11b,16g,1r
+2 val
+r
+b;1r,7b,3g;11b,16g,1r
+{'b': 13, 'g': 15, 'r': 3} MOST
+,
+b;1r,7b,3g;11b,16g,1r
+1
+b;1r,7b,3g;11b,16g,1r
+1 val
+3
+b;1r,7b,3g;11b,16g,1r
+13 val
+b
+b;1r,7b,3g;11b,16g,1r
+{'b': 13, 'g': 15, 'r': 3} MOST
+;
+b;1r,7b,3g;11b,16g,1r
+{'b': 13, 'g': 15, 'r': 3} MOST
+1
+
+1 val
+r
+
+{'b': 13, 'g': 15, 'r': 3} MOST
+,
+
+7
+
+7 val
+b
+
+{'b': 13, 'g': 15, 'r': 3} MOST
+,
+
+3
+
+3 val
+g
+
+{'b': 13, 'g': 15, 'r': 3} MOST
+;
+
+{'b': 13, 'g': 15, 'r': 3} MOST
+1
+
+1 val
+1
+
+11 val
+b
+
+{'b': 13, 'g': 15, 'r': 3} MOST
+,
+
+1
+
+1 val
+6
+
+16 val
+g
+
+{'b': 13, 'g': 16, 'r': 3} MOST
+,
+
+1
+
+1 val
+r
+
+{'b': 13, 'g': 16, 'r': 3} MOST
+{'b': 13, 'g': 16, 'r': 3}
+13 VAL
+1 CURR
+13 NEW
+{'b': 13, 'g': 16, 'r': 3}
+16 VAL
+13 CURR
+208 NEW
+{'b': 13, 'g': 16, 'r': 3}
+3 VAL
+208 CURR
+624 NEW
+624 CURR
+52:5b,2g,14r;4b,3r;10g,7r;1b,10g,10r;9b,5g,12r
+ NEW GAME
+:
+:5b,2g,14r;4b,3r;10g,7r;1b,10g,10r;9b,5g,12r
+5
+:5b,2g,14r;4b,3r;10g,7r;1b,10g,10r;9b,5g,12r
+5 val
+b
+:5b,2g,14r;4b,3r;10g,7r;1b,10g,10r;9b,5g,12r
+{'b': 5, 'g': 0, 'r': 0} MOST
+,
+:5b,2g,14r;4b,3r;10g,7r;1b,10g,10r;9b,5g,12r
+2
+:5b,2g,14r;4b,3r;10g,7r;1b,10g,10r;9b,5g,12r
+2 val
+g
+:5b,2g,14r;4b,3r;10g,7r;1b,10g,10r;9b,5g,12r
+{'b': 5, 'g': 2, 'r': 0} MOST
+,
+:5b,2g,14r;4b,3r;10g,7r;1b,10g,10r;9b,5g,12r
+1
+:5b,2g,14r;4b,3r;10g,7r;1b,10g,10r;9b,5g,12r
+1 val
+4
+:5b,2g,14r;4b,3r;10g,7r;1b,10g,10r;9b,5g,12r
+14 val
+r
+:5b,2g,14r;4b,3r;10g,7r;1b,10g,10r;9b,5g,12r
+{'b': 5, 'g': 2, 'r': 14} MOST
+;
+:5b,2g,14r;4b,3r;10g,7r;1b,10g,10r;9b,5g,12r
+{'b': 5, 'g': 2, 'r': 14} MOST
+4
+;4b,3r;10g,7r;1b,10g,10r;9b,5g,12r
+4 val
+b
+;4b,3r;10g,7r;1b,10g,10r;9b,5g,12r
+{'b': 5, 'g': 2, 'r': 14} MOST
+,
+;4b,3r;10g,7r;1b,10g,10r;9b,5g,12r
+3
+;4b,3r;10g,7r;1b,10g,10r;9b,5g,12r
+3 val
+r
+;4b,3r;10g,7r;1b,10g,10r;9b,5g,12r
+{'b': 5, 'g': 2, 'r': 14} MOST
+;
+;4b,3r;10g,7r;1b,10g,10r;9b,5g,12r
+{'b': 5, 'g': 2, 'r': 14} MOST
+1
+,10g,10r;9b,5g,12r
+1 val
+0
+,10g,10r;9b,5g,12r
+10 val
+g
+,10g,10r;9b,5g,12r
+{'b': 5, 'g': 10, 'r': 14} MOST
+,
+,10g,10r;9b,5g,12r
+7
+,10g,10r;9b,5g,12r
+7 val
+r
+,10g,10r;9b,5g,12r
+{'b': 5, 'g': 10, 'r': 14} MOST
+;
+,10g,10r;9b,5g,12r
+{'b': 5, 'g': 10, 'r': 14} MOST
+1
+
+1 val
+b
+
+{'b': 5, 'g': 10, 'r': 14} MOST
+,
+
+1
+
+1 val
+0
+
+10 val
+g
+
+{'b': 5, 'g': 10, 'r': 14} MOST
+,
+
+1
+
+1 val
+0
+
+10 val
+r
+
+{'b': 5, 'g': 10, 'r': 14} MOST
+;
+
+{'b': 5, 'g': 10, 'r': 14} MOST
+9
+
+9 val
+b
+
+{'b': 9, 'g': 10, 'r': 14} MOST
+,
+
+5
+
+5 val
+g
+
+{'b': 9, 'g': 10, 'r': 14} MOST
+,
+
+1
+
+1 val
+2
+
+12 val
+r
+
+{'b': 9, 'g': 10, 'r': 14} MOST
+{'b': 9, 'g': 10, 'r': 14}
+9 VAL
+1 CURR
+9 NEW
+{'b': 9, 'g': 10, 'r': 14}
+10 VAL
+9 CURR
+90 NEW
+{'b': 9, 'g': 10, 'r': 14}
+14 VAL
+90 CURR
+1260 NEW
+1260 CURR
+53:1g,2r,1b;4g;1g;2g;2g,1r
+ NEW GAME
+:
+:1g,2r,1b;4g;1g;2g;2g,1r
+1
+:1g,2r,1b;4g;1g;2g;2g,1r
+1 val
+g
+:1g,2r,1b;4g;1g;2g;2g,1r
+{'b': 0, 'g': 1, 'r': 0} MOST
+,
+:1g,2r,1b;4g;1g;2g;2g,1r
+2
+:1g,2r,1b;4g;1g;2g;2g,1r
+2 val
+r
+:1g,2r,1b;4g;1g;2g;2g,1r
+{'b': 0, 'g': 1, 'r': 2} MOST
+,
+:1g,2r,1b;4g;1g;2g;2g,1r
+1
+:1g,2r,1b;4g;1g;2g;2g,1r
+1 val
+b
+:1g,2r,1b;4g;1g;2g;2g,1r
+{'b': 1, 'g': 1, 'r': 2} MOST
+;
+:1g,2r,1b;4g;1g;2g;2g,1r
+{'b': 1, 'g': 1, 'r': 2} MOST
+4
+;4g;1g;2g;2g,1r
+4 val
+g
+;4g;1g;2g;2g,1r
+{'b': 1, 'g': 4, 'r': 2} MOST
+;
+;4g;1g;2g;2g,1r
+{'b': 1, 'g': 4, 'r': 2} MOST
+1
+,1r
+1 val
+g
+,1r
+{'b': 1, 'g': 4, 'r': 2} MOST
+;
+,1r
+{'b': 1, 'g': 4, 'r': 2} MOST
+2
+
+2 val
+g
+
+{'b': 1, 'g': 4, 'r': 2} MOST
+;
+
+{'b': 1, 'g': 4, 'r': 2} MOST
+2
+
+2 val
+g
+
+{'b': 1, 'g': 4, 'r': 2} MOST
+,
+
+1
+
+1 val
+r
+
+{'b': 1, 'g': 4, 'r': 2} MOST
+{'b': 1, 'g': 4, 'r': 2}
+1 VAL
+1 CURR
+1 NEW
+{'b': 1, 'g': 4, 'r': 2}
+4 VAL
+1 CURR
+4 NEW
+{'b': 1, 'g': 4, 'r': 2}
+2 VAL
+4 CURR
+8 NEW
+8 CURR
+54:3g,11b;12b;1r,3b;7b,1r
+ NEW GAME
+:
+:3g,11b;12b;1r,3b;7b,1r
+3
+:3g,11b;12b;1r,3b;7b,1r
+3 val
+g
+:3g,11b;12b;1r,3b;7b,1r
+{'b': 0, 'g': 3, 'r': 0} MOST
+,
+:3g,11b;12b;1r,3b;7b,1r
+1
+:3g,11b;12b;1r,3b;7b,1r
+1 val
+1
+:3g,11b;12b;1r,3b;7b,1r
+11 val
+b
+:3g,11b;12b;1r,3b;7b,1r
+{'b': 11, 'g': 3, 'r': 0} MOST
+;
+:3g,11b;12b;1r,3b;7b,1r
+{'b': 11, 'g': 3, 'r': 0} MOST
+1
+;12b;1r,3b;7b,1r
+1 val
+2
+;12b;1r,3b;7b,1r
+12 val
+b
+;12b;1r,3b;7b,1r
+{'b': 12, 'g': 3, 'r': 0} MOST
+;
+;12b;1r,3b;7b,1r
+{'b': 12, 'g': 3, 'r': 0} MOST
+1
+7b,1r
+1 val
+r
+7b,1r
+{'b': 12, 'g': 3, 'r': 1} MOST
+,
+7b,1r
+3
+7b,1r
+3 val
+b
+7b,1r
+{'b': 12, 'g': 3, 'r': 1} MOST
+;
+7b,1r
+{'b': 12, 'g': 3, 'r': 1} MOST
+7
+
+7 val
+b
+
+{'b': 12, 'g': 3, 'r': 1} MOST
+,
+
+1
+
+1 val
+r
+
+{'b': 12, 'g': 3, 'r': 1} MOST
+{'b': 12, 'g': 3, 'r': 1}
+12 VAL
+1 CURR
+12 NEW
+{'b': 12, 'g': 3, 'r': 1}
+3 VAL
+12 CURR
+36 NEW
+{'b': 12, 'g': 3, 'r': 1}
+1 VAL
+36 CURR
+36 NEW
+36 CURR
+55:7g,7r;1b,7g,14r;17r,2b,5g;1b,7r;2b,3g,14r
+ NEW GAME
+:
+:7g,7r;1b,7g,14r;17r,2b,5g;1b,7r;2b,3g,14r
+7
+:7g,7r;1b,7g,14r;17r,2b,5g;1b,7r;2b,3g,14r
+7 val
+g
+:7g,7r;1b,7g,14r;17r,2b,5g;1b,7r;2b,3g,14r
+{'b': 0, 'g': 7, 'r': 0} MOST
+,
+:7g,7r;1b,7g,14r;17r,2b,5g;1b,7r;2b,3g,14r
+7
+:7g,7r;1b,7g,14r;17r,2b,5g;1b,7r;2b,3g,14r
+7 val
+r
+:7g,7r;1b,7g,14r;17r,2b,5g;1b,7r;2b,3g,14r
+{'b': 0, 'g': 7, 'r': 7} MOST
+;
+:7g,7r;1b,7g,14r;17r,2b,5g;1b,7r;2b,3g,14r
+{'b': 0, 'g': 7, 'r': 7} MOST
+1
+;1b,7g,14r;17r,2b,5g;1b,7r;2b,3g,14r
+1 val
+b
+;1b,7g,14r;17r,2b,5g;1b,7r;2b,3g,14r
+{'b': 1, 'g': 7, 'r': 7} MOST
+,
+;1b,7g,14r;17r,2b,5g;1b,7r;2b,3g,14r
+7
+;1b,7g,14r;17r,2b,5g;1b,7r;2b,3g,14r
+7 val
+g
+;1b,7g,14r;17r,2b,5g;1b,7r;2b,3g,14r
+{'b': 1, 'g': 7, 'r': 7} MOST
+,
+;1b,7g,14r;17r,2b,5g;1b,7r;2b,3g,14r
+1
+;1b,7g,14r;17r,2b,5g;1b,7r;2b,3g,14r
+1 val
+4
+;1b,7g,14r;17r,2b,5g;1b,7r;2b,3g,14r
+14 val
+r
+;1b,7g,14r;17r,2b,5g;1b,7r;2b,3g,14r
+{'b': 1, 'g': 7, 'r': 14} MOST
+;
+;1b,7g,14r;17r,2b,5g;1b,7r;2b,3g,14r
+{'b': 1, 'g': 7, 'r': 14} MOST
+1
+b,5g;1b,7r;2b,3g,14r
+1 val
+7
+b,5g;1b,7r;2b,3g,14r
+17 val
+r
+b,5g;1b,7r;2b,3g,14r
+{'b': 1, 'g': 7, 'r': 17} MOST
+,
+b,5g;1b,7r;2b,3g,14r
+2
+b,5g;1b,7r;2b,3g,14r
+2 val
+b
+b,5g;1b,7r;2b,3g,14r
+{'b': 2, 'g': 7, 'r': 17} MOST
+,
+b,5g;1b,7r;2b,3g,14r
+5
+b,5g;1b,7r;2b,3g,14r
+5 val
+g
+b,5g;1b,7r;2b,3g,14r
+{'b': 2, 'g': 7, 'r': 17} MOST
+;
+b,5g;1b,7r;2b,3g,14r
+{'b': 2, 'g': 7, 'r': 17} MOST
+1
+
+1 val
+b
+
+{'b': 2, 'g': 7, 'r': 17} MOST
+,
+
+7
+
+7 val
+r
+
+{'b': 2, 'g': 7, 'r': 17} MOST
+;
+
+{'b': 2, 'g': 7, 'r': 17} MOST
+2
+
+2 val
+b
+
+{'b': 2, 'g': 7, 'r': 17} MOST
+,
+
+3
+
+3 val
+g
+
+{'b': 2, 'g': 7, 'r': 17} MOST
+,
+
+1
+
+1 val
+4
+
+14 val
+r
+
+{'b': 2, 'g': 7, 'r': 17} MOST
+{'b': 2, 'g': 7, 'r': 17}
+2 VAL
+1 CURR
+2 NEW
+{'b': 2, 'g': 7, 'r': 17}
+7 VAL
+2 CURR
+14 NEW
+{'b': 2, 'g': 7, 'r': 17}
+17 VAL
+14 CURR
+238 NEW
+238 CURR
+56:3b,2r,1g;1r,4b,2g;5g,1r,2b;7b
+ NEW GAME
+:
+:3b,2r,1g;1r,4b,2g;5g,1r,2b;7b
+3
+:3b,2r,1g;1r,4b,2g;5g,1r,2b;7b
+3 val
+b
+:3b,2r,1g;1r,4b,2g;5g,1r,2b;7b
+{'b': 3, 'g': 0, 'r': 0} MOST
+,
+:3b,2r,1g;1r,4b,2g;5g,1r,2b;7b
+2
+:3b,2r,1g;1r,4b,2g;5g,1r,2b;7b
+2 val
+r
+:3b,2r,1g;1r,4b,2g;5g,1r,2b;7b
+{'b': 3, 'g': 0, 'r': 2} MOST
+,
+:3b,2r,1g;1r,4b,2g;5g,1r,2b;7b
+1
+:3b,2r,1g;1r,4b,2g;5g,1r,2b;7b
+1 val
+g
+:3b,2r,1g;1r,4b,2g;5g,1r,2b;7b
+{'b': 3, 'g': 1, 'r': 2} MOST
+;
+:3b,2r,1g;1r,4b,2g;5g,1r,2b;7b
+{'b': 3, 'g': 1, 'r': 2} MOST
+1
+;1r,4b,2g;5g,1r,2b;7b
+1 val
+r
+;1r,4b,2g;5g,1r,2b;7b
+{'b': 3, 'g': 1, 'r': 2} MOST
+,
+;1r,4b,2g;5g,1r,2b;7b
+4
+;1r,4b,2g;5g,1r,2b;7b
+4 val
+b
+;1r,4b,2g;5g,1r,2b;7b
+{'b': 4, 'g': 1, 'r': 2} MOST
+,
+;1r,4b,2g;5g,1r,2b;7b
+2
+;1r,4b,2g;5g,1r,2b;7b
+2 val
+g
+;1r,4b,2g;5g,1r,2b;7b
+{'b': 4, 'g': 2, 'r': 2} MOST
+;
+;1r,4b,2g;5g,1r,2b;7b
+{'b': 4, 'g': 2, 'r': 2} MOST
+5
+;7b
+5 val
+g
+;7b
+{'b': 4, 'g': 5, 'r': 2} MOST
+,
+;7b
+1
+;7b
+1 val
+r
+;7b
+{'b': 4, 'g': 5, 'r': 2} MOST
+,
+;7b
+2
+;7b
+2 val
+b
+;7b
+{'b': 4, 'g': 5, 'r': 2} MOST
+;
+;7b
+{'b': 4, 'g': 5, 'r': 2} MOST
+7
+
+7 val
+b
+
+{'b': 7, 'g': 5, 'r': 2} MOST
+{'b': 7, 'g': 5, 'r': 2}
+7 VAL
+1 CURR
+7 NEW
+{'b': 7, 'g': 5, 'r': 2}
+5 VAL
+7 CURR
+35 NEW
+{'b': 7, 'g': 5, 'r': 2}
+2 VAL
+35 CURR
+70 NEW
+70 CURR
+57:1b,14r,7g;2r,1g;1b,6r,6g
+ NEW GAME
+:
+:1b,14r,7g;2r,1g;1b,6r,6g
+1
+:1b,14r,7g;2r,1g;1b,6r,6g
+1 val
+b
+:1b,14r,7g;2r,1g;1b,6r,6g
+{'b': 1, 'g': 0, 'r': 0} MOST
+,
+:1b,14r,7g;2r,1g;1b,6r,6g
+1
+:1b,14r,7g;2r,1g;1b,6r,6g
+1 val
+4
+:1b,14r,7g;2r,1g;1b,6r,6g
+14 val
+r
+:1b,14r,7g;2r,1g;1b,6r,6g
+{'b': 1, 'g': 0, 'r': 14} MOST
+,
+:1b,14r,7g;2r,1g;1b,6r,6g
+7
+:1b,14r,7g;2r,1g;1b,6r,6g
+7 val
+g
+:1b,14r,7g;2r,1g;1b,6r,6g
+{'b': 1, 'g': 7, 'r': 14} MOST
+;
+:1b,14r,7g;2r,1g;1b,6r,6g
+{'b': 1, 'g': 7, 'r': 14} MOST
+2
+;2r,1g;1b,6r,6g
+2 val
+r
+;2r,1g;1b,6r,6g
+{'b': 1, 'g': 7, 'r': 14} MOST
+,
+;2r,1g;1b,6r,6g
+1
+;2r,1g;1b,6r,6g
+1 val
+g
+;2r,1g;1b,6r,6g
+{'b': 1, 'g': 7, 'r': 14} MOST
+;
+;2r,1g;1b,6r,6g
+{'b': 1, 'g': 7, 'r': 14} MOST
+1
+
+1 val
+b
+
+{'b': 1, 'g': 7, 'r': 14} MOST
+,
+
+6
+
+6 val
+r
+
+{'b': 1, 'g': 7, 'r': 14} MOST
+,
+
+6
+
+6 val
+g
+
+{'b': 1, 'g': 7, 'r': 14} MOST
+{'b': 1, 'g': 7, 'r': 14}
+1 VAL
+1 CURR
+1 NEW
+{'b': 1, 'g': 7, 'r': 14}
+7 VAL
+1 CURR
+7 NEW
+{'b': 1, 'g': 7, 'r': 14}
+14 VAL
+7 CURR
+98 NEW
+98 CURR
+58:11r,2g;3g,8r,8b;10r,1g,13b
+ NEW GAME
+:
+:11r,2g;3g,8r,8b;10r,1g,13b
+1
+:11r,2g;3g,8r,8b;10r,1g,13b
+1 val
+1
+:11r,2g;3g,8r,8b;10r,1g,13b
+11 val
+r
+:11r,2g;3g,8r,8b;10r,1g,13b
+{'b': 0, 'g': 0, 'r': 11} MOST
+,
+:11r,2g;3g,8r,8b;10r,1g,13b
+2
+:11r,2g;3g,8r,8b;10r,1g,13b
+2 val
+g
+:11r,2g;3g,8r,8b;10r,1g,13b
+{'b': 0, 'g': 2, 'r': 11} MOST
+;
+:11r,2g;3g,8r,8b;10r,1g,13b
+{'b': 0, 'g': 2, 'r': 11} MOST
+3
+;3g,8r,8b;10r,1g,13b
+3 val
+g
+;3g,8r,8b;10r,1g,13b
+{'b': 0, 'g': 3, 'r': 11} MOST
+,
+;3g,8r,8b;10r,1g,13b
+8
+;3g,8r,8b;10r,1g,13b
+8 val
+r
+;3g,8r,8b;10r,1g,13b
+{'b': 0, 'g': 3, 'r': 11} MOST
+,
+;3g,8r,8b;10r,1g,13b
+8
+;3g,8r,8b;10r,1g,13b
+8 val
+b
+;3g,8r,8b;10r,1g,13b
+{'b': 8, 'g': 3, 'r': 11} MOST
+;
+;3g,8r,8b;10r,1g,13b
+{'b': 8, 'g': 3, 'r': 11} MOST
+1
+,13b
+1 val
+0
+,13b
+10 val
+r
+,13b
+{'b': 8, 'g': 3, 'r': 11} MOST
+,
+,13b
+1
+,13b
+1 val
+g
+,13b
+{'b': 8, 'g': 3, 'r': 11} MOST
+,
+,13b
+1
+,13b
+1 val
+3
+,13b
+13 val
+b
+,13b
+{'b': 13, 'g': 3, 'r': 11} MOST
+{'b': 13, 'g': 3, 'r': 11}
+13 VAL
+1 CURR
+13 NEW
+{'b': 13, 'g': 3, 'r': 11}
+3 VAL
+13 CURR
+39 NEW
+{'b': 13, 'g': 3, 'r': 11}
+11 VAL
+39 CURR
+429 NEW
+429 CURR
+59:11g,5b,11r;13r,6b,11g;6r,7b,12g;9b,9r,1g
+ NEW GAME
+:
+:11g,5b,11r;13r,6b,11g;6r,7b,12g;9b,9r,1g
+1
+:11g,5b,11r;13r,6b,11g;6r,7b,12g;9b,9r,1g
+1 val
+1
+:11g,5b,11r;13r,6b,11g;6r,7b,12g;9b,9r,1g
+11 val
+g
+:11g,5b,11r;13r,6b,11g;6r,7b,12g;9b,9r,1g
+{'b': 0, 'g': 11, 'r': 0} MOST
+,
+:11g,5b,11r;13r,6b,11g;6r,7b,12g;9b,9r,1g
+5
+:11g,5b,11r;13r,6b,11g;6r,7b,12g;9b,9r,1g
+5 val
+b
+:11g,5b,11r;13r,6b,11g;6r,7b,12g;9b,9r,1g
+{'b': 5, 'g': 11, 'r': 0} MOST
+,
+:11g,5b,11r;13r,6b,11g;6r,7b,12g;9b,9r,1g
+1
+:11g,5b,11r;13r,6b,11g;6r,7b,12g;9b,9r,1g
+1 val
+1
+:11g,5b,11r;13r,6b,11g;6r,7b,12g;9b,9r,1g
+11 val
+r
+:11g,5b,11r;13r,6b,11g;6r,7b,12g;9b,9r,1g
+{'b': 5, 'g': 11, 'r': 11} MOST
+;
+:11g,5b,11r;13r,6b,11g;6r,7b,12g;9b,9r,1g
+{'b': 5, 'g': 11, 'r': 11} MOST
+1
+;13r,6b,11g;6r,7b,12g;9b,9r,1g
+1 val
+3
+;13r,6b,11g;6r,7b,12g;9b,9r,1g
+13 val
+r
+;13r,6b,11g;6r,7b,12g;9b,9r,1g
+{'b': 5, 'g': 11, 'r': 13} MOST
+,
+;13r,6b,11g;6r,7b,12g;9b,9r,1g
+6
+;13r,6b,11g;6r,7b,12g;9b,9r,1g
+6 val
+b
+;13r,6b,11g;6r,7b,12g;9b,9r,1g
+{'b': 6, 'g': 11, 'r': 13} MOST
+,
+;13r,6b,11g;6r,7b,12g;9b,9r,1g
+1
+;13r,6b,11g;6r,7b,12g;9b,9r,1g
+1 val
+1
+;13r,6b,11g;6r,7b,12g;9b,9r,1g
+11 val
+g
+;13r,6b,11g;6r,7b,12g;9b,9r,1g
+{'b': 6, 'g': 11, 'r': 13} MOST
+;
+;13r,6b,11g;6r,7b,12g;9b,9r,1g
+{'b': 6, 'g': 11, 'r': 13} MOST
+6
+9b,9r,1g
+6 val
+r
+9b,9r,1g
+{'b': 6, 'g': 11, 'r': 13} MOST
+,
+9b,9r,1g
+7
+9b,9r,1g
+7 val
+b
+9b,9r,1g
+{'b': 7, 'g': 11, 'r': 13} MOST
+,
+9b,9r,1g
+1
+9b,9r,1g
+1 val
+2
+9b,9r,1g
+12 val
+g
+9b,9r,1g
+{'b': 7, 'g': 12, 'r': 13} MOST
+;
+9b,9r,1g
+{'b': 7, 'g': 12, 'r': 13} MOST
+9
+
+9 val
+b
+
+{'b': 9, 'g': 12, 'r': 13} MOST
+,
+
+9
+
+9 val
+r
+
+{'b': 9, 'g': 12, 'r': 13} MOST
+,
+
+1
+
+1 val
+g
+
+{'b': 9, 'g': 12, 'r': 13} MOST
+{'b': 9, 'g': 12, 'r': 13}
+9 VAL
+1 CURR
+9 NEW
+{'b': 9, 'g': 12, 'r': 13}
+12 VAL
+9 CURR
+108 NEW
+{'b': 9, 'g': 12, 'r': 13}
+13 VAL
+108 CURR
+1404 NEW
+1404 CURR
+60:3r,8b,4g;5b,2r,3g;7g,3r;8b,2r,7g
+ NEW GAME
+:
+:3r,8b,4g;5b,2r,3g;7g,3r;8b,2r,7g
+3
+:3r,8b,4g;5b,2r,3g;7g,3r;8b,2r,7g
+3 val
+r
+:3r,8b,4g;5b,2r,3g;7g,3r;8b,2r,7g
+{'b': 0, 'g': 0, 'r': 3} MOST
+,
+:3r,8b,4g;5b,2r,3g;7g,3r;8b,2r,7g
+8
+:3r,8b,4g;5b,2r,3g;7g,3r;8b,2r,7g
+8 val
+b
+:3r,8b,4g;5b,2r,3g;7g,3r;8b,2r,7g
+{'b': 8, 'g': 0, 'r': 3} MOST
+,
+:3r,8b,4g;5b,2r,3g;7g,3r;8b,2r,7g
+4
+:3r,8b,4g;5b,2r,3g;7g,3r;8b,2r,7g
+4 val
+g
+:3r,8b,4g;5b,2r,3g;7g,3r;8b,2r,7g
+{'b': 8, 'g': 4, 'r': 3} MOST
+;
+:3r,8b,4g;5b,2r,3g;7g,3r;8b,2r,7g
+{'b': 8, 'g': 4, 'r': 3} MOST
+5
+;5b,2r,3g;7g,3r;8b,2r,7g
+5 val
+b
+;5b,2r,3g;7g,3r;8b,2r,7g
+{'b': 8, 'g': 4, 'r': 3} MOST
+,
+;5b,2r,3g;7g,3r;8b,2r,7g
+2
+;5b,2r,3g;7g,3r;8b,2r,7g
+2 val
+r
+;5b,2r,3g;7g,3r;8b,2r,7g
+{'b': 8, 'g': 4, 'r': 3} MOST
+,
+;5b,2r,3g;7g,3r;8b,2r,7g
+3
+;5b,2r,3g;7g,3r;8b,2r,7g
+3 val
+g
+;5b,2r,3g;7g,3r;8b,2r,7g
+{'b': 8, 'g': 4, 'r': 3} MOST
+;
+;5b,2r,3g;7g,3r;8b,2r,7g
+{'b': 8, 'g': 4, 'r': 3} MOST
+7
+,2r,7g
+7 val
+g
+,2r,7g
+{'b': 8, 'g': 7, 'r': 3} MOST
+,
+,2r,7g
+3
+,2r,7g
+3 val
+r
+,2r,7g
+{'b': 8, 'g': 7, 'r': 3} MOST
+;
+,2r,7g
+{'b': 8, 'g': 7, 'r': 3} MOST
+8
+
+8 val
+b
+
+{'b': 8, 'g': 7, 'r': 3} MOST
+,
+
+2
+
+2 val
+r
+
+{'b': 8, 'g': 7, 'r': 3} MOST
+,
+
+7
+
+7 val
+g
+
+{'b': 8, 'g': 7, 'r': 3} MOST
+{'b': 8, 'g': 7, 'r': 3}
+8 VAL
+1 CURR
+8 NEW
+{'b': 8, 'g': 7, 'r': 3}
+7 VAL
+8 CURR
+56 NEW
+{'b': 8, 'g': 7, 'r': 3}
+3 VAL
+56 CURR
+168 NEW
+168 CURR
+61:17r,12b,9g;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+ NEW GAME
+:
+:17r,12b,9g;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+1
+:17r,12b,9g;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+1 val
+7
+:17r,12b,9g;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+17 val
+r
+:17r,12b,9g;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+{'b': 0, 'g': 0, 'r': 17} MOST
+,
+:17r,12b,9g;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+1
+:17r,12b,9g;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+1 val
+2
+:17r,12b,9g;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+12 val
+b
+:17r,12b,9g;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+{'b': 12, 'g': 0, 'r': 17} MOST
+,
+:17r,12b,9g;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+9
+:17r,12b,9g;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+9 val
+g
+:17r,12b,9g;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+{'b': 12, 'g': 9, 'r': 17} MOST
+;
+:17r,12b,9g;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+{'b': 12, 'g': 9, 'r': 17} MOST
+2
+;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+2 val
+0
+;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+20 val
+g
+;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+{'b': 12, 'g': 20, 'r': 17} MOST
+,
+;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+5
+;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+5 val
+r
+;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+{'b': 12, 'g': 20, 'r': 17} MOST
+,
+;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+1
+;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+1 val
+4
+;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+14 val
+b
+;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+{'b': 14, 'g': 20, 'r': 17} MOST
+;
+;20g,5r,14b;9b,11g,15r;14g,6b,14r;16g,7r,4b
+{'b': 14, 'g': 20, 'r': 17} MOST
+9
+;14g,6b,14r;16g,7r,4b
+9 val
+b
+;14g,6b,14r;16g,7r,4b
+{'b': 14, 'g': 20, 'r': 17} MOST
+,
+;14g,6b,14r;16g,7r,4b
+1
+;14g,6b,14r;16g,7r,4b
+1 val
+1
+;14g,6b,14r;16g,7r,4b
+11 val
+g
+;14g,6b,14r;16g,7r,4b
+{'b': 14, 'g': 20, 'r': 17} MOST
+,
+;14g,6b,14r;16g,7r,4b
+1
+;14g,6b,14r;16g,7r,4b
+1 val
+5
+;14g,6b,14r;16g,7r,4b
+15 val
+r
+;14g,6b,14r;16g,7r,4b
+{'b': 14, 'g': 20, 'r': 17} MOST
+;
+;14g,6b,14r;16g,7r,4b
+{'b': 14, 'g': 20, 'r': 17} MOST
+1
+
+1 val
+4
+
+14 val
+g
+
+{'b': 14, 'g': 20, 'r': 17} MOST
+,
+
+6
+
+6 val
+b
+
+{'b': 14, 'g': 20, 'r': 17} MOST
+,
+
+1
+
+1 val
+4
+
+14 val
+r
+
+{'b': 14, 'g': 20, 'r': 17} MOST
+;
+
+{'b': 14, 'g': 20, 'r': 17} MOST
+1
+
+1 val
+6
+
+16 val
+g
+
+{'b': 14, 'g': 20, 'r': 17} MOST
+,
+
+7
+
+7 val
+r
+
+{'b': 14, 'g': 20, 'r': 17} MOST
+,
+
+4
+
+4 val
+b
+
+{'b': 14, 'g': 20, 'r': 17} MOST
+{'b': 14, 'g': 20, 'r': 17}
+14 VAL
+1 CURR
+14 NEW
+{'b': 14, 'g': 20, 'r': 17}
+20 VAL
+14 CURR
+280 NEW
+{'b': 14, 'g': 20, 'r': 17}
+17 VAL
+280 CURR
+4760 NEW
+4760 CURR
+62:3r,11b,16g;1g,6r,6b;7g,6r,9b
+ NEW GAME
+:
+:3r,11b,16g;1g,6r,6b;7g,6r,9b
+3
+:3r,11b,16g;1g,6r,6b;7g,6r,9b
+3 val
+r
+:3r,11b,16g;1g,6r,6b;7g,6r,9b
+{'b': 0, 'g': 0, 'r': 3} MOST
+,
+:3r,11b,16g;1g,6r,6b;7g,6r,9b
+1
+:3r,11b,16g;1g,6r,6b;7g,6r,9b
+1 val
+1
+:3r,11b,16g;1g,6r,6b;7g,6r,9b
+11 val
+b
+:3r,11b,16g;1g,6r,6b;7g,6r,9b
+{'b': 11, 'g': 0, 'r': 3} MOST
+,
+:3r,11b,16g;1g,6r,6b;7g,6r,9b
+1
+:3r,11b,16g;1g,6r,6b;7g,6r,9b
+1 val
+6
+:3r,11b,16g;1g,6r,6b;7g,6r,9b
+16 val
+g
+:3r,11b,16g;1g,6r,6b;7g,6r,9b
+{'b': 11, 'g': 16, 'r': 3} MOST
+;
+:3r,11b,16g;1g,6r,6b;7g,6r,9b
+{'b': 11, 'g': 16, 'r': 3} MOST
+1
+;1g,6r,6b;7g,6r,9b
+1 val
+g
+;1g,6r,6b;7g,6r,9b
+{'b': 11, 'g': 16, 'r': 3} MOST
+,
+;1g,6r,6b;7g,6r,9b
+6
+;1g,6r,6b;7g,6r,9b
+6 val
+r
+;1g,6r,6b;7g,6r,9b
+{'b': 11, 'g': 16, 'r': 6} MOST
+,
+;1g,6r,6b;7g,6r,9b
+6
+;1g,6r,6b;7g,6r,9b
+6 val
+b
+;1g,6r,6b;7g,6r,9b
+{'b': 11, 'g': 16, 'r': 6} MOST
+;
+;1g,6r,6b;7g,6r,9b
+{'b': 11, 'g': 16, 'r': 6} MOST
+7
+
+7 val
+g
+
+{'b': 11, 'g': 16, 'r': 6} MOST
+,
+
+6
+
+6 val
+r
+
+{'b': 11, 'g': 16, 'r': 6} MOST
+,
+
+9
+
+9 val
+b
+
+{'b': 11, 'g': 16, 'r': 6} MOST
+{'b': 11, 'g': 16, 'r': 6}
+11 VAL
+1 CURR
+11 NEW
+{'b': 11, 'g': 16, 'r': 6}
+16 VAL
+11 CURR
+176 NEW
+{'b': 11, 'g': 16, 'r': 6}
+6 VAL
+176 CURR
+1056 NEW
+1056 CURR
+63:3b,20r,1g;11r,5g;13r,2g;15r,1b,6g
+ NEW GAME
+:
+:3b,20r,1g;11r,5g;13r,2g;15r,1b,6g
+3
+:3b,20r,1g;11r,5g;13r,2g;15r,1b,6g
+3 val
+b
+:3b,20r,1g;11r,5g;13r,2g;15r,1b,6g
+{'b': 3, 'g': 0, 'r': 0} MOST
+,
+:3b,20r,1g;11r,5g;13r,2g;15r,1b,6g
+2
+:3b,20r,1g;11r,5g;13r,2g;15r,1b,6g
+2 val
+0
+:3b,20r,1g;11r,5g;13r,2g;15r,1b,6g
+20 val
+r
+:3b,20r,1g;11r,5g;13r,2g;15r,1b,6g
+{'b': 3, 'g': 0, 'r': 20} MOST
+,
+:3b,20r,1g;11r,5g;13r,2g;15r,1b,6g
+1
+:3b,20r,1g;11r,5g;13r,2g;15r,1b,6g
+1 val
+g
+:3b,20r,1g;11r,5g;13r,2g;15r,1b,6g
+{'b': 3, 'g': 1, 'r': 20} MOST
+;
+:3b,20r,1g;11r,5g;13r,2g;15r,1b,6g
+{'b': 3, 'g': 1, 'r': 20} MOST
+1
+;11r,5g;13r,2g;15r,1b,6g
+1 val
+1
+;11r,5g;13r,2g;15r,1b,6g
+11 val
+r
+;11r,5g;13r,2g;15r,1b,6g
+{'b': 3, 'g': 1, 'r': 20} MOST
+,
+;11r,5g;13r,2g;15r,1b,6g
+5
+;11r,5g;13r,2g;15r,1b,6g
+5 val
+g
+;11r,5g;13r,2g;15r,1b,6g
+{'b': 3, 'g': 5, 'r': 20} MOST
+;
+;11r,5g;13r,2g;15r,1b,6g
+{'b': 3, 'g': 5, 'r': 20} MOST
+1
+r,1b,6g
+1 val
+3
+r,1b,6g
+13 val
+r
+r,1b,6g
+{'b': 3, 'g': 5, 'r': 20} MOST
+,
+r,1b,6g
+2
+r,1b,6g
+2 val
+g
+r,1b,6g
+{'b': 3, 'g': 5, 'r': 20} MOST
+;
+r,1b,6g
+{'b': 3, 'g': 5, 'r': 20} MOST
+1
+
+1 val
+5
+
+15 val
+r
+
+{'b': 3, 'g': 5, 'r': 20} MOST
+,
+
+1
+
+1 val
+b
+
+{'b': 3, 'g': 5, 'r': 20} MOST
+,
+
+6
+
+6 val
+g
+
+{'b': 3, 'g': 6, 'r': 20} MOST
+{'b': 3, 'g': 6, 'r': 20}
+3 VAL
+1 CURR
+3 NEW
+{'b': 3, 'g': 6, 'r': 20}
+6 VAL
+3 CURR
+18 NEW
+{'b': 3, 'g': 6, 'r': 20}
+20 VAL
+18 CURR
+360 NEW
+360 CURR
+64:8b,1r,11g;1r,11b,4g;5r,7g,1b
+ NEW GAME
+:
+:8b,1r,11g;1r,11b,4g;5r,7g,1b
+8
+:8b,1r,11g;1r,11b,4g;5r,7g,1b
+8 val
+b
+:8b,1r,11g;1r,11b,4g;5r,7g,1b
+{'b': 8, 'g': 0, 'r': 0} MOST
+,
+:8b,1r,11g;1r,11b,4g;5r,7g,1b
+1
+:8b,1r,11g;1r,11b,4g;5r,7g,1b
+1 val
+r
+:8b,1r,11g;1r,11b,4g;5r,7g,1b
+{'b': 8, 'g': 0, 'r': 1} MOST
+,
+:8b,1r,11g;1r,11b,4g;5r,7g,1b
+1
+:8b,1r,11g;1r,11b,4g;5r,7g,1b
+1 val
+1
+:8b,1r,11g;1r,11b,4g;5r,7g,1b
+11 val
+g
+:8b,1r,11g;1r,11b,4g;5r,7g,1b
+{'b': 8, 'g': 11, 'r': 1} MOST
+;
+:8b,1r,11g;1r,11b,4g;5r,7g,1b
+{'b': 8, 'g': 11, 'r': 1} MOST
+1
+;1r,11b,4g;5r,7g,1b
+1 val
+r
+;1r,11b,4g;5r,7g,1b
+{'b': 8, 'g': 11, 'r': 1} MOST
+,
+;1r,11b,4g;5r,7g,1b
+1
+;1r,11b,4g;5r,7g,1b
+1 val
+1
+;1r,11b,4g;5r,7g,1b
+11 val
+b
+;1r,11b,4g;5r,7g,1b
+{'b': 11, 'g': 11, 'r': 1} MOST
+,
+;1r,11b,4g;5r,7g,1b
+4
+;1r,11b,4g;5r,7g,1b
+4 val
+g
+;1r,11b,4g;5r,7g,1b
+{'b': 11, 'g': 11, 'r': 1} MOST
+;
+;1r,11b,4g;5r,7g,1b
+{'b': 11, 'g': 11, 'r': 1} MOST
+5
+
+5 val
+r
+
+{'b': 11, 'g': 11, 'r': 5} MOST
+,
+
+7
+
+7 val
+g
+
+{'b': 11, 'g': 11, 'r': 5} MOST
+,
+
+1
+
+1 val
+b
+
+{'b': 11, 'g': 11, 'r': 5} MOST
+{'b': 11, 'g': 11, 'r': 5}
+11 VAL
+1 CURR
+11 NEW
+{'b': 11, 'g': 11, 'r': 5}
+11 VAL
+11 CURR
+121 NEW
+{'b': 11, 'g': 11, 'r': 5}
+5 VAL
+121 CURR
+605 NEW
+605 CURR
+65:3b,13g,2r;2b,3r;10g,8b,2r;2r,6b,8g;10b,12g
+ NEW GAME
+:
+:3b,13g,2r;2b,3r;10g,8b,2r;2r,6b,8g;10b,12g
+3
+:3b,13g,2r;2b,3r;10g,8b,2r;2r,6b,8g;10b,12g
+3 val
+b
+:3b,13g,2r;2b,3r;10g,8b,2r;2r,6b,8g;10b,12g
+{'b': 3, 'g': 0, 'r': 0} MOST
+,
+:3b,13g,2r;2b,3r;10g,8b,2r;2r,6b,8g;10b,12g
+1
+:3b,13g,2r;2b,3r;10g,8b,2r;2r,6b,8g;10b,12g
+1 val
+3
+:3b,13g,2r;2b,3r;10g,8b,2r;2r,6b,8g;10b,12g
+13 val
+g
+:3b,13g,2r;2b,3r;10g,8b,2r;2r,6b,8g;10b,12g
+{'b': 3, 'g': 13, 'r': 0} MOST
+,
+:3b,13g,2r;2b,3r;10g,8b,2r;2r,6b,8g;10b,12g
+2
+:3b,13g,2r;2b,3r;10g,8b,2r;2r,6b,8g;10b,12g
+2 val
+r
+:3b,13g,2r;2b,3r;10g,8b,2r;2r,6b,8g;10b,12g
+{'b': 3, 'g': 13, 'r': 2} MOST
+;
+:3b,13g,2r;2b,3r;10g,8b,2r;2r,6b,8g;10b,12g
+{'b': 3, 'g': 13, 'r': 2} MOST
+2
+;2b,3r;10g,8b,2r;2r,6b,8g;10b,12g
+2 val
+b
+;2b,3r;10g,8b,2r;2r,6b,8g;10b,12g
+{'b': 3, 'g': 13, 'r': 2} MOST
+,
+;2b,3r;10g,8b,2r;2r,6b,8g;10b,12g
+3
+;2b,3r;10g,8b,2r;2r,6b,8g;10b,12g
+3 val
+r
+;2b,3r;10g,8b,2r;2r,6b,8g;10b,12g
+{'b': 3, 'g': 13, 'r': 3} MOST
+;
+;2b,3r;10g,8b,2r;2r,6b,8g;10b,12g
+{'b': 3, 'g': 13, 'r': 3} MOST
+1
+;2r,6b,8g;10b,12g
+1 val
+0
+;2r,6b,8g;10b,12g
+10 val
+g
+;2r,6b,8g;10b,12g
+{'b': 3, 'g': 13, 'r': 3} MOST
+,
+;2r,6b,8g;10b,12g
+8
+;2r,6b,8g;10b,12g
+8 val
+b
+;2r,6b,8g;10b,12g
+{'b': 8, 'g': 13, 'r': 3} MOST
+,
+;2r,6b,8g;10b,12g
+2
+;2r,6b,8g;10b,12g
+2 val
+r
+;2r,6b,8g;10b,12g
+{'b': 8, 'g': 13, 'r': 3} MOST
+;
+;2r,6b,8g;10b,12g
+{'b': 8, 'g': 13, 'r': 3} MOST
+2
+
+2 val
+r
+
+{'b': 8, 'g': 13, 'r': 3} MOST
+,
+
+6
+
+6 val
+b
+
+{'b': 8, 'g': 13, 'r': 3} MOST
+,
+
+8
+
+8 val
+g
+
+{'b': 8, 'g': 13, 'r': 3} MOST
+;
+
+{'b': 8, 'g': 13, 'r': 3} MOST
+1
+
+1 val
+0
+
+10 val
+b
+
+{'b': 10, 'g': 13, 'r': 3} MOST
+,
+
+1
+
+1 val
+2
+
+12 val
+g
+
+{'b': 10, 'g': 13, 'r': 3} MOST
+{'b': 10, 'g': 13, 'r': 3}
+10 VAL
+1 CURR
+10 NEW
+{'b': 10, 'g': 13, 'r': 3}
+13 VAL
+10 CURR
+130 NEW
+{'b': 10, 'g': 13, 'r': 3}
+3 VAL
+130 CURR
+390 NEW
+390 CURR
+66:4b,3r,8g;1r,9g;7b,6r,6g;1b,1r,11g
+ NEW GAME
+:
+:4b,3r,8g;1r,9g;7b,6r,6g;1b,1r,11g
+4
+:4b,3r,8g;1r,9g;7b,6r,6g;1b,1r,11g
+4 val
+b
+:4b,3r,8g;1r,9g;7b,6r,6g;1b,1r,11g
+{'b': 4, 'g': 0, 'r': 0} MOST
+,
+:4b,3r,8g;1r,9g;7b,6r,6g;1b,1r,11g
+3
+:4b,3r,8g;1r,9g;7b,6r,6g;1b,1r,11g
+3 val
+r
+:4b,3r,8g;1r,9g;7b,6r,6g;1b,1r,11g
+{'b': 4, 'g': 0, 'r': 3} MOST
+,
+:4b,3r,8g;1r,9g;7b,6r,6g;1b,1r,11g
+8
+:4b,3r,8g;1r,9g;7b,6r,6g;1b,1r,11g
+8 val
+g
+:4b,3r,8g;1r,9g;7b,6r,6g;1b,1r,11g
+{'b': 4, 'g': 8, 'r': 3} MOST
+;
+:4b,3r,8g;1r,9g;7b,6r,6g;1b,1r,11g
+{'b': 4, 'g': 8, 'r': 3} MOST
+1
+;1r,9g;7b,6r,6g;1b,1r,11g
+1 val
+r
+;1r,9g;7b,6r,6g;1b,1r,11g
+{'b': 4, 'g': 8, 'r': 3} MOST
+,
+;1r,9g;7b,6r,6g;1b,1r,11g
+9
+;1r,9g;7b,6r,6g;1b,1r,11g
+9 val
+g
+;1r,9g;7b,6r,6g;1b,1r,11g
+{'b': 4, 'g': 9, 'r': 3} MOST
+;
+;1r,9g;7b,6r,6g;1b,1r,11g
+{'b': 4, 'g': 9, 'r': 3} MOST
+7
+;1b,1r,11g
+7 val
+b
+;1b,1r,11g
+{'b': 7, 'g': 9, 'r': 3} MOST
+,
+;1b,1r,11g
+6
+;1b,1r,11g
+6 val
+r
+;1b,1r,11g
+{'b': 7, 'g': 9, 'r': 6} MOST
+,
+;1b,1r,11g
+6
+;1b,1r,11g
+6 val
+g
+;1b,1r,11g
+{'b': 7, 'g': 9, 'r': 6} MOST
+;
+;1b,1r,11g
+{'b': 7, 'g': 9, 'r': 6} MOST
+1
+
+1 val
+b
+
+{'b': 7, 'g': 9, 'r': 6} MOST
+,
+
+1
+
+1 val
+r
+
+{'b': 7, 'g': 9, 'r': 6} MOST
+,
+
+1
+
+1 val
+1
+
+11 val
+g
+
+{'b': 7, 'g': 11, 'r': 6} MOST
+{'b': 7, 'g': 11, 'r': 6}
+7 VAL
+1 CURR
+7 NEW
+{'b': 7, 'g': 11, 'r': 6}
+11 VAL
+7 CURR
+77 NEW
+{'b': 7, 'g': 11, 'r': 6}
+6 VAL
+77 CURR
+462 NEW
+462 CURR
+67:10b,15g;3r,2b,1g;4b,12g,2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+ NEW GAME
+:
+:10b,15g;3r,2b,1g;4b,12g,2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+1
+:10b,15g;3r,2b,1g;4b,12g,2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+1 val
+0
+:10b,15g;3r,2b,1g;4b,12g,2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+10 val
+b
+:10b,15g;3r,2b,1g;4b,12g,2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+{'b': 10, 'g': 0, 'r': 0} MOST
+,
+:10b,15g;3r,2b,1g;4b,12g,2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+1
+:10b,15g;3r,2b,1g;4b,12g,2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+1 val
+5
+:10b,15g;3r,2b,1g;4b,12g,2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+15 val
+g
+:10b,15g;3r,2b,1g;4b,12g,2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+{'b': 10, 'g': 15, 'r': 0} MOST
+;
+:10b,15g;3r,2b,1g;4b,12g,2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+{'b': 10, 'g': 15, 'r': 0} MOST
+3
+;3r,2b,1g;4b,12g,2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+3 val
+r
+;3r,2b,1g;4b,12g,2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+{'b': 10, 'g': 15, 'r': 3} MOST
+,
+;3r,2b,1g;4b,12g,2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+2
+;3r,2b,1g;4b,12g,2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+2 val
+b
+;3r,2b,1g;4b,12g,2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+{'b': 10, 'g': 15, 'r': 3} MOST
+,
+;3r,2b,1g;4b,12g,2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+1
+;3r,2b,1g;4b,12g,2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+1 val
+g
+;3r,2b,1g;4b,12g,2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+{'b': 10, 'g': 15, 'r': 3} MOST
+;
+;3r,2b,1g;4b,12g,2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+{'b': 10, 'g': 15, 'r': 3} MOST
+4
+2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+4 val
+b
+2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+{'b': 10, 'g': 15, 'r': 3} MOST
+,
+2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+1
+2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+1 val
+2
+2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+12 val
+g
+2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+{'b': 10, 'g': 15, 'r': 3} MOST
+,
+2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+2
+2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+2 val
+r
+2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+{'b': 10, 'g': 15, 'r': 3} MOST
+;
+2r;8g,11b,8r;9b,5g,6r;10g,4r,14b
+{'b': 10, 'g': 15, 'r': 3} MOST
+8
+r,14b
+8 val
+g
+r,14b
+{'b': 10, 'g': 15, 'r': 3} MOST
+,
+r,14b
+1
+r,14b
+1 val
+1
+r,14b
+11 val
+b
+r,14b
+{'b': 11, 'g': 15, 'r': 3} MOST
+,
+r,14b
+8
+r,14b
+8 val
+r
+r,14b
+{'b': 11, 'g': 15, 'r': 8} MOST
+;
+r,14b
+{'b': 11, 'g': 15, 'r': 8} MOST
+9
+
+9 val
+b
+
+{'b': 11, 'g': 15, 'r': 8} MOST
+,
+
+5
+
+5 val
+g
+
+{'b': 11, 'g': 15, 'r': 8} MOST
+,
+
+6
+
+6 val
+r
+
+{'b': 11, 'g': 15, 'r': 8} MOST
+;
+
+{'b': 11, 'g': 15, 'r': 8} MOST
+1
+
+1 val
+0
+
+10 val
+g
+
+{'b': 11, 'g': 15, 'r': 8} MOST
+,
+
+4
+
+4 val
+r
+
+{'b': 11, 'g': 15, 'r': 8} MOST
+,
+
+1
+
+1 val
+4
+
+14 val
+b
+
+{'b': 14, 'g': 15, 'r': 8} MOST
+{'b': 14, 'g': 15, 'r': 8}
+14 VAL
+1 CURR
+14 NEW
+{'b': 14, 'g': 15, 'r': 8}
+15 VAL
+14 CURR
+210 NEW
+{'b': 14, 'g': 15, 'r': 8}
+8 VAL
+210 CURR
+1680 NEW
+1680 CURR
+68:4g,3b,4r;9g,2b;6b,6r,10g;5b,4g,5r;3b,10g;5b,5r
+ NEW GAME
+:
+:4g,3b,4r;9g,2b;6b,6r,10g;5b,4g,5r;3b,10g;5b,5r
+4
+:4g,3b,4r;9g,2b;6b,6r,10g;5b,4g,5r;3b,10g;5b,5r
+4 val
+g
+:4g,3b,4r;9g,2b;6b,6r,10g;5b,4g,5r;3b,10g;5b,5r
+{'b': 0, 'g': 4, 'r': 0} MOST
+,
+:4g,3b,4r;9g,2b;6b,6r,10g;5b,4g,5r;3b,10g;5b,5r
+3
+:4g,3b,4r;9g,2b;6b,6r,10g;5b,4g,5r;3b,10g;5b,5r
+3 val
+b
+:4g,3b,4r;9g,2b;6b,6r,10g;5b,4g,5r;3b,10g;5b,5r
+{'b': 3, 'g': 4, 'r': 0} MOST
+,
+:4g,3b,4r;9g,2b;6b,6r,10g;5b,4g,5r;3b,10g;5b,5r
+4
+:4g,3b,4r;9g,2b;6b,6r,10g;5b,4g,5r;3b,10g;5b,5r
+4 val
+r
+:4g,3b,4r;9g,2b;6b,6r,10g;5b,4g,5r;3b,10g;5b,5r
+{'b': 3, 'g': 4, 'r': 4} MOST
+;
+:4g,3b,4r;9g,2b;6b,6r,10g;5b,4g,5r;3b,10g;5b,5r
+{'b': 3, 'g': 4, 'r': 4} MOST
+9
+;9g,2b;6b,6r,10g;5b,4g,5r;3b,10g;5b,5r
+9 val
+g
+;9g,2b;6b,6r,10g;5b,4g,5r;3b,10g;5b,5r
+{'b': 3, 'g': 9, 'r': 4} MOST
+,
+;9g,2b;6b,6r,10g;5b,4g,5r;3b,10g;5b,5r
+2
+;9g,2b;6b,6r,10g;5b,4g,5r;3b,10g;5b,5r
+2 val
+b
+;9g,2b;6b,6r,10g;5b,4g,5r;3b,10g;5b,5r
+{'b': 3, 'g': 9, 'r': 4} MOST
+;
+;9g,2b;6b,6r,10g;5b,4g,5r;3b,10g;5b,5r
+{'b': 3, 'g': 9, 'r': 4} MOST
+6
+g;5b,4g,5r;3b,10g;5b,5r
+6 val
+b
+g;5b,4g,5r;3b,10g;5b,5r
+{'b': 6, 'g': 9, 'r': 4} MOST
+,
+g;5b,4g,5r;3b,10g;5b,5r
+6
+g;5b,4g,5r;3b,10g;5b,5r
+6 val
+r
+g;5b,4g,5r;3b,10g;5b,5r
+{'b': 6, 'g': 9, 'r': 6} MOST
+,
+g;5b,4g,5r;3b,10g;5b,5r
+1
+g;5b,4g,5r;3b,10g;5b,5r
+1 val
+0
+g;5b,4g,5r;3b,10g;5b,5r
+10 val
+g
+g;5b,4g,5r;3b,10g;5b,5r
+{'b': 6, 'g': 10, 'r': 6} MOST
+;
+g;5b,4g,5r;3b,10g;5b,5r
+{'b': 6, 'g': 10, 'r': 6} MOST
+5
+
+5 val
+b
+
+{'b': 6, 'g': 10, 'r': 6} MOST
+,
+
+4
+
+4 val
+g
+
+{'b': 6, 'g': 10, 'r': 6} MOST
+,
+
+5
+
+5 val
+r
+
+{'b': 6, 'g': 10, 'r': 6} MOST
+;
+
+{'b': 6, 'g': 10, 'r': 6} MOST
+3
+
+3 val
+b
+
+{'b': 6, 'g': 10, 'r': 6} MOST
+,
+
+1
+
+1 val
+0
+
+10 val
+g
+
+{'b': 6, 'g': 10, 'r': 6} MOST
+;
+
+{'b': 6, 'g': 10, 'r': 6} MOST
+5
+
+5 val
+b
+
+{'b': 6, 'g': 10, 'r': 6} MOST
+,
+
+5
+
+5 val
+r
+
+{'b': 6, 'g': 10, 'r': 6} MOST
+{'b': 6, 'g': 10, 'r': 6}
+6 VAL
+1 CURR
+6 NEW
+{'b': 6, 'g': 10, 'r': 6}
+10 VAL
+6 CURR
+60 NEW
+{'b': 6, 'g': 10, 'r': 6}
+6 VAL
+60 CURR
+360 NEW
+360 CURR
+69:6b,1r,1g;4r,3g,2b;5g,3r,5b;5r,5b
+ NEW GAME
+:
+:6b,1r,1g;4r,3g,2b;5g,3r,5b;5r,5b
+6
+:6b,1r,1g;4r,3g,2b;5g,3r,5b;5r,5b
+6 val
+b
+:6b,1r,1g;4r,3g,2b;5g,3r,5b;5r,5b
+{'b': 6, 'g': 0, 'r': 0} MOST
+,
+:6b,1r,1g;4r,3g,2b;5g,3r,5b;5r,5b
+1
+:6b,1r,1g;4r,3g,2b;5g,3r,5b;5r,5b
+1 val
+r
+:6b,1r,1g;4r,3g,2b;5g,3r,5b;5r,5b
+{'b': 6, 'g': 0, 'r': 1} MOST
+,
+:6b,1r,1g;4r,3g,2b;5g,3r,5b;5r,5b
+1
+:6b,1r,1g;4r,3g,2b;5g,3r,5b;5r,5b
+1 val
+g
+:6b,1r,1g;4r,3g,2b;5g,3r,5b;5r,5b
+{'b': 6, 'g': 1, 'r': 1} MOST
+;
+:6b,1r,1g;4r,3g,2b;5g,3r,5b;5r,5b
+{'b': 6, 'g': 1, 'r': 1} MOST
+4
+;4r,3g,2b;5g,3r,5b;5r,5b
+4 val
+r
+;4r,3g,2b;5g,3r,5b;5r,5b
+{'b': 6, 'g': 1, 'r': 4} MOST
+,
+;4r,3g,2b;5g,3r,5b;5r,5b
+3
+;4r,3g,2b;5g,3r,5b;5r,5b
+3 val
+g
+;4r,3g,2b;5g,3r,5b;5r,5b
+{'b': 6, 'g': 3, 'r': 4} MOST
+,
+;4r,3g,2b;5g,3r,5b;5r,5b
+2
+;4r,3g,2b;5g,3r,5b;5r,5b
+2 val
+b
+;4r,3g,2b;5g,3r,5b;5r,5b
+{'b': 6, 'g': 3, 'r': 4} MOST
+;
+;4r,3g,2b;5g,3r,5b;5r,5b
+{'b': 6, 'g': 3, 'r': 4} MOST
+5
+;5r,5b
+5 val
+g
+;5r,5b
+{'b': 6, 'g': 5, 'r': 4} MOST
+,
+;5r,5b
+3
+;5r,5b
+3 val
+r
+;5r,5b
+{'b': 6, 'g': 5, 'r': 4} MOST
+,
+;5r,5b
+5
+;5r,5b
+5 val
+b
+;5r,5b
+{'b': 6, 'g': 5, 'r': 4} MOST
+;
+;5r,5b
+{'b': 6, 'g': 5, 'r': 4} MOST
+5
+
+5 val
+r
+
+{'b': 6, 'g': 5, 'r': 5} MOST
+,
+
+5
+
+5 val
+b
+
+{'b': 6, 'g': 5, 'r': 5} MOST
+{'b': 6, 'g': 5, 'r': 5}
+6 VAL
+1 CURR
+6 NEW
+{'b': 6, 'g': 5, 'r': 5}
+5 VAL
+6 CURR
+30 NEW
+{'b': 6, 'g': 5, 'r': 5}
+5 VAL
+30 CURR
+150 NEW
+150 CURR
+70:2g,1r;12g,1r,11b;7g,12b;13b,10g
+ NEW GAME
+:
+:2g,1r;12g,1r,11b;7g,12b;13b,10g
+2
+:2g,1r;12g,1r,11b;7g,12b;13b,10g
+2 val
+g
+:2g,1r;12g,1r,11b;7g,12b;13b,10g
+{'b': 0, 'g': 2, 'r': 0} MOST
+,
+:2g,1r;12g,1r,11b;7g,12b;13b,10g
+1
+:2g,1r;12g,1r,11b;7g,12b;13b,10g
+1 val
+r
+:2g,1r;12g,1r,11b;7g,12b;13b,10g
+{'b': 0, 'g': 2, 'r': 1} MOST
+;
+:2g,1r;12g,1r,11b;7g,12b;13b,10g
+{'b': 0, 'g': 2, 'r': 1} MOST
+1
+;12g,1r,11b;7g,12b;13b,10g
+1 val
+2
+;12g,1r,11b;7g,12b;13b,10g
+12 val
+g
+;12g,1r,11b;7g,12b;13b,10g
+{'b': 0, 'g': 12, 'r': 1} MOST
+,
+;12g,1r,11b;7g,12b;13b,10g
+1
+;12g,1r,11b;7g,12b;13b,10g
+1 val
+r
+;12g,1r,11b;7g,12b;13b,10g
+{'b': 0, 'g': 12, 'r': 1} MOST
+,
+;12g,1r,11b;7g,12b;13b,10g
+1
+;12g,1r,11b;7g,12b;13b,10g
+1 val
+1
+;12g,1r,11b;7g,12b;13b,10g
+11 val
+b
+;12g,1r,11b;7g,12b;13b,10g
+{'b': 11, 'g': 12, 'r': 1} MOST
+;
+;12g,1r,11b;7g,12b;13b,10g
+{'b': 11, 'g': 12, 'r': 1} MOST
+7
+b;13b,10g
+7 val
+g
+b;13b,10g
+{'b': 11, 'g': 12, 'r': 1} MOST
+,
+b;13b,10g
+1
+b;13b,10g
+1 val
+2
+b;13b,10g
+12 val
+b
+b;13b,10g
+{'b': 12, 'g': 12, 'r': 1} MOST
+;
+b;13b,10g
+{'b': 12, 'g': 12, 'r': 1} MOST
+1
+
+1 val
+3
+
+13 val
+b
+
+{'b': 13, 'g': 12, 'r': 1} MOST
+,
+
+1
+
+1 val
+0
+
+10 val
+g
+
+{'b': 13, 'g': 12, 'r': 1} MOST
+{'b': 13, 'g': 12, 'r': 1}
+13 VAL
+1 CURR
+13 NEW
+{'b': 13, 'g': 12, 'r': 1}
+12 VAL
+13 CURR
+156 NEW
+{'b': 13, 'g': 12, 'r': 1}
+1 VAL
+156 CURR
+156 NEW
+156 CURR
+71:9r,9g,4b;10r,1b,12g;3b,13r,3g
+ NEW GAME
+:
+:9r,9g,4b;10r,1b,12g;3b,13r,3g
+9
+:9r,9g,4b;10r,1b,12g;3b,13r,3g
+9 val
+r
+:9r,9g,4b;10r,1b,12g;3b,13r,3g
+{'b': 0, 'g': 0, 'r': 9} MOST
+,
+:9r,9g,4b;10r,1b,12g;3b,13r,3g
+9
+:9r,9g,4b;10r,1b,12g;3b,13r,3g
+9 val
+g
+:9r,9g,4b;10r,1b,12g;3b,13r,3g
+{'b': 0, 'g': 9, 'r': 9} MOST
+,
+:9r,9g,4b;10r,1b,12g;3b,13r,3g
+4
+:9r,9g,4b;10r,1b,12g;3b,13r,3g
+4 val
+b
+:9r,9g,4b;10r,1b,12g;3b,13r,3g
+{'b': 4, 'g': 9, 'r': 9} MOST
+;
+:9r,9g,4b;10r,1b,12g;3b,13r,3g
+{'b': 4, 'g': 9, 'r': 9} MOST
+1
+;10r,1b,12g;3b,13r,3g
+1 val
+0
+;10r,1b,12g;3b,13r,3g
+10 val
+r
+;10r,1b,12g;3b,13r,3g
+{'b': 4, 'g': 9, 'r': 10} MOST
+,
+;10r,1b,12g;3b,13r,3g
+1
+;10r,1b,12g;3b,13r,3g
+1 val
+b
+;10r,1b,12g;3b,13r,3g
+{'b': 4, 'g': 9, 'r': 10} MOST
+,
+;10r,1b,12g;3b,13r,3g
+1
+;10r,1b,12g;3b,13r,3g
+1 val
+2
+;10r,1b,12g;3b,13r,3g
+12 val
+g
+;10r,1b,12g;3b,13r,3g
+{'b': 4, 'g': 12, 'r': 10} MOST
+;
+;10r,1b,12g;3b,13r,3g
+{'b': 4, 'g': 12, 'r': 10} MOST
+3
+g
+3 val
+b
+g
+{'b': 4, 'g': 12, 'r': 10} MOST
+,
+g
+1
+g
+1 val
+3
+g
+13 val
+r
+g
+{'b': 4, 'g': 12, 'r': 13} MOST
+,
+g
+3
+g
+3 val
+g
+g
+{'b': 4, 'g': 12, 'r': 13} MOST
+{'b': 4, 'g': 12, 'r': 13}
+4 VAL
+1 CURR
+4 NEW
+{'b': 4, 'g': 12, 'r': 13}
+12 VAL
+4 CURR
+48 NEW
+{'b': 4, 'g': 12, 'r': 13}
+13 VAL
+48 CURR
+624 NEW
+624 CURR
+72:2r,8b,5g;2g;1r,5g,6b;1b,3r,12g;5g,14b,1r;8b,13g
+ NEW GAME
+:
+:2r,8b,5g;2g;1r,5g,6b;1b,3r,12g;5g,14b,1r;8b,13g
+2
+:2r,8b,5g;2g;1r,5g,6b;1b,3r,12g;5g,14b,1r;8b,13g
+2 val
+r
+:2r,8b,5g;2g;1r,5g,6b;1b,3r,12g;5g,14b,1r;8b,13g
+{'b': 0, 'g': 0, 'r': 2} MOST
+,
+:2r,8b,5g;2g;1r,5g,6b;1b,3r,12g;5g,14b,1r;8b,13g
+8
+:2r,8b,5g;2g;1r,5g,6b;1b,3r,12g;5g,14b,1r;8b,13g
+8 val
+b
+:2r,8b,5g;2g;1r,5g,6b;1b,3r,12g;5g,14b,1r;8b,13g
+{'b': 8, 'g': 0, 'r': 2} MOST
+,
+:2r,8b,5g;2g;1r,5g,6b;1b,3r,12g;5g,14b,1r;8b,13g
+5
+:2r,8b,5g;2g;1r,5g,6b;1b,3r,12g;5g,14b,1r;8b,13g
+5 val
+g
+:2r,8b,5g;2g;1r,5g,6b;1b,3r,12g;5g,14b,1r;8b,13g
+{'b': 8, 'g': 5, 'r': 2} MOST
+;
+:2r,8b,5g;2g;1r,5g,6b;1b,3r,12g;5g,14b,1r;8b,13g
+{'b': 8, 'g': 5, 'r': 2} MOST
+2
+;2g;1r,5g,6b;1b,3r,12g;5g,14b,1r;8b,13g
+2 val
+g
+;2g;1r,5g,6b;1b,3r,12g;5g,14b,1r;8b,13g
+{'b': 8, 'g': 5, 'r': 2} MOST
+;
+;2g;1r,5g,6b;1b,3r,12g;5g,14b,1r;8b,13g
+{'b': 8, 'g': 5, 'r': 2} MOST
+1
+;1b,3r,12g;5g,14b,1r;8b,13g
+1 val
+r
+;1b,3r,12g;5g,14b,1r;8b,13g
+{'b': 8, 'g': 5, 'r': 2} MOST
+,
+;1b,3r,12g;5g,14b,1r;8b,13g
+5
+;1b,3r,12g;5g,14b,1r;8b,13g
+5 val
+g
+;1b,3r,12g;5g,14b,1r;8b,13g
+{'b': 8, 'g': 5, 'r': 2} MOST
+,
+;1b,3r,12g;5g,14b,1r;8b,13g
+6
+;1b,3r,12g;5g,14b,1r;8b,13g
+6 val
+b
+;1b,3r,12g;5g,14b,1r;8b,13g
+{'b': 8, 'g': 5, 'r': 2} MOST
+;
+;1b,3r,12g;5g,14b,1r;8b,13g
+{'b': 8, 'g': 5, 'r': 2} MOST
+1
+8b,13g
+1 val
+b
+8b,13g
+{'b': 8, 'g': 5, 'r': 2} MOST
+,
+8b,13g
+3
+8b,13g
+3 val
+r
+8b,13g
+{'b': 8, 'g': 5, 'r': 3} MOST
+,
+8b,13g
+1
+8b,13g
+1 val
+2
+8b,13g
+12 val
+g
+8b,13g
+{'b': 8, 'g': 12, 'r': 3} MOST
+;
+8b,13g
+{'b': 8, 'g': 12, 'r': 3} MOST
+5
+
+5 val
+g
+
+{'b': 8, 'g': 12, 'r': 3} MOST
+,
+
+1
+
+1 val
+4
+
+14 val
+b
+
+{'b': 14, 'g': 12, 'r': 3} MOST
+,
+
+1
+
+1 val
+r
+
+{'b': 14, 'g': 12, 'r': 3} MOST
+;
+
+{'b': 14, 'g': 12, 'r': 3} MOST
+8
+
+8 val
+b
+
+{'b': 14, 'g': 12, 'r': 3} MOST
+,
+
+1
+
+1 val
+3
+
+13 val
+g
+
+{'b': 14, 'g': 13, 'r': 3} MOST
+{'b': 14, 'g': 13, 'r': 3}
+14 VAL
+1 CURR
+14 NEW
+{'b': 14, 'g': 13, 'r': 3}
+13 VAL
+14 CURR
+182 NEW
+{'b': 14, 'g': 13, 'r': 3}
+3 VAL
+182 CURR
+546 NEW
+546 CURR
+73:19b,11r,8g;18b,9r,11g;6g,19b,6r
+ NEW GAME
+:
+:19b,11r,8g;18b,9r,11g;6g,19b,6r
+1
+:19b,11r,8g;18b,9r,11g;6g,19b,6r
+1 val
+9
+:19b,11r,8g;18b,9r,11g;6g,19b,6r
+19 val
+b
+:19b,11r,8g;18b,9r,11g;6g,19b,6r
+{'b': 19, 'g': 0, 'r': 0} MOST
+,
+:19b,11r,8g;18b,9r,11g;6g,19b,6r
+1
+:19b,11r,8g;18b,9r,11g;6g,19b,6r
+1 val
+1
+:19b,11r,8g;18b,9r,11g;6g,19b,6r
+11 val
+r
+:19b,11r,8g;18b,9r,11g;6g,19b,6r
+{'b': 19, 'g': 0, 'r': 11} MOST
+,
+:19b,11r,8g;18b,9r,11g;6g,19b,6r
+8
+:19b,11r,8g;18b,9r,11g;6g,19b,6r
+8 val
+g
+:19b,11r,8g;18b,9r,11g;6g,19b,6r
+{'b': 19, 'g': 8, 'r': 11} MOST
+;
+:19b,11r,8g;18b,9r,11g;6g,19b,6r
+{'b': 19, 'g': 8, 'r': 11} MOST
+1
+;18b,9r,11g;6g,19b,6r
+1 val
+8
+;18b,9r,11g;6g,19b,6r
+18 val
+b
+;18b,9r,11g;6g,19b,6r
+{'b': 19, 'g': 8, 'r': 11} MOST
+,
+;18b,9r,11g;6g,19b,6r
+9
+;18b,9r,11g;6g,19b,6r
+9 val
+r
+;18b,9r,11g;6g,19b,6r
+{'b': 19, 'g': 8, 'r': 11} MOST
+,
+;18b,9r,11g;6g,19b,6r
+1
+;18b,9r,11g;6g,19b,6r
+1 val
+1
+;18b,9r,11g;6g,19b,6r
+11 val
+g
+;18b,9r,11g;6g,19b,6r
+{'b': 19, 'g': 11, 'r': 11} MOST
+;
+;18b,9r,11g;6g,19b,6r
+{'b': 19, 'g': 11, 'r': 11} MOST
+6
+
+6 val
+g
+
+{'b': 19, 'g': 11, 'r': 11} MOST
+,
+
+1
+
+1 val
+9
+
+19 val
+b
+
+{'b': 19, 'g': 11, 'r': 11} MOST
+,
+
+6
+
+6 val
+r
+
+{'b': 19, 'g': 11, 'r': 11} MOST
+{'b': 19, 'g': 11, 'r': 11}
+19 VAL
+1 CURR
+19 NEW
+{'b': 19, 'g': 11, 'r': 11}
+11 VAL
+19 CURR
+209 NEW
+{'b': 19, 'g': 11, 'r': 11}
+11 VAL
+209 CURR
+2299 NEW
+2299 CURR
+74:2g,4r,2b;1g,1r,4b;2r,4g,2b;3r,2b,6g
+ NEW GAME
+:
+:2g,4r,2b;1g,1r,4b;2r,4g,2b;3r,2b,6g
+2
+:2g,4r,2b;1g,1r,4b;2r,4g,2b;3r,2b,6g
+2 val
+g
+:2g,4r,2b;1g,1r,4b;2r,4g,2b;3r,2b,6g
+{'b': 0, 'g': 2, 'r': 0} MOST
+,
+:2g,4r,2b;1g,1r,4b;2r,4g,2b;3r,2b,6g
+4
+:2g,4r,2b;1g,1r,4b;2r,4g,2b;3r,2b,6g
+4 val
+r
+:2g,4r,2b;1g,1r,4b;2r,4g,2b;3r,2b,6g
+{'b': 0, 'g': 2, 'r': 4} MOST
+,
+:2g,4r,2b;1g,1r,4b;2r,4g,2b;3r,2b,6g
+2
+:2g,4r,2b;1g,1r,4b;2r,4g,2b;3r,2b,6g
+2 val
+b
+:2g,4r,2b;1g,1r,4b;2r,4g,2b;3r,2b,6g
+{'b': 2, 'g': 2, 'r': 4} MOST
+;
+:2g,4r,2b;1g,1r,4b;2r,4g,2b;3r,2b,6g
+{'b': 2, 'g': 2, 'r': 4} MOST
+1
+;1g,1r,4b;2r,4g,2b;3r,2b,6g
+1 val
+g
+;1g,1r,4b;2r,4g,2b;3r,2b,6g
+{'b': 2, 'g': 2, 'r': 4} MOST
+,
+;1g,1r,4b;2r,4g,2b;3r,2b,6g
+1
+;1g,1r,4b;2r,4g,2b;3r,2b,6g
+1 val
+r
+;1g,1r,4b;2r,4g,2b;3r,2b,6g
+{'b': 2, 'g': 2, 'r': 4} MOST
+,
+;1g,1r,4b;2r,4g,2b;3r,2b,6g
+4
+;1g,1r,4b;2r,4g,2b;3r,2b,6g
+4 val
+b
+;1g,1r,4b;2r,4g,2b;3r,2b,6g
+{'b': 4, 'g': 2, 'r': 4} MOST
+;
+;1g,1r,4b;2r,4g,2b;3r,2b,6g
+{'b': 4, 'g': 2, 'r': 4} MOST
+2
+;3r,2b,6g
+2 val
+r
+;3r,2b,6g
+{'b': 4, 'g': 2, 'r': 4} MOST
+,
+;3r,2b,6g
+4
+;3r,2b,6g
+4 val
+g
+;3r,2b,6g
+{'b': 4, 'g': 4, 'r': 4} MOST
+,
+;3r,2b,6g
+2
+;3r,2b,6g
+2 val
+b
+;3r,2b,6g
+{'b': 4, 'g': 4, 'r': 4} MOST
+;
+;3r,2b,6g
+{'b': 4, 'g': 4, 'r': 4} MOST
+3
+
+3 val
+r
+
+{'b': 4, 'g': 4, 'r': 4} MOST
+,
+
+2
+
+2 val
+b
+
+{'b': 4, 'g': 4, 'r': 4} MOST
+,
+
+6
+
+6 val
+g
+
+{'b': 4, 'g': 6, 'r': 4} MOST
+{'b': 4, 'g': 6, 'r': 4}
+4 VAL
+1 CURR
+4 NEW
+{'b': 4, 'g': 6, 'r': 4}
+6 VAL
+4 CURR
+24 NEW
+{'b': 4, 'g': 6, 'r': 4}
+4 VAL
+24 CURR
+96 NEW
+96 CURR
+75:2b;1r,1b,1g;1b;5b,2g;1g,1r,3b
+ NEW GAME
+:
+:2b;1r,1b,1g;1b;5b,2g;1g,1r,3b
+2
+:2b;1r,1b,1g;1b;5b,2g;1g,1r,3b
+2 val
+b
+:2b;1r,1b,1g;1b;5b,2g;1g,1r,3b
+{'b': 2, 'g': 0, 'r': 0} MOST
+;
+:2b;1r,1b,1g;1b;5b,2g;1g,1r,3b
+{'b': 2, 'g': 0, 'r': 0} MOST
+1
+;1r,1b,1g;1b;5b,2g;1g,1r,3b
+1 val
+r
+;1r,1b,1g;1b;5b,2g;1g,1r,3b
+{'b': 2, 'g': 0, 'r': 1} MOST
+,
+;1r,1b,1g;1b;5b,2g;1g,1r,3b
+1
+;1r,1b,1g;1b;5b,2g;1g,1r,3b
+1 val
+b
+;1r,1b,1g;1b;5b,2g;1g,1r,3b
+{'b': 2, 'g': 0, 'r': 1} MOST
+,
+;1r,1b,1g;1b;5b,2g;1g,1r,3b
+1
+;1r,1b,1g;1b;5b,2g;1g,1r,3b
+1 val
+g
+;1r,1b,1g;1b;5b,2g;1g,1r,3b
+{'b': 2, 'g': 1, 'r': 1} MOST
+;
+;1r,1b,1g;1b;5b,2g;1g,1r,3b
+{'b': 2, 'g': 1, 'r': 1} MOST
+1
+;5b,2g;1g,1r,3b
+1 val
+b
+;5b,2g;1g,1r,3b
+{'b': 2, 'g': 1, 'r': 1} MOST
+;
+;5b,2g;1g,1r,3b
+{'b': 2, 'g': 1, 'r': 1} MOST
+5
+
+5 val
+b
+
+{'b': 5, 'g': 1, 'r': 1} MOST
+,
+
+2
+
+2 val
+g
+
+{'b': 5, 'g': 2, 'r': 1} MOST
+;
+
+{'b': 5, 'g': 2, 'r': 1} MOST
+1
+
+1 val
+g
+
+{'b': 5, 'g': 2, 'r': 1} MOST
+,
+
+1
+
+1 val
+r
+
+{'b': 5, 'g': 2, 'r': 1} MOST
+,
+
+3
+
+3 val
+b
+
+{'b': 5, 'g': 2, 'r': 1} MOST
+{'b': 5, 'g': 2, 'r': 1}
+5 VAL
+1 CURR
+5 NEW
+{'b': 5, 'g': 2, 'r': 1}
+2 VAL
+5 CURR
+10 NEW
+{'b': 5, 'g': 2, 'r': 1}
+1 VAL
+10 CURR
+10 NEW
+10 CURR
+76:9b,4r,3g;8b,8g,3r;3r,2g,8b;8g,6b,5r
+ NEW GAME
+:
+:9b,4r,3g;8b,8g,3r;3r,2g,8b;8g,6b,5r
+9
+:9b,4r,3g;8b,8g,3r;3r,2g,8b;8g,6b,5r
+9 val
+b
+:9b,4r,3g;8b,8g,3r;3r,2g,8b;8g,6b,5r
+{'b': 9, 'g': 0, 'r': 0} MOST
+,
+:9b,4r,3g;8b,8g,3r;3r,2g,8b;8g,6b,5r
+4
+:9b,4r,3g;8b,8g,3r;3r,2g,8b;8g,6b,5r
+4 val
+r
+:9b,4r,3g;8b,8g,3r;3r,2g,8b;8g,6b,5r
+{'b': 9, 'g': 0, 'r': 4} MOST
+,
+:9b,4r,3g;8b,8g,3r;3r,2g,8b;8g,6b,5r
+3
+:9b,4r,3g;8b,8g,3r;3r,2g,8b;8g,6b,5r
+3 val
+g
+:9b,4r,3g;8b,8g,3r;3r,2g,8b;8g,6b,5r
+{'b': 9, 'g': 3, 'r': 4} MOST
+;
+:9b,4r,3g;8b,8g,3r;3r,2g,8b;8g,6b,5r
+{'b': 9, 'g': 3, 'r': 4} MOST
+8
+;8b,8g,3r;3r,2g,8b;8g,6b,5r
+8 val
+b
+;8b,8g,3r;3r,2g,8b;8g,6b,5r
+{'b': 9, 'g': 3, 'r': 4} MOST
+,
+;8b,8g,3r;3r,2g,8b;8g,6b,5r
+8
+;8b,8g,3r;3r,2g,8b;8g,6b,5r
+8 val
+g
+;8b,8g,3r;3r,2g,8b;8g,6b,5r
+{'b': 9, 'g': 8, 'r': 4} MOST
+,
+;8b,8g,3r;3r,2g,8b;8g,6b,5r
+3
+;8b,8g,3r;3r,2g,8b;8g,6b,5r
+3 val
+r
+;8b,8g,3r;3r,2g,8b;8g,6b,5r
+{'b': 9, 'g': 8, 'r': 4} MOST
+;
+;8b,8g,3r;3r,2g,8b;8g,6b,5r
+{'b': 9, 'g': 8, 'r': 4} MOST
+3
+;8g,6b,5r
+3 val
+r
+;8g,6b,5r
+{'b': 9, 'g': 8, 'r': 4} MOST
+,
+;8g,6b,5r
+2
+;8g,6b,5r
+2 val
+g
+;8g,6b,5r
+{'b': 9, 'g': 8, 'r': 4} MOST
+,
+;8g,6b,5r
+8
+;8g,6b,5r
+8 val
+b
+;8g,6b,5r
+{'b': 9, 'g': 8, 'r': 4} MOST
+;
+;8g,6b,5r
+{'b': 9, 'g': 8, 'r': 4} MOST
+8
+
+8 val
+g
+
+{'b': 9, 'g': 8, 'r': 4} MOST
+,
+
+6
+
+6 val
+b
+
+{'b': 9, 'g': 8, 'r': 4} MOST
+,
+
+5
+
+5 val
+r
+
+{'b': 9, 'g': 8, 'r': 5} MOST
+{'b': 9, 'g': 8, 'r': 5}
+9 VAL
+1 CURR
+9 NEW
+{'b': 9, 'g': 8, 'r': 5}
+8 VAL
+9 CURR
+72 NEW
+{'b': 9, 'g': 8, 'r': 5}
+5 VAL
+72 CURR
+360 NEW
+360 CURR
+77:7b,17g;1b,2r,18g;18g,1b,2r
+ NEW GAME
+:
+:7b,17g;1b,2r,18g;18g,1b,2r
+7
+:7b,17g;1b,2r,18g;18g,1b,2r
+7 val
+b
+:7b,17g;1b,2r,18g;18g,1b,2r
+{'b': 7, 'g': 0, 'r': 0} MOST
+,
+:7b,17g;1b,2r,18g;18g,1b,2r
+1
+:7b,17g;1b,2r,18g;18g,1b,2r
+1 val
+7
+:7b,17g;1b,2r,18g;18g,1b,2r
+17 val
+g
+:7b,17g;1b,2r,18g;18g,1b,2r
+{'b': 7, 'g': 17, 'r': 0} MOST
+;
+:7b,17g;1b,2r,18g;18g,1b,2r
+{'b': 7, 'g': 17, 'r': 0} MOST
+1
+;1b,2r,18g;18g,1b,2r
+1 val
+b
+;1b,2r,18g;18g,1b,2r
+{'b': 7, 'g': 17, 'r': 0} MOST
+,
+;1b,2r,18g;18g,1b,2r
+2
+;1b,2r,18g;18g,1b,2r
+2 val
+r
+;1b,2r,18g;18g,1b,2r
+{'b': 7, 'g': 17, 'r': 2} MOST
+,
+;1b,2r,18g;18g,1b,2r
+1
+;1b,2r,18g;18g,1b,2r
+1 val
+8
+;1b,2r,18g;18g,1b,2r
+18 val
+g
+;1b,2r,18g;18g,1b,2r
+{'b': 7, 'g': 18, 'r': 2} MOST
+;
+;1b,2r,18g;18g,1b,2r
+{'b': 7, 'g': 18, 'r': 2} MOST
+1
+,2r
+1 val
+8
+,2r
+18 val
+g
+,2r
+{'b': 7, 'g': 18, 'r': 2} MOST
+,
+,2r
+1
+,2r
+1 val
+b
+,2r
+{'b': 7, 'g': 18, 'r': 2} MOST
+,
+,2r
+2
+,2r
+2 val
+r
+,2r
+{'b': 7, 'g': 18, 'r': 2} MOST
+{'b': 7, 'g': 18, 'r': 2}
+7 VAL
+1 CURR
+7 NEW
+{'b': 7, 'g': 18, 'r': 2}
+18 VAL
+7 CURR
+126 NEW
+{'b': 7, 'g': 18, 'r': 2}
+2 VAL
+126 CURR
+252 NEW
+252 CURR
+78:2r,2g,1b;5g,3b;1g,2b;2b,6r,5g
+ NEW GAME
+:
+:2r,2g,1b;5g,3b;1g,2b;2b,6r,5g
+2
+:2r,2g,1b;5g,3b;1g,2b;2b,6r,5g
+2 val
+r
+:2r,2g,1b;5g,3b;1g,2b;2b,6r,5g
+{'b': 0, 'g': 0, 'r': 2} MOST
+,
+:2r,2g,1b;5g,3b;1g,2b;2b,6r,5g
+2
+:2r,2g,1b;5g,3b;1g,2b;2b,6r,5g
+2 val
+g
+:2r,2g,1b;5g,3b;1g,2b;2b,6r,5g
+{'b': 0, 'g': 2, 'r': 2} MOST
+,
+:2r,2g,1b;5g,3b;1g,2b;2b,6r,5g
+1
+:2r,2g,1b;5g,3b;1g,2b;2b,6r,5g
+1 val
+b
+:2r,2g,1b;5g,3b;1g,2b;2b,6r,5g
+{'b': 1, 'g': 2, 'r': 2} MOST
+;
+:2r,2g,1b;5g,3b;1g,2b;2b,6r,5g
+{'b': 1, 'g': 2, 'r': 2} MOST
+5
+;5g,3b;1g,2b;2b,6r,5g
+5 val
+g
+;5g,3b;1g,2b;2b,6r,5g
+{'b': 1, 'g': 5, 'r': 2} MOST
+,
+;5g,3b;1g,2b;2b,6r,5g
+3
+;5g,3b;1g,2b;2b,6r,5g
+3 val
+b
+;5g,3b;1g,2b;2b,6r,5g
+{'b': 3, 'g': 5, 'r': 2} MOST
+;
+;5g,3b;1g,2b;2b,6r,5g
+{'b': 3, 'g': 5, 'r': 2} MOST
+1
+,6r,5g
+1 val
+g
+,6r,5g
+{'b': 3, 'g': 5, 'r': 2} MOST
+,
+,6r,5g
+2
+,6r,5g
+2 val
+b
+,6r,5g
+{'b': 3, 'g': 5, 'r': 2} MOST
+;
+,6r,5g
+{'b': 3, 'g': 5, 'r': 2} MOST
+2
+
+2 val
+b
+
+{'b': 3, 'g': 5, 'r': 2} MOST
+,
+
+6
+
+6 val
+r
+
+{'b': 3, 'g': 5, 'r': 6} MOST
+,
+
+5
+
+5 val
+g
+
+{'b': 3, 'g': 5, 'r': 6} MOST
+{'b': 3, 'g': 5, 'r': 6}
+3 VAL
+1 CURR
+3 NEW
+{'b': 3, 'g': 5, 'r': 6}
+5 VAL
+3 CURR
+15 NEW
+{'b': 3, 'g': 5, 'r': 6}
+6 VAL
+15 CURR
+90 NEW
+90 CURR
+79:4r,6g,17b;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+ NEW GAME
+:
+:4r,6g,17b;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+4
+:4r,6g,17b;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+4 val
+r
+:4r,6g,17b;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+{'b': 0, 'g': 0, 'r': 4} MOST
+,
+:4r,6g,17b;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+6
+:4r,6g,17b;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+6 val
+g
+:4r,6g,17b;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+{'b': 0, 'g': 6, 'r': 4} MOST
+,
+:4r,6g,17b;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+1
+:4r,6g,17b;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+1 val
+7
+:4r,6g,17b;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+17 val
+b
+:4r,6g,17b;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+{'b': 17, 'g': 6, 'r': 4} MOST
+;
+:4r,6g,17b;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+{'b': 17, 'g': 6, 'r': 4} MOST
+2
+;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+2 val
+b
+;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+{'b': 17, 'g': 6, 'r': 4} MOST
+,
+;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+3
+;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+3 val
+r
+;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+{'b': 17, 'g': 6, 'r': 4} MOST
+,
+;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+8
+;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+8 val
+g
+;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+{'b': 17, 'g': 8, 'r': 4} MOST
+;
+;2b,3r,8g;8r,19b,12g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+{'b': 17, 'g': 8, 'r': 4} MOST
+8
+g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+8 val
+r
+g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+{'b': 17, 'g': 8, 'r': 8} MOST
+,
+g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+1
+g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+1 val
+9
+g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+19 val
+b
+g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+{'b': 19, 'g': 8, 'r': 8} MOST
+,
+g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+1
+g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+1 val
+2
+g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+12 val
+g
+g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+{'b': 19, 'g': 12, 'r': 8} MOST
+;
+g;5r,8g,12b;16b,1r,12g;5g,18b,8r
+{'b': 19, 'g': 12, 'r': 8} MOST
+5
+8r
+5 val
+r
+8r
+{'b': 19, 'g': 12, 'r': 8} MOST
+,
+8r
+8
+8r
+8 val
+g
+8r
+{'b': 19, 'g': 12, 'r': 8} MOST
+,
+8r
+1
+8r
+1 val
+2
+8r
+12 val
+b
+8r
+{'b': 19, 'g': 12, 'r': 8} MOST
+;
+8r
+{'b': 19, 'g': 12, 'r': 8} MOST
+1
+
+1 val
+6
+
+16 val
+b
+
+{'b': 19, 'g': 12, 'r': 8} MOST
+,
+
+1
+
+1 val
+r
+
+{'b': 19, 'g': 12, 'r': 8} MOST
+,
+
+1
+
+1 val
+2
+
+12 val
+g
+
+{'b': 19, 'g': 12, 'r': 8} MOST
+;
+
+{'b': 19, 'g': 12, 'r': 8} MOST
+5
+
+5 val
+g
+
+{'b': 19, 'g': 12, 'r': 8} MOST
+,
+
+1
+
+1 val
+8
+
+18 val
+b
+
+{'b': 19, 'g': 12, 'r': 8} MOST
+,
+
+8
+
+8 val
+r
+
+{'b': 19, 'g': 12, 'r': 8} MOST
+{'b': 19, 'g': 12, 'r': 8}
+19 VAL
+1 CURR
+19 NEW
+{'b': 19, 'g': 12, 'r': 8}
+12 VAL
+19 CURR
+228 NEW
+{'b': 19, 'g': 12, 'r': 8}
+8 VAL
+228 CURR
+1824 NEW
+1824 CURR
+80:1b,4r,10g;6g;6r,3g,2b
+ NEW GAME
+:
+:1b,4r,10g;6g;6r,3g,2b
+1
+:1b,4r,10g;6g;6r,3g,2b
+1 val
+b
+:1b,4r,10g;6g;6r,3g,2b
+{'b': 1, 'g': 0, 'r': 0} MOST
+,
+:1b,4r,10g;6g;6r,3g,2b
+4
+:1b,4r,10g;6g;6r,3g,2b
+4 val
+r
+:1b,4r,10g;6g;6r,3g,2b
+{'b': 1, 'g': 0, 'r': 4} MOST
+,
+:1b,4r,10g;6g;6r,3g,2b
+1
+:1b,4r,10g;6g;6r,3g,2b
+1 val
+0
+:1b,4r,10g;6g;6r,3g,2b
+10 val
+g
+:1b,4r,10g;6g;6r,3g,2b
+{'b': 1, 'g': 10, 'r': 4} MOST
+;
+:1b,4r,10g;6g;6r,3g,2b
+{'b': 1, 'g': 10, 'r': 4} MOST
+6
+;6g;6r,3g,2b
+6 val
+g
+;6g;6r,3g,2b
+{'b': 1, 'g': 10, 'r': 4} MOST
+;
+;6g;6r,3g,2b
+{'b': 1, 'g': 10, 'r': 4} MOST
+6
+
+6 val
+r
+
+{'b': 1, 'g': 10, 'r': 6} MOST
+,
+
+3
+
+3 val
+g
+
+{'b': 1, 'g': 10, 'r': 6} MOST
+,
+
+2
+
+2 val
+b
+
+{'b': 2, 'g': 10, 'r': 6} MOST
+{'b': 2, 'g': 10, 'r': 6}
+2 VAL
+1 CURR
+2 NEW
+{'b': 2, 'g': 10, 'r': 6}
+10 VAL
+2 CURR
+20 NEW
+{'b': 2, 'g': 10, 'r': 6}
+6 VAL
+20 CURR
+120 NEW
+120 CURR
+81:2g,5b,4r;3r,1g,14b;3r,10b,2g
+ NEW GAME
+:
+:2g,5b,4r;3r,1g,14b;3r,10b,2g
+2
+:2g,5b,4r;3r,1g,14b;3r,10b,2g
+2 val
+g
+:2g,5b,4r;3r,1g,14b;3r,10b,2g
+{'b': 0, 'g': 2, 'r': 0} MOST
+,
+:2g,5b,4r;3r,1g,14b;3r,10b,2g
+5
+:2g,5b,4r;3r,1g,14b;3r,10b,2g
+5 val
+b
+:2g,5b,4r;3r,1g,14b;3r,10b,2g
+{'b': 5, 'g': 2, 'r': 0} MOST
+,
+:2g,5b,4r;3r,1g,14b;3r,10b,2g
+4
+:2g,5b,4r;3r,1g,14b;3r,10b,2g
+4 val
+r
+:2g,5b,4r;3r,1g,14b;3r,10b,2g
+{'b': 5, 'g': 2, 'r': 4} MOST
+;
+:2g,5b,4r;3r,1g,14b;3r,10b,2g
+{'b': 5, 'g': 2, 'r': 4} MOST
+3
+;3r,1g,14b;3r,10b,2g
+3 val
+r
+;3r,1g,14b;3r,10b,2g
+{'b': 5, 'g': 2, 'r': 4} MOST
+,
+;3r,1g,14b;3r,10b,2g
+1
+;3r,1g,14b;3r,10b,2g
+1 val
+g
+;3r,1g,14b;3r,10b,2g
+{'b': 5, 'g': 2, 'r': 4} MOST
+,
+;3r,1g,14b;3r,10b,2g
+1
+;3r,1g,14b;3r,10b,2g
+1 val
+4
+;3r,1g,14b;3r,10b,2g
+14 val
+b
+;3r,1g,14b;3r,10b,2g
+{'b': 14, 'g': 2, 'r': 4} MOST
+;
+;3r,1g,14b;3r,10b,2g
+{'b': 14, 'g': 2, 'r': 4} MOST
+3
+g
+3 val
+r
+g
+{'b': 14, 'g': 2, 'r': 4} MOST
+,
+g
+1
+g
+1 val
+0
+g
+10 val
+b
+g
+{'b': 14, 'g': 2, 'r': 4} MOST
+,
+g
+2
+g
+2 val
+g
+g
+{'b': 14, 'g': 2, 'r': 4} MOST
+{'b': 14, 'g': 2, 'r': 4}
+14 VAL
+1 CURR
+14 NEW
+{'b': 14, 'g': 2, 'r': 4}
+2 VAL
+14 CURR
+28 NEW
+{'b': 14, 'g': 2, 'r': 4}
+4 VAL
+28 CURR
+112 NEW
+112 CURR
+82:12r,5b,2g;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+ NEW GAME
+:
+:12r,5b,2g;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+1
+:12r,5b,2g;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+1 val
+2
+:12r,5b,2g;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+12 val
+r
+:12r,5b,2g;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+{'b': 0, 'g': 0, 'r': 12} MOST
+,
+:12r,5b,2g;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+5
+:12r,5b,2g;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+5 val
+b
+:12r,5b,2g;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+{'b': 5, 'g': 0, 'r': 12} MOST
+,
+:12r,5b,2g;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+2
+:12r,5b,2g;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+2 val
+g
+:12r,5b,2g;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+{'b': 5, 'g': 2, 'r': 12} MOST
+;
+:12r,5b,2g;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+{'b': 5, 'g': 2, 'r': 12} MOST
+1
+;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+1 val
+2
+;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+12 val
+b
+;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+{'b': 12, 'g': 2, 'r': 12} MOST
+,
+;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+6
+;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+6 val
+r
+;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+{'b': 12, 'g': 2, 'r': 12} MOST
+,
+;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+5
+;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+5 val
+g
+;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+{'b': 12, 'g': 5, 'r': 12} MOST
+;
+;12b,6r,5g;13b,1g,3r;11r,3b;4r,3g
+{'b': 12, 'g': 5, 'r': 12} MOST
+1
+;11r,3b;4r,3g
+1 val
+3
+;11r,3b;4r,3g
+13 val
+b
+;11r,3b;4r,3g
+{'b': 13, 'g': 5, 'r': 12} MOST
+,
+;11r,3b;4r,3g
+1
+;11r,3b;4r,3g
+1 val
+g
+;11r,3b;4r,3g
+{'b': 13, 'g': 5, 'r': 12} MOST
+,
+;11r,3b;4r,3g
+3
+;11r,3b;4r,3g
+3 val
+r
+;11r,3b;4r,3g
+{'b': 13, 'g': 5, 'r': 12} MOST
+;
+;11r,3b;4r,3g
+{'b': 13, 'g': 5, 'r': 12} MOST
+1
+
+1 val
+1
+
+11 val
+r
+
+{'b': 13, 'g': 5, 'r': 12} MOST
+,
+
+3
+
+3 val
+b
+
+{'b': 13, 'g': 5, 'r': 12} MOST
+;
+
+{'b': 13, 'g': 5, 'r': 12} MOST
+4
+
+4 val
+r
+
+{'b': 13, 'g': 5, 'r': 12} MOST
+,
+
+3
+
+3 val
+g
+
+{'b': 13, 'g': 5, 'r': 12} MOST
+{'b': 13, 'g': 5, 'r': 12}
+13 VAL
+1 CURR
+13 NEW
+{'b': 13, 'g': 5, 'r': 12}
+5 VAL
+13 CURR
+65 NEW
+{'b': 13, 'g': 5, 'r': 12}
+12 VAL
+65 CURR
+780 NEW
+780 CURR
+83:10b,16r,4g;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+ NEW GAME
+:
+:10b,16r,4g;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+1
+:10b,16r,4g;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+1 val
+0
+:10b,16r,4g;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+10 val
+b
+:10b,16r,4g;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+{'b': 10, 'g': 0, 'r': 0} MOST
+,
+:10b,16r,4g;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+1
+:10b,16r,4g;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+1 val
+6
+:10b,16r,4g;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+16 val
+r
+:10b,16r,4g;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+{'b': 10, 'g': 0, 'r': 16} MOST
+,
+:10b,16r,4g;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+4
+:10b,16r,4g;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+4 val
+g
+:10b,16r,4g;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+{'b': 10, 'g': 4, 'r': 16} MOST
+;
+:10b,16r,4g;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+{'b': 10, 'g': 4, 'r': 16} MOST
+6
+;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+6 val
+r
+;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+{'b': 10, 'g': 4, 'r': 16} MOST
+,
+;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+2
+;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+2 val
+b
+;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+{'b': 10, 'g': 4, 'r': 16} MOST
+,
+;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+1
+;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+1 val
+4
+;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+14 val
+g
+;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+{'b': 10, 'g': 14, 'r': 16} MOST
+;
+;6r,2b,14g;9b,14g;7b,1r;4g,2r,8b;5r,7g
+{'b': 10, 'g': 14, 'r': 16} MOST
+9
+1r;4g,2r,8b;5r,7g
+9 val
+b
+1r;4g,2r,8b;5r,7g
+{'b': 10, 'g': 14, 'r': 16} MOST
+,
+1r;4g,2r,8b;5r,7g
+1
+1r;4g,2r,8b;5r,7g
+1 val
+4
+1r;4g,2r,8b;5r,7g
+14 val
+g
+1r;4g,2r,8b;5r,7g
+{'b': 10, 'g': 14, 'r': 16} MOST
+;
+1r;4g,2r,8b;5r,7g
+{'b': 10, 'g': 14, 'r': 16} MOST
+7
+
+7 val
+b
+
+{'b': 10, 'g': 14, 'r': 16} MOST
+,
+
+1
+
+1 val
+r
+
+{'b': 10, 'g': 14, 'r': 16} MOST
+;
+
+{'b': 10, 'g': 14, 'r': 16} MOST
+4
+
+4 val
+g
+
+{'b': 10, 'g': 14, 'r': 16} MOST
+,
+
+2
+
+2 val
+r
+
+{'b': 10, 'g': 14, 'r': 16} MOST
+,
+
+8
+
+8 val
+b
+
+{'b': 10, 'g': 14, 'r': 16} MOST
+;
+
+{'b': 10, 'g': 14, 'r': 16} MOST
+5
+
+5 val
+r
+
+{'b': 10, 'g': 14, 'r': 16} MOST
+,
+
+7
+
+7 val
+g
+
+{'b': 10, 'g': 14, 'r': 16} MOST
+{'b': 10, 'g': 14, 'r': 16}
+10 VAL
+1 CURR
+10 NEW
+{'b': 10, 'g': 14, 'r': 16}
+14 VAL
+10 CURR
+140 NEW
+{'b': 10, 'g': 14, 'r': 16}
+16 VAL
+140 CURR
+2240 NEW
+2240 CURR
+84:3r,3b,6g;9r,17g,16b;13b,7r;14g,2r,14b
+ NEW GAME
+:
+:3r,3b,6g;9r,17g,16b;13b,7r;14g,2r,14b
+3
+:3r,3b,6g;9r,17g,16b;13b,7r;14g,2r,14b
+3 val
+r
+:3r,3b,6g;9r,17g,16b;13b,7r;14g,2r,14b
+{'b': 0, 'g': 0, 'r': 3} MOST
+,
+:3r,3b,6g;9r,17g,16b;13b,7r;14g,2r,14b
+3
+:3r,3b,6g;9r,17g,16b;13b,7r;14g,2r,14b
+3 val
+b
+:3r,3b,6g;9r,17g,16b;13b,7r;14g,2r,14b
+{'b': 3, 'g': 0, 'r': 3} MOST
+,
+:3r,3b,6g;9r,17g,16b;13b,7r;14g,2r,14b
+6
+:3r,3b,6g;9r,17g,16b;13b,7r;14g,2r,14b
+6 val
+g
+:3r,3b,6g;9r,17g,16b;13b,7r;14g,2r,14b
+{'b': 3, 'g': 6, 'r': 3} MOST
+;
+:3r,3b,6g;9r,17g,16b;13b,7r;14g,2r,14b
+{'b': 3, 'g': 6, 'r': 3} MOST
+9
+;9r,17g,16b;13b,7r;14g,2r,14b
+9 val
+r
+;9r,17g,16b;13b,7r;14g,2r,14b
+{'b': 3, 'g': 6, 'r': 9} MOST
+,
+;9r,17g,16b;13b,7r;14g,2r,14b
+1
+;9r,17g,16b;13b,7r;14g,2r,14b
+1 val
+7
+;9r,17g,16b;13b,7r;14g,2r,14b
+17 val
+g
+;9r,17g,16b;13b,7r;14g,2r,14b
+{'b': 3, 'g': 17, 'r': 9} MOST
+,
+;9r,17g,16b;13b,7r;14g,2r,14b
+1
+;9r,17g,16b;13b,7r;14g,2r,14b
+1 val
+6
+;9r,17g,16b;13b,7r;14g,2r,14b
+16 val
+b
+;9r,17g,16b;13b,7r;14g,2r,14b
+{'b': 16, 'g': 17, 'r': 9} MOST
+;
+;9r,17g,16b;13b,7r;14g,2r,14b
+{'b': 16, 'g': 17, 'r': 9} MOST
+1
+4g,2r,14b
+1 val
+3
+4g,2r,14b
+13 val
+b
+4g,2r,14b
+{'b': 16, 'g': 17, 'r': 9} MOST
+,
+4g,2r,14b
+7
+4g,2r,14b
+7 val
+r
+4g,2r,14b
+{'b': 16, 'g': 17, 'r': 9} MOST
+;
+4g,2r,14b
+{'b': 16, 'g': 17, 'r': 9} MOST
+1
+
+1 val
+4
+
+14 val
+g
+
+{'b': 16, 'g': 17, 'r': 9} MOST
+,
+
+2
+
+2 val
+r
+
+{'b': 16, 'g': 17, 'r': 9} MOST
+,
+
+1
+
+1 val
+4
+
+14 val
+b
+
+{'b': 16, 'g': 17, 'r': 9} MOST
+{'b': 16, 'g': 17, 'r': 9}
+16 VAL
+1 CURR
+16 NEW
+{'b': 16, 'g': 17, 'r': 9}
+17 VAL
+16 CURR
+272 NEW
+{'b': 16, 'g': 17, 'r': 9}
+9 VAL
+272 CURR
+2448 NEW
+2448 CURR
+85:7b;8r,10b,1g;6b,9r
+ NEW GAME
+:
+:7b;8r,10b,1g;6b,9r
+7
+:7b;8r,10b,1g;6b,9r
+7 val
+b
+:7b;8r,10b,1g;6b,9r
+{'b': 7, 'g': 0, 'r': 0} MOST
+;
+:7b;8r,10b,1g;6b,9r
+{'b': 7, 'g': 0, 'r': 0} MOST
+8
+;8r,10b,1g;6b,9r
+8 val
+r
+;8r,10b,1g;6b,9r
+{'b': 7, 'g': 0, 'r': 8} MOST
+,
+;8r,10b,1g;6b,9r
+1
+;8r,10b,1g;6b,9r
+1 val
+0
+;8r,10b,1g;6b,9r
+10 val
+b
+;8r,10b,1g;6b,9r
+{'b': 10, 'g': 0, 'r': 8} MOST
+,
+;8r,10b,1g;6b,9r
+1
+;8r,10b,1g;6b,9r
+1 val
+g
+;8r,10b,1g;6b,9r
+{'b': 10, 'g': 1, 'r': 8} MOST
+;
+;8r,10b,1g;6b,9r
+{'b': 10, 'g': 1, 'r': 8} MOST
+6
+,9r
+6 val
+b
+,9r
+{'b': 10, 'g': 1, 'r': 8} MOST
+,
+,9r
+9
+,9r
+9 val
+r
+,9r
+{'b': 10, 'g': 1, 'r': 9} MOST
+{'b': 10, 'g': 1, 'r': 9}
+10 VAL
+1 CURR
+10 NEW
+{'b': 10, 'g': 1, 'r': 9}
+1 VAL
+10 CURR
+10 NEW
+{'b': 10, 'g': 1, 'r': 9}
+9 VAL
+10 CURR
+90 NEW
+90 CURR
+86:9r,6g,9b;1b,5r;11r,1g,11b;3g,8b;8r,5g,4b;15b,4g,2r
+ NEW GAME
+:
+:9r,6g,9b;1b,5r;11r,1g,11b;3g,8b;8r,5g,4b;15b,4g,2r
+9
+:9r,6g,9b;1b,5r;11r,1g,11b;3g,8b;8r,5g,4b;15b,4g,2r
+9 val
+r
+:9r,6g,9b;1b,5r;11r,1g,11b;3g,8b;8r,5g,4b;15b,4g,2r
+{'b': 0, 'g': 0, 'r': 9} MOST
+,
+:9r,6g,9b;1b,5r;11r,1g,11b;3g,8b;8r,5g,4b;15b,4g,2r
+6
+:9r,6g,9b;1b,5r;11r,1g,11b;3g,8b;8r,5g,4b;15b,4g,2r
+6 val
+g
+:9r,6g,9b;1b,5r;11r,1g,11b;3g,8b;8r,5g,4b;15b,4g,2r
+{'b': 0, 'g': 6, 'r': 9} MOST
+,
+:9r,6g,9b;1b,5r;11r,1g,11b;3g,8b;8r,5g,4b;15b,4g,2r
+9
+:9r,6g,9b;1b,5r;11r,1g,11b;3g,8b;8r,5g,4b;15b,4g,2r
+9 val
+b
+:9r,6g,9b;1b,5r;11r,1g,11b;3g,8b;8r,5g,4b;15b,4g,2r
+{'b': 9, 'g': 6, 'r': 9} MOST
+;
+:9r,6g,9b;1b,5r;11r,1g,11b;3g,8b;8r,5g,4b;15b,4g,2r
+{'b': 9, 'g': 6, 'r': 9} MOST
+1
+;1b,5r;11r,1g,11b;3g,8b;8r,5g,4b;15b,4g,2r
+1 val
+b
+;1b,5r;11r,1g,11b;3g,8b;8r,5g,4b;15b,4g,2r
+{'b': 9, 'g': 6, 'r': 9} MOST
+,
+;1b,5r;11r,1g,11b;3g,8b;8r,5g,4b;15b,4g,2r
+5
+;1b,5r;11r,1g,11b;3g,8b;8r,5g,4b;15b,4g,2r
+5 val
+r
+;1b,5r;11r,1g,11b;3g,8b;8r,5g,4b;15b,4g,2r
+{'b': 9, 'g': 6, 'r': 9} MOST
+;
+;1b,5r;11r,1g,11b;3g,8b;8r,5g,4b;15b,4g,2r
+{'b': 9, 'g': 6, 'r': 9} MOST
+1
+1b;3g,8b;8r,5g,4b;15b,4g,2r
+1 val
+1
+1b;3g,8b;8r,5g,4b;15b,4g,2r
+11 val
+r
+1b;3g,8b;8r,5g,4b;15b,4g,2r
+{'b': 9, 'g': 6, 'r': 11} MOST
+,
+1b;3g,8b;8r,5g,4b;15b,4g,2r
+1
+1b;3g,8b;8r,5g,4b;15b,4g,2r
+1 val
+g
+1b;3g,8b;8r,5g,4b;15b,4g,2r
+{'b': 9, 'g': 6, 'r': 11} MOST
+,
+1b;3g,8b;8r,5g,4b;15b,4g,2r
+1
+1b;3g,8b;8r,5g,4b;15b,4g,2r
+1 val
+1
+1b;3g,8b;8r,5g,4b;15b,4g,2r
+11 val
+b
+1b;3g,8b;8r,5g,4b;15b,4g,2r
+{'b': 11, 'g': 6, 'r': 11} MOST
+;
+1b;3g,8b;8r,5g,4b;15b,4g,2r
+{'b': 11, 'g': 6, 'r': 11} MOST
+3
+r
+3 val
+g
+r
+{'b': 11, 'g': 6, 'r': 11} MOST
+,
+r
+8
+r
+8 val
+b
+r
+{'b': 11, 'g': 6, 'r': 11} MOST
+;
+r
+{'b': 11, 'g': 6, 'r': 11} MOST
+8
+
+8 val
+r
+
+{'b': 11, 'g': 6, 'r': 11} MOST
+,
+
+5
+
+5 val
+g
+
+{'b': 11, 'g': 6, 'r': 11} MOST
+,
+
+4
+
+4 val
+b
+
+{'b': 11, 'g': 6, 'r': 11} MOST
+;
+
+{'b': 11, 'g': 6, 'r': 11} MOST
+1
+
+1 val
+5
+
+15 val
+b
+
+{'b': 15, 'g': 6, 'r': 11} MOST
+,
+
+4
+
+4 val
+g
+
+{'b': 15, 'g': 6, 'r': 11} MOST
+,
+
+2
+
+2 val
+r
+
+{'b': 15, 'g': 6, 'r': 11} MOST
+{'b': 15, 'g': 6, 'r': 11}
+15 VAL
+1 CURR
+15 NEW
+{'b': 15, 'g': 6, 'r': 11}
+6 VAL
+15 CURR
+90 NEW
+{'b': 15, 'g': 6, 'r': 11}
+11 VAL
+90 CURR
+990 NEW
+990 CURR
+87:2r,2g;5r,2b;6r
+ NEW GAME
+:
+:2r,2g;5r,2b;6r
+2
+:2r,2g;5r,2b;6r
+2 val
+r
+:2r,2g;5r,2b;6r
+{'b': 0, 'g': 0, 'r': 2} MOST
+,
+:2r,2g;5r,2b;6r
+2
+:2r,2g;5r,2b;6r
+2 val
+g
+:2r,2g;5r,2b;6r
+{'b': 0, 'g': 2, 'r': 2} MOST
+;
+:2r,2g;5r,2b;6r
+{'b': 0, 'g': 2, 'r': 2} MOST
+5
+;5r,2b;6r
+5 val
+r
+;5r,2b;6r
+{'b': 0, 'g': 2, 'r': 5} MOST
+,
+;5r,2b;6r
+2
+;5r,2b;6r
+2 val
+b
+;5r,2b;6r
+{'b': 2, 'g': 2, 'r': 5} MOST
+;
+;5r,2b;6r
+{'b': 2, 'g': 2, 'r': 5} MOST
+6
+
+6 val
+r
+
+{'b': 2, 'g': 2, 'r': 6} MOST
+{'b': 2, 'g': 2, 'r': 6}
+2 VAL
+1 CURR
+2 NEW
+{'b': 2, 'g': 2, 'r': 6}
+2 VAL
+2 CURR
+4 NEW
+{'b': 2, 'g': 2, 'r': 6}
+6 VAL
+4 CURR
+24 NEW
+24 CURR
+88:2g,5r;9b,7r,3g;1b,2g,3r;3g,6b,1r;1r,3g,6b
+ NEW GAME
+:
+:2g,5r;9b,7r,3g;1b,2g,3r;3g,6b,1r;1r,3g,6b
+2
+:2g,5r;9b,7r,3g;1b,2g,3r;3g,6b,1r;1r,3g,6b
+2 val
+g
+:2g,5r;9b,7r,3g;1b,2g,3r;3g,6b,1r;1r,3g,6b
+{'b': 0, 'g': 2, 'r': 0} MOST
+,
+:2g,5r;9b,7r,3g;1b,2g,3r;3g,6b,1r;1r,3g,6b
+5
+:2g,5r;9b,7r,3g;1b,2g,3r;3g,6b,1r;1r,3g,6b
+5 val
+r
+:2g,5r;9b,7r,3g;1b,2g,3r;3g,6b,1r;1r,3g,6b
+{'b': 0, 'g': 2, 'r': 5} MOST
+;
+:2g,5r;9b,7r,3g;1b,2g,3r;3g,6b,1r;1r,3g,6b
+{'b': 0, 'g': 2, 'r': 5} MOST
+9
+;9b,7r,3g;1b,2g,3r;3g,6b,1r;1r,3g,6b
+9 val
+b
+;9b,7r,3g;1b,2g,3r;3g,6b,1r;1r,3g,6b
+{'b': 9, 'g': 2, 'r': 5} MOST
+,
+;9b,7r,3g;1b,2g,3r;3g,6b,1r;1r,3g,6b
+7
+;9b,7r,3g;1b,2g,3r;3g,6b,1r;1r,3g,6b
+7 val
+r
+;9b,7r,3g;1b,2g,3r;3g,6b,1r;1r,3g,6b
+{'b': 9, 'g': 2, 'r': 7} MOST
+,
+;9b,7r,3g;1b,2g,3r;3g,6b,1r;1r,3g,6b
+3
+;9b,7r,3g;1b,2g,3r;3g,6b,1r;1r,3g,6b
+3 val
+g
+;9b,7r,3g;1b,2g,3r;3g,6b,1r;1r,3g,6b
+{'b': 9, 'g': 3, 'r': 7} MOST
+;
+;9b,7r,3g;1b,2g,3r;3g,6b,1r;1r,3g,6b
+{'b': 9, 'g': 3, 'r': 7} MOST
+1
+,3r;3g,6b,1r;1r,3g,6b
+1 val
+b
+,3r;3g,6b,1r;1r,3g,6b
+{'b': 9, 'g': 3, 'r': 7} MOST
+,
+,3r;3g,6b,1r;1r,3g,6b
+2
+,3r;3g,6b,1r;1r,3g,6b
+2 val
+g
+,3r;3g,6b,1r;1r,3g,6b
+{'b': 9, 'g': 3, 'r': 7} MOST
+,
+,3r;3g,6b,1r;1r,3g,6b
+3
+,3r;3g,6b,1r;1r,3g,6b
+3 val
+r
+,3r;3g,6b,1r;1r,3g,6b
+{'b': 9, 'g': 3, 'r': 7} MOST
+;
+,3r;3g,6b,1r;1r,3g,6b
+{'b': 9, 'g': 3, 'r': 7} MOST
+3
+
+3 val
+g
+
+{'b': 9, 'g': 3, 'r': 7} MOST
+,
+
+6
+
+6 val
+b
+
+{'b': 9, 'g': 3, 'r': 7} MOST
+,
+
+1
+
+1 val
+r
+
+{'b': 9, 'g': 3, 'r': 7} MOST
+;
+
+{'b': 9, 'g': 3, 'r': 7} MOST
+1
+
+1 val
+r
+
+{'b': 9, 'g': 3, 'r': 7} MOST
+,
+
+3
+
+3 val
+g
+
+{'b': 9, 'g': 3, 'r': 7} MOST
+,
+
+6
+
+6 val
+b
+
+{'b': 9, 'g': 3, 'r': 7} MOST
+{'b': 9, 'g': 3, 'r': 7}
+9 VAL
+1 CURR
+9 NEW
+{'b': 9, 'g': 3, 'r': 7}
+3 VAL
+9 CURR
+27 NEW
+{'b': 9, 'g': 3, 'r': 7}
+7 VAL
+27 CURR
+189 NEW
+189 CURR
+89:10b,13r;15r,6b,2g;2g,10r,18b;1g,18r,8b
+ NEW GAME
+:
+:10b,13r;15r,6b,2g;2g,10r,18b;1g,18r,8b
+1
+:10b,13r;15r,6b,2g;2g,10r,18b;1g,18r,8b
+1 val
+0
+:10b,13r;15r,6b,2g;2g,10r,18b;1g,18r,8b
+10 val
+b
+:10b,13r;15r,6b,2g;2g,10r,18b;1g,18r,8b
+{'b': 10, 'g': 0, 'r': 0} MOST
+,
+:10b,13r;15r,6b,2g;2g,10r,18b;1g,18r,8b
+1
+:10b,13r;15r,6b,2g;2g,10r,18b;1g,18r,8b
+1 val
+3
+:10b,13r;15r,6b,2g;2g,10r,18b;1g,18r,8b
+13 val
+r
+:10b,13r;15r,6b,2g;2g,10r,18b;1g,18r,8b
+{'b': 10, 'g': 0, 'r': 13} MOST
+;
+:10b,13r;15r,6b,2g;2g,10r,18b;1g,18r,8b
+{'b': 10, 'g': 0, 'r': 13} MOST
+1
+;15r,6b,2g;2g,10r,18b;1g,18r,8b
+1 val
+5
+;15r,6b,2g;2g,10r,18b;1g,18r,8b
+15 val
+r
+;15r,6b,2g;2g,10r,18b;1g,18r,8b
+{'b': 10, 'g': 0, 'r': 15} MOST
+,
+;15r,6b,2g;2g,10r,18b;1g,18r,8b
+6
+;15r,6b,2g;2g,10r,18b;1g,18r,8b
+6 val
+b
+;15r,6b,2g;2g,10r,18b;1g,18r,8b
+{'b': 10, 'g': 0, 'r': 15} MOST
+,
+;15r,6b,2g;2g,10r,18b;1g,18r,8b
+2
+;15r,6b,2g;2g,10r,18b;1g,18r,8b
+2 val
+g
+;15r,6b,2g;2g,10r,18b;1g,18r,8b
+{'b': 10, 'g': 2, 'r': 15} MOST
+;
+;15r,6b,2g;2g,10r,18b;1g,18r,8b
+{'b': 10, 'g': 2, 'r': 15} MOST
+2
+18b;1g,18r,8b
+2 val
+g
+18b;1g,18r,8b
+{'b': 10, 'g': 2, 'r': 15} MOST
+,
+18b;1g,18r,8b
+1
+18b;1g,18r,8b
+1 val
+0
+18b;1g,18r,8b
+10 val
+r
+18b;1g,18r,8b
+{'b': 10, 'g': 2, 'r': 15} MOST
+,
+18b;1g,18r,8b
+1
+18b;1g,18r,8b
+1 val
+8
+18b;1g,18r,8b
+18 val
+b
+18b;1g,18r,8b
+{'b': 18, 'g': 2, 'r': 15} MOST
+;
+18b;1g,18r,8b
+{'b': 18, 'g': 2, 'r': 15} MOST
+1
+
+1 val
+g
+
+{'b': 18, 'g': 2, 'r': 15} MOST
+,
+
+1
+
+1 val
+8
+
+18 val
+r
+
+{'b': 18, 'g': 2, 'r': 18} MOST
+,
+
+8
+
+8 val
+b
+
+{'b': 18, 'g': 2, 'r': 18} MOST
+{'b': 18, 'g': 2, 'r': 18}
+18 VAL
+1 CURR
+18 NEW
+{'b': 18, 'g': 2, 'r': 18}
+2 VAL
+18 CURR
+36 NEW
+{'b': 18, 'g': 2, 'r': 18}
+18 VAL
+36 CURR
+648 NEW
+648 CURR
+90:2r,2b,9g;1r,9g;7g,3b,2r;4b,2r,4g
+ NEW GAME
+:
+:2r,2b,9g;1r,9g;7g,3b,2r;4b,2r,4g
+2
+:2r,2b,9g;1r,9g;7g,3b,2r;4b,2r,4g
+2 val
+r
+:2r,2b,9g;1r,9g;7g,3b,2r;4b,2r,4g
+{'b': 0, 'g': 0, 'r': 2} MOST
+,
+:2r,2b,9g;1r,9g;7g,3b,2r;4b,2r,4g
+2
+:2r,2b,9g;1r,9g;7g,3b,2r;4b,2r,4g
+2 val
+b
+:2r,2b,9g;1r,9g;7g,3b,2r;4b,2r,4g
+{'b': 2, 'g': 0, 'r': 2} MOST
+,
+:2r,2b,9g;1r,9g;7g,3b,2r;4b,2r,4g
+9
+:2r,2b,9g;1r,9g;7g,3b,2r;4b,2r,4g
+9 val
+g
+:2r,2b,9g;1r,9g;7g,3b,2r;4b,2r,4g
+{'b': 2, 'g': 9, 'r': 2} MOST
+;
+:2r,2b,9g;1r,9g;7g,3b,2r;4b,2r,4g
+{'b': 2, 'g': 9, 'r': 2} MOST
+1
+;1r,9g;7g,3b,2r;4b,2r,4g
+1 val
+r
+;1r,9g;7g,3b,2r;4b,2r,4g
+{'b': 2, 'g': 9, 'r': 2} MOST
+,
+;1r,9g;7g,3b,2r;4b,2r,4g
+9
+;1r,9g;7g,3b,2r;4b,2r,4g
+9 val
+g
+;1r,9g;7g,3b,2r;4b,2r,4g
+{'b': 2, 'g': 9, 'r': 2} MOST
+;
+;1r,9g;7g,3b,2r;4b,2r,4g
+{'b': 2, 'g': 9, 'r': 2} MOST
+7
+;4b,2r,4g
+7 val
+g
+;4b,2r,4g
+{'b': 2, 'g': 9, 'r': 2} MOST
+,
+;4b,2r,4g
+3
+;4b,2r,4g
+3 val
+b
+;4b,2r,4g
+{'b': 3, 'g': 9, 'r': 2} MOST
+,
+;4b,2r,4g
+2
+;4b,2r,4g
+2 val
+r
+;4b,2r,4g
+{'b': 3, 'g': 9, 'r': 2} MOST
+;
+;4b,2r,4g
+{'b': 3, 'g': 9, 'r': 2} MOST
+4
+
+4 val
+b
+
+{'b': 4, 'g': 9, 'r': 2} MOST
+,
+
+2
+
+2 val
+r
+
+{'b': 4, 'g': 9, 'r': 2} MOST
+,
+
+4
+
+4 val
+g
+
+{'b': 4, 'g': 9, 'r': 2} MOST
+{'b': 4, 'g': 9, 'r': 2}
+4 VAL
+1 CURR
+4 NEW
+{'b': 4, 'g': 9, 'r': 2}
+9 VAL
+4 CURR
+36 NEW
+{'b': 4, 'g': 9, 'r': 2}
+2 VAL
+36 CURR
+72 NEW
+72 CURR
+91:6g,4r,9b;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+ NEW GAME
+:
+:6g,4r,9b;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+6
+:6g,4r,9b;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+6 val
+g
+:6g,4r,9b;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+{'b': 0, 'g': 6, 'r': 0} MOST
+,
+:6g,4r,9b;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+4
+:6g,4r,9b;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+4 val
+r
+:6g,4r,9b;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+{'b': 0, 'g': 6, 'r': 4} MOST
+,
+:6g,4r,9b;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+9
+:6g,4r,9b;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+9 val
+b
+:6g,4r,9b;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+{'b': 9, 'g': 6, 'r': 4} MOST
+;
+:6g,4r,9b;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+{'b': 9, 'g': 6, 'r': 4} MOST
+4
+;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+4 val
+g
+;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+{'b': 9, 'g': 6, 'r': 4} MOST
+,
+;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+4
+;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+4 val
+r
+;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+{'b': 9, 'g': 6, 'r': 4} MOST
+,
+;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+1
+;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+1 val
+7
+;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+17 val
+b
+;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+{'b': 17, 'g': 6, 'r': 4} MOST
+;
+;4g,4r,17b;6b,2r,4g;7g,2r,13b;1g,13b,1r
+{'b': 17, 'g': 6, 'r': 4} MOST
+6
+;7g,2r,13b;1g,13b,1r
+6 val
+b
+;7g,2r,13b;1g,13b,1r
+{'b': 17, 'g': 6, 'r': 4} MOST
+,
+;7g,2r,13b;1g,13b,1r
+2
+;7g,2r,13b;1g,13b,1r
+2 val
+r
+;7g,2r,13b;1g,13b,1r
+{'b': 17, 'g': 6, 'r': 4} MOST
+,
+;7g,2r,13b;1g,13b,1r
+4
+;7g,2r,13b;1g,13b,1r
+4 val
+g
+;7g,2r,13b;1g,13b,1r
+{'b': 17, 'g': 6, 'r': 4} MOST
+;
+;7g,2r,13b;1g,13b,1r
+{'b': 17, 'g': 6, 'r': 4} MOST
+7
+
+7 val
+g
+
+{'b': 17, 'g': 7, 'r': 4} MOST
+,
+
+2
+
+2 val
+r
+
+{'b': 17, 'g': 7, 'r': 4} MOST
+,
+
+1
+
+1 val
+3
+
+13 val
+b
+
+{'b': 17, 'g': 7, 'r': 4} MOST
+;
+
+{'b': 17, 'g': 7, 'r': 4} MOST
+1
+
+1 val
+g
+
+{'b': 17, 'g': 7, 'r': 4} MOST
+,
+
+1
+
+1 val
+3
+
+13 val
+b
+
+{'b': 17, 'g': 7, 'r': 4} MOST
+,
+
+1
+
+1 val
+r
+
+{'b': 17, 'g': 7, 'r': 4} MOST
+{'b': 17, 'g': 7, 'r': 4}
+17 VAL
+1 CURR
+17 NEW
+{'b': 17, 'g': 7, 'r': 4}
+7 VAL
+17 CURR
+119 NEW
+{'b': 17, 'g': 7, 'r': 4}
+4 VAL
+119 CURR
+476 NEW
+476 CURR
+92:4g,1b,8r;7g,6r;13r;9g;6r,1b,4g;2r,1b,15g
+ NEW GAME
+:
+:4g,1b,8r;7g,6r;13r;9g;6r,1b,4g;2r,1b,15g
+4
+:4g,1b,8r;7g,6r;13r;9g;6r,1b,4g;2r,1b,15g
+4 val
+g
+:4g,1b,8r;7g,6r;13r;9g;6r,1b,4g;2r,1b,15g
+{'b': 0, 'g': 4, 'r': 0} MOST
+,
+:4g,1b,8r;7g,6r;13r;9g;6r,1b,4g;2r,1b,15g
+1
+:4g,1b,8r;7g,6r;13r;9g;6r,1b,4g;2r,1b,15g
+1 val
+b
+:4g,1b,8r;7g,6r;13r;9g;6r,1b,4g;2r,1b,15g
+{'b': 1, 'g': 4, 'r': 0} MOST
+,
+:4g,1b,8r;7g,6r;13r;9g;6r,1b,4g;2r,1b,15g
+8
+:4g,1b,8r;7g,6r;13r;9g;6r,1b,4g;2r,1b,15g
+8 val
+r
+:4g,1b,8r;7g,6r;13r;9g;6r,1b,4g;2r,1b,15g
+{'b': 1, 'g': 4, 'r': 8} MOST
+;
+:4g,1b,8r;7g,6r;13r;9g;6r,1b,4g;2r,1b,15g
+{'b': 1, 'g': 4, 'r': 8} MOST
+7
+;7g,6r;13r;9g;6r,1b,4g;2r,1b,15g
+7 val
+g
+;7g,6r;13r;9g;6r,1b,4g;2r,1b,15g
+{'b': 1, 'g': 7, 'r': 8} MOST
+,
+;7g,6r;13r;9g;6r,1b,4g;2r,1b,15g
+6
+;7g,6r;13r;9g;6r,1b,4g;2r,1b,15g
+6 val
+r
+;7g,6r;13r;9g;6r,1b,4g;2r,1b,15g
+{'b': 1, 'g': 7, 'r': 8} MOST
+;
+;7g,6r;13r;9g;6r,1b,4g;2r,1b,15g
+{'b': 1, 'g': 7, 'r': 8} MOST
+1
+r,1b,4g;2r,1b,15g
+1 val
+3
+r,1b,4g;2r,1b,15g
+13 val
+r
+r,1b,4g;2r,1b,15g
+{'b': 1, 'g': 7, 'r': 13} MOST
+;
+r,1b,4g;2r,1b,15g
+{'b': 1, 'g': 7, 'r': 13} MOST
+9
+
+9 val
+g
+
+{'b': 1, 'g': 9, 'r': 13} MOST
+;
+
+{'b': 1, 'g': 9, 'r': 13} MOST
+6
+
+6 val
+r
+
+{'b': 1, 'g': 9, 'r': 13} MOST
+,
+
+1
+
+1 val
+b
+
+{'b': 1, 'g': 9, 'r': 13} MOST
+,
+
+4
+
+4 val
+g
+
+{'b': 1, 'g': 9, 'r': 13} MOST
+;
+
+{'b': 1, 'g': 9, 'r': 13} MOST
+2
+
+2 val
+r
+
+{'b': 1, 'g': 9, 'r': 13} MOST
+,
+
+1
+
+1 val
+b
+
+{'b': 1, 'g': 9, 'r': 13} MOST
+,
+
+1
+
+1 val
+5
+
+15 val
+g
+
+{'b': 1, 'g': 15, 'r': 13} MOST
+{'b': 1, 'g': 15, 'r': 13}
+1 VAL
+1 CURR
+1 NEW
+{'b': 1, 'g': 15, 'r': 13}
+15 VAL
+1 CURR
+15 NEW
+{'b': 1, 'g': 15, 'r': 13}
+13 VAL
+15 CURR
+195 NEW
+195 CURR
+93:8g,8r,13b;4r,10g;15b,11r;14g,5r,6b;12r,3b,13g;9r,10g,6b
+ NEW GAME
+:
+:8g,8r,13b;4r,10g;15b,11r;14g,5r,6b;12r,3b,13g;9r,10g,6b
+8
+:8g,8r,13b;4r,10g;15b,11r;14g,5r,6b;12r,3b,13g;9r,10g,6b
+8 val
+g
+:8g,8r,13b;4r,10g;15b,11r;14g,5r,6b;12r,3b,13g;9r,10g,6b
+{'b': 0, 'g': 8, 'r': 0} MOST
+,
+:8g,8r,13b;4r,10g;15b,11r;14g,5r,6b;12r,3b,13g;9r,10g,6b
+8
+:8g,8r,13b;4r,10g;15b,11r;14g,5r,6b;12r,3b,13g;9r,10g,6b
+8 val
+r
+:8g,8r,13b;4r,10g;15b,11r;14g,5r,6b;12r,3b,13g;9r,10g,6b
+{'b': 0, 'g': 8, 'r': 8} MOST
+,
+:8g,8r,13b;4r,10g;15b,11r;14g,5r,6b;12r,3b,13g;9r,10g,6b
+1
+:8g,8r,13b;4r,10g;15b,11r;14g,5r,6b;12r,3b,13g;9r,10g,6b
+1 val
+3
+:8g,8r,13b;4r,10g;15b,11r;14g,5r,6b;12r,3b,13g;9r,10g,6b
+13 val
+b
+:8g,8r,13b;4r,10g;15b,11r;14g,5r,6b;12r,3b,13g;9r,10g,6b
+{'b': 13, 'g': 8, 'r': 8} MOST
+;
+:8g,8r,13b;4r,10g;15b,11r;14g,5r,6b;12r,3b,13g;9r,10g,6b
+{'b': 13, 'g': 8, 'r': 8} MOST
+4
+;4r,10g;15b,11r;14g,5r,6b;12r,3b,13g;9r,10g,6b
+4 val
+r
+;4r,10g;15b,11r;14g,5r,6b;12r,3b,13g;9r,10g,6b
+{'b': 13, 'g': 8, 'r': 8} MOST
+,
+;4r,10g;15b,11r;14g,5r,6b;12r,3b,13g;9r,10g,6b
+1
+;4r,10g;15b,11r;14g,5r,6b;12r,3b,13g;9r,10g,6b
+1 val
+0
+;4r,10g;15b,11r;14g,5r,6b;12r,3b,13g;9r,10g,6b
+10 val
+g
+;4r,10g;15b,11r;14g,5r,6b;12r,3b,13g;9r,10g,6b
+{'b': 13, 'g': 10, 'r': 8} MOST
+;
+;4r,10g;15b,11r;14g,5r,6b;12r,3b,13g;9r,10g,6b
+{'b': 13, 'g': 10, 'r': 8} MOST
+1
+4g,5r,6b;12r,3b,13g;9r,10g,6b
+1 val
+5
+4g,5r,6b;12r,3b,13g;9r,10g,6b
+15 val
+b
+4g,5r,6b;12r,3b,13g;9r,10g,6b
+{'b': 15, 'g': 10, 'r': 8} MOST
+,
+4g,5r,6b;12r,3b,13g;9r,10g,6b
+1
+4g,5r,6b;12r,3b,13g;9r,10g,6b
+1 val
+1
+4g,5r,6b;12r,3b,13g;9r,10g,6b
+11 val
+r
+4g,5r,6b;12r,3b,13g;9r,10g,6b
+{'b': 15, 'g': 10, 'r': 11} MOST
+;
+4g,5r,6b;12r,3b,13g;9r,10g,6b
+{'b': 15, 'g': 10, 'r': 11} MOST
+1
+g,6b
+1 val
+4
+g,6b
+14 val
+g
+g,6b
+{'b': 15, 'g': 14, 'r': 11} MOST
+,
+g,6b
+5
+g,6b
+5 val
+r
+g,6b
+{'b': 15, 'g': 14, 'r': 11} MOST
+,
+g,6b
+6
+g,6b
+6 val
+b
+g,6b
+{'b': 15, 'g': 14, 'r': 11} MOST
+;
+g,6b
+{'b': 15, 'g': 14, 'r': 11} MOST
+1
+
+1 val
+2
+
+12 val
+r
+
+{'b': 15, 'g': 14, 'r': 12} MOST
+,
+
+3
+
+3 val
+b
+
+{'b': 15, 'g': 14, 'r': 12} MOST
+,
+
+1
+
+1 val
+3
+
+13 val
+g
+
+{'b': 15, 'g': 14, 'r': 12} MOST
+;
+
+{'b': 15, 'g': 14, 'r': 12} MOST
+9
+
+9 val
+r
+
+{'b': 15, 'g': 14, 'r': 12} MOST
+,
+
+1
+
+1 val
+0
+
+10 val
+g
+
+{'b': 15, 'g': 14, 'r': 12} MOST
+,
+
+6
+
+6 val
+b
+
+{'b': 15, 'g': 14, 'r': 12} MOST
+{'b': 15, 'g': 14, 'r': 12}
+15 VAL
+1 CURR
+15 NEW
+{'b': 15, 'g': 14, 'r': 12}
+14 VAL
+15 CURR
+210 NEW
+{'b': 15, 'g': 14, 'r': 12}
+12 VAL
+210 CURR
+2520 NEW
+2520 CURR
+94:14r,10g;15r;4r;4g,7r,1b;6r,5g;1r,2g
+ NEW GAME
+:
+:14r,10g;15r;4r;4g,7r,1b;6r,5g;1r,2g
+1
+:14r,10g;15r;4r;4g,7r,1b;6r,5g;1r,2g
+1 val
+4
+:14r,10g;15r;4r;4g,7r,1b;6r,5g;1r,2g
+14 val
+r
+:14r,10g;15r;4r;4g,7r,1b;6r,5g;1r,2g
+{'b': 0, 'g': 0, 'r': 14} MOST
+,
+:14r,10g;15r;4r;4g,7r,1b;6r,5g;1r,2g
+1
+:14r,10g;15r;4r;4g,7r,1b;6r,5g;1r,2g
+1 val
+0
+:14r,10g;15r;4r;4g,7r,1b;6r,5g;1r,2g
+10 val
+g
+:14r,10g;15r;4r;4g,7r,1b;6r,5g;1r,2g
+{'b': 0, 'g': 10, 'r': 14} MOST
+;
+:14r,10g;15r;4r;4g,7r,1b;6r,5g;1r,2g
+{'b': 0, 'g': 10, 'r': 14} MOST
+1
+;15r;4r;4g,7r,1b;6r,5g;1r,2g
+1 val
+5
+;15r;4r;4g,7r,1b;6r,5g;1r,2g
+15 val
+r
+;15r;4r;4g,7r,1b;6r,5g;1r,2g
+{'b': 0, 'g': 10, 'r': 15} MOST
+;
+;15r;4r;4g,7r,1b;6r,5g;1r,2g
+{'b': 0, 'g': 10, 'r': 15} MOST
+4
+r,1b;6r,5g;1r,2g
+4 val
+r
+r,1b;6r,5g;1r,2g
+{'b': 0, 'g': 10, 'r': 15} MOST
+;
+r,1b;6r,5g;1r,2g
+{'b': 0, 'g': 10, 'r': 15} MOST
+4
+g
+4 val
+g
+g
+{'b': 0, 'g': 10, 'r': 15} MOST
+,
+g
+7
+g
+7 val
+r
+g
+{'b': 0, 'g': 10, 'r': 15} MOST
+,
+g
+1
+g
+1 val
+b
+g
+{'b': 1, 'g': 10, 'r': 15} MOST
+;
+g
+{'b': 1, 'g': 10, 'r': 15} MOST
+6
+
+6 val
+r
+
+{'b': 1, 'g': 10, 'r': 15} MOST
+,
+
+5
+
+5 val
+g
+
+{'b': 1, 'g': 10, 'r': 15} MOST
+;
+
+{'b': 1, 'g': 10, 'r': 15} MOST
+1
+
+1 val
+r
+
+{'b': 1, 'g': 10, 'r': 15} MOST
+,
+
+2
+
+2 val
+g
+
+{'b': 1, 'g': 10, 'r': 15} MOST
+{'b': 1, 'g': 10, 'r': 15}
+1 VAL
+1 CURR
+1 NEW
+{'b': 1, 'g': 10, 'r': 15}
+10 VAL
+1 CURR
+10 NEW
+{'b': 1, 'g': 10, 'r': 15}
+15 VAL
+10 CURR
+150 NEW
+150 CURR
+95:1b,11r;15r,1b,3g;13r,2b,3g;1g,1b
+ NEW GAME
+:
+:1b,11r;15r,1b,3g;13r,2b,3g;1g,1b
+1
+:1b,11r;15r,1b,3g;13r,2b,3g;1g,1b
+1 val
+b
+:1b,11r;15r,1b,3g;13r,2b,3g;1g,1b
+{'b': 1, 'g': 0, 'r': 0} MOST
+,
+:1b,11r;15r,1b,3g;13r,2b,3g;1g,1b
+1
+:1b,11r;15r,1b,3g;13r,2b,3g;1g,1b
+1 val
+1
+:1b,11r;15r,1b,3g;13r,2b,3g;1g,1b
+11 val
+r
+:1b,11r;15r,1b,3g;13r,2b,3g;1g,1b
+{'b': 1, 'g': 0, 'r': 11} MOST
+;
+:1b,11r;15r,1b,3g;13r,2b,3g;1g,1b
+{'b': 1, 'g': 0, 'r': 11} MOST
+1
+;15r,1b,3g;13r,2b,3g;1g,1b
+1 val
+5
+;15r,1b,3g;13r,2b,3g;1g,1b
+15 val
+r
+;15r,1b,3g;13r,2b,3g;1g,1b
+{'b': 1, 'g': 0, 'r': 15} MOST
+,
+;15r,1b,3g;13r,2b,3g;1g,1b
+1
+;15r,1b,3g;13r,2b,3g;1g,1b
+1 val
+b
+;15r,1b,3g;13r,2b,3g;1g,1b
+{'b': 1, 'g': 0, 'r': 15} MOST
+,
+;15r,1b,3g;13r,2b,3g;1g,1b
+3
+;15r,1b,3g;13r,2b,3g;1g,1b
+3 val
+g
+;15r,1b,3g;13r,2b,3g;1g,1b
+{'b': 1, 'g': 3, 'r': 15} MOST
+;
+;15r,1b,3g;13r,2b,3g;1g,1b
+{'b': 1, 'g': 3, 'r': 15} MOST
+1
+,3g;1g,1b
+1 val
+3
+,3g;1g,1b
+13 val
+r
+,3g;1g,1b
+{'b': 1, 'g': 3, 'r': 15} MOST
+,
+,3g;1g,1b
+2
+,3g;1g,1b
+2 val
+b
+,3g;1g,1b
+{'b': 2, 'g': 3, 'r': 15} MOST
+,
+,3g;1g,1b
+3
+,3g;1g,1b
+3 val
+g
+,3g;1g,1b
+{'b': 2, 'g': 3, 'r': 15} MOST
+;
+,3g;1g,1b
+{'b': 2, 'g': 3, 'r': 15} MOST
+1
+
+1 val
+g
+
+{'b': 2, 'g': 3, 'r': 15} MOST
+,
+
+1
+
+1 val
+b
+
+{'b': 2, 'g': 3, 'r': 15} MOST
+{'b': 2, 'g': 3, 'r': 15}
+2 VAL
+1 CURR
+2 NEW
+{'b': 2, 'g': 3, 'r': 15}
+3 VAL
+2 CURR
+6 NEW
+{'b': 2, 'g': 3, 'r': 15}
+15 VAL
+6 CURR
+90 NEW
+90 CURR
+96:4r,4b,4g;5b,5g,4r;2r,8b;16r,5g,13b
+ NEW GAME
+:
+:4r,4b,4g;5b,5g,4r;2r,8b;16r,5g,13b
+4
+:4r,4b,4g;5b,5g,4r;2r,8b;16r,5g,13b
+4 val
+r
+:4r,4b,4g;5b,5g,4r;2r,8b;16r,5g,13b
+{'b': 0, 'g': 0, 'r': 4} MOST
+,
+:4r,4b,4g;5b,5g,4r;2r,8b;16r,5g,13b
+4
+:4r,4b,4g;5b,5g,4r;2r,8b;16r,5g,13b
+4 val
+b
+:4r,4b,4g;5b,5g,4r;2r,8b;16r,5g,13b
+{'b': 4, 'g': 0, 'r': 4} MOST
+,
+:4r,4b,4g;5b,5g,4r;2r,8b;16r,5g,13b
+4
+:4r,4b,4g;5b,5g,4r;2r,8b;16r,5g,13b
+4 val
+g
+:4r,4b,4g;5b,5g,4r;2r,8b;16r,5g,13b
+{'b': 4, 'g': 4, 'r': 4} MOST
+;
+:4r,4b,4g;5b,5g,4r;2r,8b;16r,5g,13b
+{'b': 4, 'g': 4, 'r': 4} MOST
+5
+;5b,5g,4r;2r,8b;16r,5g,13b
+5 val
+b
+;5b,5g,4r;2r,8b;16r,5g,13b
+{'b': 5, 'g': 4, 'r': 4} MOST
+,
+;5b,5g,4r;2r,8b;16r,5g,13b
+5
+;5b,5g,4r;2r,8b;16r,5g,13b
+5 val
+g
+;5b,5g,4r;2r,8b;16r,5g,13b
+{'b': 5, 'g': 5, 'r': 4} MOST
+,
+;5b,5g,4r;2r,8b;16r,5g,13b
+4
+;5b,5g,4r;2r,8b;16r,5g,13b
+4 val
+r
+;5b,5g,4r;2r,8b;16r,5g,13b
+{'b': 5, 'g': 5, 'r': 4} MOST
+;
+;5b,5g,4r;2r,8b;16r,5g,13b
+{'b': 5, 'g': 5, 'r': 4} MOST
+2
+r,5g,13b
+2 val
+r
+r,5g,13b
+{'b': 5, 'g': 5, 'r': 4} MOST
+,
+r,5g,13b
+8
+r,5g,13b
+8 val
+b
+r,5g,13b
+{'b': 8, 'g': 5, 'r': 4} MOST
+;
+r,5g,13b
+{'b': 8, 'g': 5, 'r': 4} MOST
+1
+
+1 val
+6
+
+16 val
+r
+
+{'b': 8, 'g': 5, 'r': 16} MOST
+,
+
+5
+
+5 val
+g
+
+{'b': 8, 'g': 5, 'r': 16} MOST
+,
+
+1
+
+1 val
+3
+
+13 val
+b
+
+{'b': 13, 'g': 5, 'r': 16} MOST
+{'b': 13, 'g': 5, 'r': 16}
+13 VAL
+1 CURR
+13 NEW
+{'b': 13, 'g': 5, 'r': 16}
+5 VAL
+13 CURR
+65 NEW
+{'b': 13, 'g': 5, 'r': 16}
+16 VAL
+65 CURR
+1040 NEW
+1040 CURR
+97:6r,13g,3b;10g,4b;3r,12g,4b;3r,5b,16g;3r,9g,1b
+ NEW GAME
+:
+:6r,13g,3b;10g,4b;3r,12g,4b;3r,5b,16g;3r,9g,1b
+6
+:6r,13g,3b;10g,4b;3r,12g,4b;3r,5b,16g;3r,9g,1b
+6 val
+r
+:6r,13g,3b;10g,4b;3r,12g,4b;3r,5b,16g;3r,9g,1b
+{'b': 0, 'g': 0, 'r': 6} MOST
+,
+:6r,13g,3b;10g,4b;3r,12g,4b;3r,5b,16g;3r,9g,1b
+1
+:6r,13g,3b;10g,4b;3r,12g,4b;3r,5b,16g;3r,9g,1b
+1 val
+3
+:6r,13g,3b;10g,4b;3r,12g,4b;3r,5b,16g;3r,9g,1b
+13 val
+g
+:6r,13g,3b;10g,4b;3r,12g,4b;3r,5b,16g;3r,9g,1b
+{'b': 0, 'g': 13, 'r': 6} MOST
+,
+:6r,13g,3b;10g,4b;3r,12g,4b;3r,5b,16g;3r,9g,1b
+3
+:6r,13g,3b;10g,4b;3r,12g,4b;3r,5b,16g;3r,9g,1b
+3 val
+b
+:6r,13g,3b;10g,4b;3r,12g,4b;3r,5b,16g;3r,9g,1b
+{'b': 3, 'g': 13, 'r': 6} MOST
+;
+:6r,13g,3b;10g,4b;3r,12g,4b;3r,5b,16g;3r,9g,1b
+{'b': 3, 'g': 13, 'r': 6} MOST
+1
+;10g,4b;3r,12g,4b;3r,5b,16g;3r,9g,1b
+1 val
+0
+;10g,4b;3r,12g,4b;3r,5b,16g;3r,9g,1b
+10 val
+g
+;10g,4b;3r,12g,4b;3r,5b,16g;3r,9g,1b
+{'b': 3, 'g': 13, 'r': 6} MOST
+,
+;10g,4b;3r,12g,4b;3r,5b,16g;3r,9g,1b
+4
+;10g,4b;3r,12g,4b;3r,5b,16g;3r,9g,1b
+4 val
+b
+;10g,4b;3r,12g,4b;3r,5b,16g;3r,9g,1b
+{'b': 4, 'g': 13, 'r': 6} MOST
+;
+;10g,4b;3r,12g,4b;3r,5b,16g;3r,9g,1b
+{'b': 4, 'g': 13, 'r': 6} MOST
+3
+;3r,5b,16g;3r,9g,1b
+3 val
+r
+;3r,5b,16g;3r,9g,1b
+{'b': 4, 'g': 13, 'r': 6} MOST
+,
+;3r,5b,16g;3r,9g,1b
+1
+;3r,5b,16g;3r,9g,1b
+1 val
+2
+;3r,5b,16g;3r,9g,1b
+12 val
+g
+;3r,5b,16g;3r,9g,1b
+{'b': 4, 'g': 13, 'r': 6} MOST
+,
+;3r,5b,16g;3r,9g,1b
+4
+;3r,5b,16g;3r,9g,1b
+4 val
+b
+;3r,5b,16g;3r,9g,1b
+{'b': 4, 'g': 13, 'r': 6} MOST
+;
+;3r,5b,16g;3r,9g,1b
+{'b': 4, 'g': 13, 'r': 6} MOST
+3
+
+3 val
+r
+
+{'b': 4, 'g': 13, 'r': 6} MOST
+,
+
+5
+
+5 val
+b
+
+{'b': 5, 'g': 13, 'r': 6} MOST
+,
+
+1
+
+1 val
+6
+
+16 val
+g
+
+{'b': 5, 'g': 16, 'r': 6} MOST
+;
+
+{'b': 5, 'g': 16, 'r': 6} MOST
+3
+
+3 val
+r
+
+{'b': 5, 'g': 16, 'r': 6} MOST
+,
+
+9
+
+9 val
+g
+
+{'b': 5, 'g': 16, 'r': 6} MOST
+,
+
+1
+
+1 val
+b
+
+{'b': 5, 'g': 16, 'r': 6} MOST
+{'b': 5, 'g': 16, 'r': 6}
+5 VAL
+1 CURR
+5 NEW
+{'b': 5, 'g': 16, 'r': 6}
+16 VAL
+5 CURR
+80 NEW
+{'b': 5, 'g': 16, 'r': 6}
+6 VAL
+80 CURR
+480 NEW
+480 CURR
+98:8r,12g,2b;7g,8r,1b;2b,6r,3g;9r,1b,4g
+ NEW GAME
+:
+:8r,12g,2b;7g,8r,1b;2b,6r,3g;9r,1b,4g
+8
+:8r,12g,2b;7g,8r,1b;2b,6r,3g;9r,1b,4g
+8 val
+r
+:8r,12g,2b;7g,8r,1b;2b,6r,3g;9r,1b,4g
+{'b': 0, 'g': 0, 'r': 8} MOST
+,
+:8r,12g,2b;7g,8r,1b;2b,6r,3g;9r,1b,4g
+1
+:8r,12g,2b;7g,8r,1b;2b,6r,3g;9r,1b,4g
+1 val
+2
+:8r,12g,2b;7g,8r,1b;2b,6r,3g;9r,1b,4g
+12 val
+g
+:8r,12g,2b;7g,8r,1b;2b,6r,3g;9r,1b,4g
+{'b': 0, 'g': 12, 'r': 8} MOST
+,
+:8r,12g,2b;7g,8r,1b;2b,6r,3g;9r,1b,4g
+2
+:8r,12g,2b;7g,8r,1b;2b,6r,3g;9r,1b,4g
+2 val
+b
+:8r,12g,2b;7g,8r,1b;2b,6r,3g;9r,1b,4g
+{'b': 2, 'g': 12, 'r': 8} MOST
+;
+:8r,12g,2b;7g,8r,1b;2b,6r,3g;9r,1b,4g
+{'b': 2, 'g': 12, 'r': 8} MOST
+7
+;7g,8r,1b;2b,6r,3g;9r,1b,4g
+7 val
+g
+;7g,8r,1b;2b,6r,3g;9r,1b,4g
+{'b': 2, 'g': 12, 'r': 8} MOST
+,
+;7g,8r,1b;2b,6r,3g;9r,1b,4g
+8
+;7g,8r,1b;2b,6r,3g;9r,1b,4g
+8 val
+r
+;7g,8r,1b;2b,6r,3g;9r,1b,4g
+{'b': 2, 'g': 12, 'r': 8} MOST
+,
+;7g,8r,1b;2b,6r,3g;9r,1b,4g
+1
+;7g,8r,1b;2b,6r,3g;9r,1b,4g
+1 val
+b
+;7g,8r,1b;2b,6r,3g;9r,1b,4g
+{'b': 2, 'g': 12, 'r': 8} MOST
+;
+;7g,8r,1b;2b,6r,3g;9r,1b,4g
+{'b': 2, 'g': 12, 'r': 8} MOST
+2
+9r,1b,4g
+2 val
+b
+9r,1b,4g
+{'b': 2, 'g': 12, 'r': 8} MOST
+,
+9r,1b,4g
+6
+9r,1b,4g
+6 val
+r
+9r,1b,4g
+{'b': 2, 'g': 12, 'r': 8} MOST
+,
+9r,1b,4g
+3
+9r,1b,4g
+3 val
+g
+9r,1b,4g
+{'b': 2, 'g': 12, 'r': 8} MOST
+;
+9r,1b,4g
+{'b': 2, 'g': 12, 'r': 8} MOST
+9
+
+9 val
+r
+
+{'b': 2, 'g': 12, 'r': 9} MOST
+,
+
+1
+
+1 val
+b
+
+{'b': 2, 'g': 12, 'r': 9} MOST
+,
+
+4
+
+4 val
+g
+
+{'b': 2, 'g': 12, 'r': 9} MOST
+{'b': 2, 'g': 12, 'r': 9}
+2 VAL
+1 CURR
+2 NEW
+{'b': 2, 'g': 12, 'r': 9}
+12 VAL
+2 CURR
+24 NEW
+{'b': 2, 'g': 12, 'r': 9}
+9 VAL
+24 CURR
+216 NEW
+216 CURR
+99:6b,11r,7g;9r,6g,1b;9r,2b
+ NEW GAME
+:
+:6b,11r,7g;9r,6g,1b;9r,2b
+6
+:6b,11r,7g;9r,6g,1b;9r,2b
+6 val
+b
+:6b,11r,7g;9r,6g,1b;9r,2b
+{'b': 6, 'g': 0, 'r': 0} MOST
+,
+:6b,11r,7g;9r,6g,1b;9r,2b
+1
+:6b,11r,7g;9r,6g,1b;9r,2b
+1 val
+1
+:6b,11r,7g;9r,6g,1b;9r,2b
+11 val
+r
+:6b,11r,7g;9r,6g,1b;9r,2b
+{'b': 6, 'g': 0, 'r': 11} MOST
+,
+:6b,11r,7g;9r,6g,1b;9r,2b
+7
+:6b,11r,7g;9r,6g,1b;9r,2b
+7 val
+g
+:6b,11r,7g;9r,6g,1b;9r,2b
+{'b': 6, 'g': 7, 'r': 11} MOST
+;
+:6b,11r,7g;9r,6g,1b;9r,2b
+{'b': 6, 'g': 7, 'r': 11} MOST
+9
+;9r,6g,1b;9r,2b
+9 val
+r
+;9r,6g,1b;9r,2b
+{'b': 6, 'g': 7, 'r': 11} MOST
+,
+;9r,6g,1b;9r,2b
+6
+;9r,6g,1b;9r,2b
+6 val
+g
+;9r,6g,1b;9r,2b
+{'b': 6, 'g': 7, 'r': 11} MOST
+,
+;9r,6g,1b;9r,2b
+1
+;9r,6g,1b;9r,2b
+1 val
+b
+;9r,6g,1b;9r,2b
+{'b': 6, 'g': 7, 'r': 11} MOST
+;
+;9r,6g,1b;9r,2b
+{'b': 6, 'g': 7, 'r': 11} MOST
+9
+
+9 val
+r
+
+{'b': 6, 'g': 7, 'r': 11} MOST
+,
+
+2
+
+2 val
+b
+
+{'b': 6, 'g': 7, 'r': 11} MOST
+{'b': 6, 'g': 7, 'r': 11}
+6 VAL
+1 CURR
+6 NEW
+{'b': 6, 'g': 7, 'r': 11}
+7 VAL
+6 CURR
+42 NEW
+{'b': 6, 'g': 7, 'r': 11}
+11 VAL
+42 CURR
+462 NEW
+462 CURR
+100:1r,4b,2g;6r,2g,11b;1r,1b,2g;1r,7b NEW GAME
+:
+:1r,4b,2g;6r,2g,11b;1r,1b,2g;1r,7b
+1
+:1r,4b,2g;6r,2g,11b;1r,1b,2g;1r,7b
+1 val
+r
+:1r,4b,2g;6r,2g,11b;1r,1b,2g;1r,7b
+{'b': 0, 'g': 0, 'r': 1} MOST
+,
+:1r,4b,2g;6r,2g,11b;1r,1b,2g;1r,7b
+4
+:1r,4b,2g;6r,2g,11b;1r,1b,2g;1r,7b
+4 val
+b
+:1r,4b,2g;6r,2g,11b;1r,1b,2g;1r,7b
+{'b': 4, 'g': 0, 'r': 1} MOST
+,
+:1r,4b,2g;6r,2g,11b;1r,1b,2g;1r,7b
+2
+:1r,4b,2g;6r,2g,11b;1r,1b,2g;1r,7b
+2 val
+g
+:1r,4b,2g;6r,2g,11b;1r,1b,2g;1r,7b
+{'b': 4, 'g': 2, 'r': 1} MOST
+;
+:1r,4b,2g;6r,2g,11b;1r,1b,2g;1r,7b
+{'b': 4, 'g': 2, 'r': 1} MOST
+6
+;6r,2g,11b;1r,1b,2g;1r,7b
+6 val
+r
+;6r,2g,11b;1r,1b,2g;1r,7b
+{'b': 4, 'g': 2, 'r': 6} MOST
+,
+;6r,2g,11b;1r,1b,2g;1r,7b
+2
+;6r,2g,11b;1r,1b,2g;1r,7b
+2 val
+g
+;6r,2g,11b;1r,1b,2g;1r,7b
+{'b': 4, 'g': 2, 'r': 6} MOST
+,
+;6r,2g,11b;1r,1b,2g;1r,7b
+1
+;6r,2g,11b;1r,1b,2g;1r,7b
+1 val
+1
+;6r,2g,11b;1r,1b,2g;1r,7b
+11 val
+b
+;6r,2g,11b;1r,1b,2g;1r,7b
+{'b': 11, 'g': 2, 'r': 6} MOST
+;
+;6r,2g,11b;1r,1b,2g;1r,7b
+{'b': 11, 'g': 2, 'r': 6} MOST
+1
+;1r,7b
+1 val
+r
+;1r,7b
+{'b': 11, 'g': 2, 'r': 6} MOST
+,
+;1r,7b
+1
+;1r,7b
+1 val
+b
+;1r,7b
+{'b': 11, 'g': 2, 'r': 6} MOST
+,
+;1r,7b
+2
+;1r,7b
+2 val
+g
+;1r,7b
+{'b': 11, 'g': 2, 'r': 6} MOST
+;
+;1r,7b
+{'b': 11, 'g': 2, 'r': 6} MOST
+1
+
+1 val
+r
+
+{'b': 11, 'g': 2, 'r': 6} MOST
+,
+
+7
+
+7 val
+b
+
+{'b': 11, 'g': 2, 'r': 6} MOST
+{'b': 11, 'g': 2, 'r': 6}
+11 VAL
+1 CURR
+11 NEW
+{'b': 11, 'g': 2, 'r': 6}
+2 VAL
+11 CURR
+22 NEW
+{'b': 11, 'g': 2, 'r': 6}
+6 VAL
+22 CURR
+132 NEW
+132 CURR
+[600, 672, 693, 20, 1360, 624, 420, 243, 576, 840, 315, 1440, 385, 408, 252, 80, 105, 1408, 2496, 110, 16, 280, 70, 120, 315, 640, 96, 30, 720, 918, 450, 1694, 2400, 162, 130, 1632, 36, 798, 720, 360, 840, 3040, 24, 1080, 144, 912, 330, 2160, 135, 175, 624, 1260, 8, 36, 238, 70, 98, 429, 1404, 168, 4760, 1056, 360, 605, 390, 462, 1680, 360, 150, 156, 624, 546, 2299, 96, 10, 360, 252, 90, 1824, 120, 112, 780, 2240, 2448, 90, 990, 24, 189, 648, 72, 476, 195, 2520, 150, 90, 1040, 480, 216, 462, 132]
+67363
